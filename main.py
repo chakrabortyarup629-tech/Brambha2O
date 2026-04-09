@@ -4,11 +4,12 @@ import os
 import random
 import time
 
+# ===== TOKEN =====
 API_TOKEN = os.getenv("BOT_TOKEN")
 bot = telebot.TeleBot(API_TOKEN)
 
 ADMIN_KEY = "Eshu2005aru"
-GROUP_ID = -1003746627836  # replace
+GROUP_ID = -1003746627836  # your group id
 
 # ===== DATA =====
 question_bank = {}
@@ -29,22 +30,33 @@ admin_chat_id = None
 
 # ===== LOAD QUESTIONS =====
 def load_questions():
-    with open("questions/biology.txt", "r", encoding="utf-8") as f:
-        text = f.read()
+    try:
+        with open("questions/biology.txt", "r", encoding="utf-8") as f:
+            text = f.read()
 
-    current_chapter = ""
+        current_chapter = ""
 
-    for block in text.split("\n\n"):
-        lines = block.strip().split("\n")
+        for block in text.split("\n\n"):
+            lines = block.strip().split("\n")
 
-        for line in lines:
-            if line.startswith("#chapter:"):
-                current_chapter = line.split(":")[1].strip()
+            for line in lines:
+                if line.startswith("#chapter:"):
+                    current_chapter = line.split(":")[1].strip()
 
-        if "Answer:" in block:
-            question_bank.setdefault("biology", {}).setdefault(current_chapter, []).append(block)
+            if "Answer:" in block:
+                question_bank.setdefault("biology", {}).setdefault(current_chapter, []).append(block)
+
+        print("Questions loaded ✅")
+
+    except Exception as e:
+        print("ERROR loading questions:", e)
 
 load_questions()
+
+# ===== START COMMAND =====
+@bot.message_handler(commands=['start'])
+def start(message):
+    bot.send_message(message.chat.id, "👋 Welcome!\nUse /admin to start quiz 🔐")
 
 # ===== ADMIN LOGIN =====
 @bot.message_handler(commands=['admin'])
@@ -186,7 +198,6 @@ def send_poll(block, timer):
     )
 
     poll_id = poll.poll.id
-
     poll_correct_answers[poll_id] = idx
     poll_answers_count[poll_id] = 0
     poll_active[poll_id] = True
@@ -210,93 +221,23 @@ def start_quiz(message):
         while True:
             if not poll_active.get(poll_id, True):
                 break
-
             if poll_answers_count.get(poll_id, 0) >= MIN_RESPONSES:
                 break
-
             if time.time() - start > data['timer']:
                 break
-
             time.sleep(1)
 
     bot.send_message(GROUP_ID, "🏁 Quiz Finished!\nType /leaderboard")
 
-# ===== ANSWER TRACKING =====
-@bot.poll_answer_handler()
-def handle_answer(poll_answer):
-    user_id = poll_answer.user.id
-    name = poll_answer.user.first_name
-    selected = poll_answer.option_ids[0]
-    poll_id = poll_answer.poll_id
-
-    if poll_id in poll_answers_count:
-        poll_answers_count[poll_id] += 1
-
-        if admin_chat_id:
-            bot.send_message(admin_chat_id, f"📊 Answers: {poll_answers_count[poll_id]}")
-
-    if user_id not in user_scores:
-        user_scores[user_id] = {
-            "name": name,
-            "correct": 0,
-            "wrong": 0,
-            "attempted": 0,
-            "score": 0
-        }
-
-    user_scores[user_id]["attempted"] += 1
-
-    if poll_id in poll_correct_answers:
-        if selected == poll_correct_answers[poll_id]:
-            user_scores[user_id]["correct"] += 1
-            user_scores[user_id]["score"] += 1
-        else:
-            user_scores[user_id]["wrong"] += 1
-            user_scores[user_id]["score"] -= 0.5
-
-# ===== ADMIN COMMANDS =====
-@bot.message_handler(commands=['setmin'])
-def set_min(message):
-    global MIN_RESPONSES
-    try:
-        MIN_RESPONSES = int(message.text.split()[1])
-        bot.send_message(message.chat.id, f"✅ Min answers set: {MIN_RESPONSES}")
-    except:
-        bot.send_message(message.chat.id, "Usage: /setmin 5")
-
-@bot.message_handler(commands=['close'])
-def close_poll(message):
-    for p in poll_active:
-        poll_active[p] = False
-    bot.send_message(message.chat.id, "⛔ Question closed")
-
-# ===== LEADERBOARD =====
-@bot.message_handler(commands=['leaderboard'])
-def leaderboard(message):
-    if not user_scores:
-        return bot.send_message(message.chat.id, "No data")
-
-    sorted_users = sorted(user_scores.values(), key=lambda x: x["score"], reverse=True)
-
-    text = "🏆 FINAL SCORECARD 🏆\n\n"
-
-    for i, u in enumerate(sorted_users[:10], 1):
-        acc = (u["correct"] / u["attempted"] * 100) if u["attempted"] else 0
-
-        text += (
-            f"{i}. {u['name']}\n"
-            f"✔ {u['correct']} ❌ {u['wrong']}\n"
-            f"📊 Attempted: {u['attempted']}\n"
-            f"🎯 Score: {u['score']}\n"
-            f"📈 Accuracy: {acc:.1f}%\n\n"
-        )
-
-    bot.send_message(message.chat.id, text)
+# ===== DEBUG HANDLER =====
+@bot.message_handler(func=lambda m: True)
+def debug_all(message):
+    print("Received:", message.text)
 
 # ===== RUN =====
 print("Bot Running...")
 
-bot.remove_webhook()   # 🔥 VERY IMPORTANT
+bot.remove_webhook()
 time.sleep(2)
 
 bot.polling(none_stop=True, interval=0, timeout=20)

@@ -2437,3 +2437,671 @@ B) Heart attack (হার্ট অ্যাটাক)
 C) Fever (জ্বর)
 D) Diabetes (ডায়াবেটিস)
 Answer: B
+
+#chapter: Excretory System
+
+Excretion is the process of: (উৎসর্জন কী প্রক্রিয়া?)
+A) Food digestion (খাদ্য হজম)
+B) Removal of waste (বর্জ্য অপসারণ)
+C) Breathing (শ্বাস নেওয়া)
+D) Movement (গতি)
+Answer: B
+
+Which of the following is nitrogenous waste? (নিম্নের কোনটি নাইট্রোজেনযুক্ত বর্জ্য?)
+A) CO₂ (কার্বন ডাইঅক্সাইড)
+B) Oxygen (অক্সিজেন)
+C) Urea (ইউরিয়া)
+D) Glucose (গ্লুকোজ)
+Answer: C
+
+Which is NOT nitrogenous waste? (কোনটি নাইট্রোজেনযুক্ত বর্জ্য নয়?)
+A) Ammonia (অ্যামোনিয়া)
+B) Uric acid (ইউরিক অ্যাসিড)
+C) Urea (ইউরিয়া)
+D) Carbon dioxide (কার্বন ডাইঅক্সাইড)
+Answer: D
+
+Ammonia is: (অ্যামোনিয়া কেমন?)
+A) Least toxic (কম বিষাক্ত)
+B) Highly toxic (অত্যন্ত বিষাক্ত)
+C) Non-toxic (অবিষাক্ত)
+D) Solid waste (ঠোস বর্জ্য)
+Answer: B
+
+Animals excreting ammonia are: (যে প্রাণীরা অ্যামোনিয়া ত্যাগ করে?)
+A) Birds (পাখি)
+B) Mammals (স্তন্যপায়ী)
+C) Fishes (মাছ)
+D) Reptiles (সরীসৃপ)
+Answer: C
+
+Urea is formed in: (ইউরিয়া কোথায় তৈরি হয়?)
+A) Kidney (কিডনি)
+B) Liver (যকৃত)
+C) Heart (হৃদয়)
+D) Lung (ফুসফুস)
+Answer: B
+
+Urea cycle occurs in: (ইউরিয়া চক্র কোথায় হয়?)
+A) Pancreas (অগ্ন্যাশয়)
+B) Kidney (কিডনি)
+C) Liver (যকৃত)
+D) Brain (মস্তিষ্ক)
+Answer: C
+
+Animals excreting urea are: (যে প্রাণীরা ইউরিয়া ত্যাগ করে?)
+A) Fish (মাছ)
+B) Mammals (স্তন্যপায়ী)
+C) Insects (পোকা)
+D) Birds (পাখি)
+Answer: B
+
+Uric acid is: (ইউরিক অ্যাসিড কেমন?)
+A) Highly toxic (অত্যন্ত বিষাক্ত)
+B) Moderate toxic (মধ্যম বিষাক্ত)
+C) Least toxic (সর্বনিম্ন বিষাক্ত)
+D) Gas (গ্যাস)
+Answer: C
+
+Birds are: (পাখি কী ধরনের?)
+A) Ammonotelic (অ্যামোনোটেলিক)
+B) Ureotelic (ইউরিওটেলিক)
+C) Uricotelic (ইউরিকোটেলিক)
+D) None (কোনোটিই নয়)
+Answer: C
+
+Main organ of excretion in humans: (মানুষের প্রধান উৎসর্জন অঙ্গ?)
+A) Liver (যকৃত)
+B) Kidney (কিডনি)
+C) Lung (ফুসফুস)
+D) Skin (ত্বক)
+Answer: B
+
+Human excretory system includes: (মানব উৎসর্জন তন্ত্রে কী থাকে?)
+A) Brain, heart (মস্তিষ্ক, হৃদয়)
+B) Kidney, ureter, bladder, urethra (কিডনি, ইউরেটার, মূত্রাশয়, ইউরেথ্রা)
+C) Liver, pancreas (যকৃত, অগ্ন্যাশয়)
+D) Lung, intestine (ফুসফুস, অন্ত্র)
+Answer: B
+
+Number of kidneys in human: (মানুষের কিডনি কয়টি?)
+A) One (একটি)
+B) Two (দুটি)
+C) Three (তিনটি)
+D) Four (চারটি)
+Answer: B
+
+Ureter connects: (ইউরেটার কী সংযোগ করে?)
+A) Kidney to bladder (কিডনি থেকে মূত্রাশয়)
+B) Bladder to outside (মূত্রাশয় থেকে বাইরে)
+C) Kidney to heart (কিডনি থেকে হৃদয়)
+D) Liver to kidney (যকৃত থেকে কিডনি)
+Answer: A
+
+Urethra function: (ইউরেথ্রার কাজ কী?)
+A) Store urine (মূত্র সঞ্চয়)
+B) Carry urine outside (মূত্র বাইরে নিয়ে যায়)
+C) Form urine (মূত্র তৈরি)
+D) Filter blood (রক্ত ছাঁকা)
+Answer: B
+
+Urinary bladder function: (মূত্রাশয়ের কাজ কী?)
+A) Formation (তৈরি)
+B) Storage (সঞ্চয়)
+C) Filtration (পরিস্রবণ)
+D) Digestion (হজম)
+Answer: B
+
+Filtration unit of kidney: (কিডনির পরিস্রবণ একক?)
+A) Neuron (নিউরন)
+B) Nephron (নেফ্রন)
+C) Tubule (নালিকা)
+D) Glomerulus (গ্লোমেরুলাস)
+Answer: B
+
+Bowman’s capsule is found in: (বোম্যান ক্যাপসুল কোথায় থাকে?)
+A) Liver (যকৃত)
+B) Kidney (কিডনি)
+C) Heart (হৃদয়)
+D) Lung (ফুসফুস)
+Answer: B
+
+Glomerulus is: (গ্লোমেরুলাস কী?)
+A) Nerve cell (স্নায়ু কোষ)
+B) Capillary network (কেশিকাজাল)
+C) Muscle (পেশি)
+D) Tissue (টিস্যু)
+Answer: B
+
+First step of urine formation: (মূত্র তৈরির প্রথম ধাপ?)
+A) Reabsorption (পুনঃঅবশোষণ)
+B) Filtration (পরিস্রবণ)
+C) Secretion (নিঃসরণ)
+D) Storage (সঞ্চয়)
+Answer: B
+
+Selective reabsorption occurs in: (নির্বাচিত পুনঃঅবশোষণ কোথায় হয়?)
+A) Tubule (নালিকা)
+B) Heart (হৃদয়)
+C) Liver (যকৃত)
+D) Lung (ফুসফুস)
+Answer: A
+
+Which is reabsorbed? (কোনটি পুনঃঅবশোষিত হয়?)
+A) Urea (ইউরিয়া)
+B) Glucose (গ্লুকোজ)
+C) Ammonia (অ্যামোনিয়া)
+D) CO₂ (কার্বন ডাইঅক্সাইড)
+Answer: B
+
+Nephron number in each kidney: (প্রতি কিডনিতে নেফ্রনের সংখ্যা?)
+A) 1000 (১০০০)
+B) 10,000 (১০,০০০)
+C) 1–1.5 million (১০–১৫ লাখ)
+D) 5 million (৫০ লাখ)
+Answer: C
+
+Outer part of kidney: (কিডনির বাইরের অংশ?)
+A) Medulla (মেডুলা)
+B) Cortex (কর্টেক্স)
+C) Pelvis (পেলভিস)
+D) Nephron (নেফ্রন)
+Answer: B
+
+Inner part of kidney: (কিডনির ভেতরের অংশ?)
+A) Cortex (কর্টেক্স)
+B) Medulla (মেডুলা)
+C) Pelvis (পেলভিস)
+D) Capsule (ক্যাপসুল)
+Answer: B
+
+Pelvis function: (পেলভিসের কাজ?)
+A) Blood filter (রক্ত ছাঁকা)
+B) Urine collection (মূত্র সংগ্রহ)
+C) Hormone release (হরমোন নিঃসরণ)
+D) Digestion (হজম)
+Answer: B
+
+Artificial kidney process: (কৃত্রিম কিডনি প্রক্রিয়া?)
+A) Transplant (প্রতিস্থাপন)
+B) Dialysis (ডায়ালাইসিস)
+C) Filtration (পরিস্রবণ)
+D) Respiration (শ্বসন)
+Answer: B
+
+Dialysis removes: (ডায়ালাইসিস কী অপসারণ করে?)
+A) Oxygen (অক্সিজেন)
+B) Waste (বর্জ্য)
+C) Protein (প্রোটিন)
+D) Vitamin (ভিটামিন)
+Answer: B
+
+Urea removal in dialysis by: (ডায়ালাইসিসে ইউরিয়া অপসারণ হয়?)
+A) Diffusion (বিসরণ)
+B) Osmosis (অস্মোসিস)
+C) Filtration (পরিস্রবণ)
+D) Active transport (সক্রিয় পরিবহন)
+Answer: C
+
+Yellow color of urine due to: (মূত্রের হলুদ রঙ কেন?)
+A) Hemoglobin (হিমোগ্লোবিন)
+B) Urochrome (ইউরোক্রোম)
+C) Chlorophyll (ক্লোরোফিল)
+D) Bile (পিত্ত)
+Answer: B
+
+Water percentage in urine: (মূত্রে জলের পরিমাণ?)
+A) 70% (৭০%)
+B) 80% (৮০%)
+C) 95% (৯৫%)
+D) 60% (৬০%)
+Answer: C
+
+Urea percentage in urine: (মূত্রে ইউরিয়ার পরিমাণ?)
+A) 10% (১০%)
+B) 5% (৫%)
+C) 2–2.5% (২–২.৫%)
+D) 20% (২০%)
+Answer: C
+
+Maximum urine storage (male): (পুরুষে সর্বোচ্চ মূত্র ধারণ?)
+A) 500 ml (৫০০ মি.লি.)
+B) 600 ml (৬০০ মি.লি.)
+C) 800 ml (৮০০ মি.লি.)
+D) 1000 ml (১০০০ মি.লি.)
+Answer: C
+
+Urethra length (male): (পুরুষে ইউরেথ্রার দৈর্ঘ্য?)
+A) 5–7 cm (৫–৭ সেমি)
+B) 10–12 cm (১০–১২ সেমি)
+C) 18–20 cm (১৮–২০ সেমি)
+D) 25–30 cm (২৫–৩০ সেমি)
+Answer: C
+
+Urethra length (female): (মহিলায় ইউরেথ্রার দৈর্ঘ্য?)
+A) 10–15 cm (১০–১৫ সেমি)
+B) 3–5 cm (৩–৫ সেমি)
+C) 15–20 cm (১৫–২০ সেমি)
+D) 8–10 cm (৮–১০ সেমি)
+Answer: B
+
+Which connects kidney to bladder? (কিডনি থেকে মূত্রাশয় সংযোগ করে?)
+A) Urethra (ইউরেথ্রা)
+B) Ureter (ইউরেটার)
+C) Nephron (নেফ্রন)
+D) Pelvis (পেলভিস)
+Answer: B
+
+Correct order of excretion: (সঠিক ক্রম?)
+A) Kidney → bladder → ureter → urethra
+B) Kidney → ureter → bladder → urethra
+C) Bladder → kidney → ureter → urethra
+D) Ureter → kidney → bladder → urethra
+Answer: B
+
+Function of kidney: (কিডনির কাজ?)
+A) Pump blood (রক্ত পাম্প)
+B) Filter blood (রক্ত ছাঁকা)
+C) Digest food (খাদ্য হজম)
+D) Control brain (মস্তিষ্ক নিয়ন্ত্রণ)
+Answer: B
+
+Nephrology is study of: (নেফ্রোলজি কী অধ্যয়ন?)
+A) Heart (হৃদয়)
+B) Kidney (কিডনি)
+C) Brain (মস্তিষ্ক)
+D) Lung (ফুসফুস)
+Answer: B
+
+Which organ converts ammonia into urea? (কোন অঙ্গ অ্যামোনিয়াকে ইউরিয়ায় রূপান্তর করে?)
+A) Kidney (কিডনি)
+B) Liver (যকৃত)
+C) Lung (ফুসফুস)
+D) Heart (হৃদয়)
+Answer: B
+
+Which blood vessel has maximum urea? (কোন রক্তনালীতে ইউরিয়া বেশি থাকে?)
+A) Renal artery (রেনাল ধমনী)
+B) Hepatic vein (হেপাটিক শিরা)
+C) Renal vein (রেনাল শিরা)
+D) Aorta (মহাধমনী)
+Answer: A
+
+Ammonotelic animals require: (অ্যামোনোটেলিক প্রাণীর কী প্রয়োজন?)
+A) Less water (কম জল)
+B) Moderate water (মাঝারি জল)
+C) More water (বেশি জল)
+D) No water (জল লাগে না)
+Answer: C
+
+Ureotelic animals are: (ইউরিওটেলিক প্রাণী কারা?)
+A) Birds (পাখি)
+B) Reptiles (সরীসৃপ)
+C) Mammals (স্তন্যপায়ী)
+D) Insects (পোকা)
+Answer: C
+
+Uricotelic animals excrete: (ইউরিকোটেলিক প্রাণী কী ত্যাগ করে?)
+A) Urea (ইউরিয়া)
+B) Ammonia (অ্যামোনিয়া)
+C) Uric acid (ইউরিক অ্যাসিড)
+D) CO₂ (কার্বন ডাইঅক্সাইড)
+Answer: C
+
+Which requires least water? (কোনটির জন্য কম জল লাগে?)
+A) Ammonia (অ্যামোনিয়া)
+B) Urea (ইউরিয়া)
+C) Uric acid (ইউরিক অ্যাসিড)
+D) Glucose (গ্লুকোজ)
+Answer: C
+
+Which is semi-solid waste? (কোনটি আধা-ঠোস বর্জ্য?)
+A) Ammonia (অ্যামোনিয়া)
+B) Urea (ইউরিয়া)
+C) Uric acid (ইউরিক অ্যাসিড)
+D) CO₂ (কার্বন ডাইঅক্সাইড)
+Answer: C
+
+Which structure filters blood? (কোন গঠন রক্ত ছেঁকে?)
+A) Tubule (নালিকা)
+B) Glomerulus (গ্লোমেরুলাস)
+C) Ureter (ইউরেটার)
+D) Bladder (মূত্রাশয়)
+Answer: B
+
+Where does filtrate collect first? (প্রথমে ফিল্ট্রেট কোথায় জমা হয়?)
+A) Tubule (নালিকা)
+B) Bowman’s capsule (বোম্যান ক্যাপসুল)
+C) Pelvis (পেলভিস)
+D) Ureter (ইউরেটার)
+Answer: B
+
+Which part reabsorbs glucose? (কোন অংশ গ্লুকোজ পুনঃঅবশোষণ করে?)
+A) Ureter (ইউরেটার)
+B) Tubule (নালিকা)
+C) Bladder (মূত্রাশয়)
+D) Urethra (ইউরেথ্রা)
+Answer: B
+
+Loop of Henle function: (লুপ অফ হেনলের কাজ?)
+A) Filtration (পরিস্রবণ)
+B) Concentration of urine (মূত্র ঘন করা)
+C) Storage (সংগ্রহ)
+D) Transport (পরিবহন)
+Answer: B
+
+Distal tubule function: (ডিস্টাল টিউবিউলের কাজ?)
+A) Filtration (পরিস্রবণ)
+B) Reabsorption (পুনঃঅবশোষণ)
+C) Storage (সংগ্রহ)
+D) Pumping (পাম্পিং)
+Answer: B
+
+Collecting duct function: (সংগ্রহ নালির কাজ?)
+A) Store urine (সংরক্ষণ)
+B) Collect urine (সংগ্রহ)
+C) Filter blood (রক্ত ছাঁকা)
+D) Produce hormone (হরমোন তৈরি)
+Answer: B
+
+Which ion helps in clotting and also present in urine? (কোন আয়ন জমাট বাঁধা ও মূত্রে থাকে?)
+A) Calcium (ক্যালসিয়াম)
+B) Iron (লোহা)
+C) Zinc (জিঙ্ক)
+D) Iodine (আয়োডিন)
+Answer: A
+
+Which waste from protein metabolism? (প্রোটিন থেকে কোন বর্জ্য তৈরি হয়?)
+A) Urea (ইউরিয়া)
+B) Glucose (গ্লুকোজ)
+C) Fat (চর্বি)
+D) Vitamin (ভিটামিন)
+Answer: A
+
+Which pigment gives urine color? (কোন রঞ্জক মূত্রের রঙ দেয়?)
+A) Hemoglobin (হিমোগ্লোবিন)
+B) Urochrome (ইউরোক্রোম)
+C) Melanin (মেলানিন)
+D) Chlorophyll (ক্লোরোফিল)
+Answer: B
+
+Nephron is: (নেফ্রন কী?)
+A) Functional unit (কার্যকরী একক)
+B) Tissue (টিস্যু)
+C) Organ (অঙ্গ)
+D) Cell (কোষ)
+Answer: A
+
+Which connects bladder to outside? (মূত্রাশয় থেকে বাইরে সংযোগ?)
+A) Ureter (ইউরেটার)
+B) Urethra (ইউরেথ্রা)
+C) Tubule (নালিকা)
+D) Nephron (নেফ্রন)
+Answer: B
+
+Which removes waste artificially? (কৃত্রিমভাবে বর্জ্য অপসারণ?)
+A) Transplant (প্রতিস্থাপন)
+B) Dialysis (ডায়ালাইসিস)
+C) Respiration (শ্বসন)
+D) Circulation (সঞ্চালন)
+Answer: B
+
+Dialysis uses: (ডায়ালাইসিসে কী ব্যবহৃত হয়?)
+A) Heat (তাপ)
+B) Membrane (ঝিল্লি)
+C) Pressure (চাপ)
+D) Light (আলো)
+Answer: B
+
+Which substance is NOT reabsorbed? (কোনটি পুনঃঅবশোষিত হয় না?)
+A) Glucose (গ্লুকোজ)
+B) Water (জল)
+C) Urea (ইউরিয়া)
+D) Amino acids (অ্যামিনো অ্যাসিড)
+Answer: C
+
+Which part stores urine temporarily? (কোন অংশ সাময়িক মূত্র সঞ্চয় করে?)
+A) Kidney (কিডনি)
+B) Ureter (ইউরেটার)
+C) Bladder (মূত্রাশয়)
+D) Tubule (নালিকা)
+Answer: C
+
+Which part carries urine from kidney? (কিডনি থেকে মূত্র বহন করে?)
+A) Urethra (ইউরেথ্রা)
+B) Ureter (ইউরেটার)
+C) Bladder (মূত্রাশয়)
+D) Pelvis (পেলভিস)
+Answer: B
+
+Which process removes excess salts? (কোন প্রক্রিয়া অতিরিক্ত লবণ সরায়?)
+A) Digestion (হজম)
+B) Excretion (উৎসর্জন)
+C) Respiration (শ্বসন)
+D) Circulation (সঞ্চালন)
+Answer: B
+
+Kidney shape is: (কিডনির আকৃতি কেমন?)
+A) Round (গোলাকার)
+B) Bean-shaped (শিমের মতো)
+C) Oval (ডিম্বাকার)
+D) Flat (সমতল)
+Answer: B
+
+Nephrologist studies: (নেফ্রোলজিস্ট কী অধ্যয়ন করেন?)
+A) Heart (হৃদয়)
+B) Kidney (কিডনি)
+C) Brain (মস্তিষ্ক)
+D) Lung (ফুসফুস)
+Answer: B
+
+Which is NOT part of excretory system? (কোনটি উৎসর্জন তন্ত্রের অংশ নয়?)
+A) Kidney (কিডনি)
+B) Ureter (ইউরেটার)
+C) Lung (ফুসফুস)
+D) Bladder (মূত্রাশয়)
+Answer: C
+
+Which substance is mainly excreted by kidney? (কিডনি প্রধানত কোন পদার্থ ত্যাগ করে?)
+A) Oxygen (অক্সিজেন)
+B) Urea (ইউরিয়া)
+C) Glucose (গ্লুকোজ)
+D) Protein (প্রোটিন)
+Answer: B
+
+Which organ excretes CO₂? (কোন অঙ্গ CO₂ ত্যাগ করে?)
+A) Kidney (কিডনি)
+B) Liver (যকৃত)
+C) Lung (ফুসফুস)
+D) Skin (ত্বক)
+Answer: C
+
+Which organ removes excess salt and water? (কোন অঙ্গ অতিরিক্ত লবণ ও জল অপসারণ করে?)
+A) Liver (যকৃত)
+B) Kidney (কিডনি)
+C) Heart (হৃদয়)
+D) Brain (মস্তিষ্ক)
+Answer: B
+
+Sweat contains: (ঘামে কী থাকে?)
+A) Only water (শুধু জল)
+B) Water and salts (জল ও লবণ)
+C) Only glucose (শুধু গ্লুকোজ)
+D) Only protein (শুধু প্রোটিন)
+Answer: B
+
+Skin acts as: (ত্বক কী হিসেবে কাজ করে?)
+A) Digestive organ (হজম অঙ্গ)
+B) Excretory organ (উৎসর্জন অঙ্গ)
+C) Respiratory organ (শ্বসন অঙ্গ)
+D) Circulatory organ (সঞ্চালন অঙ্গ)
+Answer: B
+
+Which waste is excreted by lungs? (ফুসফুস কোন বর্জ্য ত্যাগ করে?)
+A) Urea (ইউরিয়া)
+B) CO₂ (কার্বন ডাইঅক্সাইড)
+C) Ammonia (অ্যামোনিয়া)
+D) Glucose (গ্লুকোজ)
+Answer: B
+
+Which organ excretes bile pigments? (কোন অঙ্গ পিত্ত রঞ্জক ত্যাগ করে?)
+A) Kidney (কিডনি)
+B) Liver (যকৃত)
+C) Lung (ফুসফুস)
+D) Heart (হৃদয়)
+Answer: B
+
+Which waste is removed through sweat? (ঘামের মাধ্যমে কোন বর্জ্য বের হয়?)
+A) Urea (ইউরিয়া)
+B) Glucose (গ্লুকোজ)
+C) Protein (প্রোটিন)
+D) Vitamin (ভিটামিন)
+Answer: A
+
+Which disease is related to kidney failure? (কিডনি বিকলতার সাথে কোন রোগ যুক্ত?)
+A) Diabetes (ডায়াবেটিস)
+B) Uremia (ইউরেমিয়া)
+C) Goitre (গয়টার)
+D) Asthma (অ্যাজমা)
+Answer: B
+
+Excess urea in blood causes: (রক্তে ইউরিয়া বেশি হলে কী হয়?)
+A) Hypertension (উচ্চ রক্তচাপ)
+B) Uremia (ইউরেমিয়া)
+C) Diabetes (ডায়াবেটিস)
+D) Fever (জ্বর)
+Answer: B
+
+Kidney failure leads to: (কিডনি বিকল হলে কী হয়?)
+A) Respiration stops (শ্বসন বন্ধ)
+B) Waste accumulation (বর্জ্য জমা)
+C) Digestion stops (হজম বন্ধ)
+D) Blood stops (রক্ত বন্ধ)
+Answer: B
+
+Which process helps in water balance? (জলের ভারসাম্য রক্ষায় কোন প্রক্রিয়া সাহায্য করে?)
+A) Digestion (হজম)
+B) Excretion (উৎসর্জন)
+C) Circulation (সঞ্চালন)
+D) Respiration (শ্বসন)
+Answer: B
+
+Which hormone controls urine formation? (কোন হরমোন মূত্র তৈরি নিয়ন্ত্রণ করে?)
+A) Insulin (ইনসুলিন)
+B) ADH (এডিএইচ)
+C) Thyroxine (থাইরক্সিন)
+D) Estrogen (এস্ট্রোজেন)
+Answer: B
+
+ADH acts on: (ADH কোথায় কাজ করে?)
+A) Heart (হৃদয়)
+B) Kidney (কিডনি)
+C) Liver (যকৃত)
+D) Lung (ফুসফুস)
+Answer: B
+
+Less ADH causes: (ADH কম হলে কী হয়?)
+A) Less urine (কম মূত্র)
+B) More urine (বেশি মূত্র)
+C) No urine (মূত্র নেই)
+D) Thick urine (ঘন মূত্র)
+Answer: B
+
+More ADH causes: (ADH বেশি হলে কী হয়?)
+A) More urine (বেশি মূত্র)
+B) Less urine (কম মূত্র)
+C) No urine (মূত্র নেই)
+D) No effect (কোন প্রভাব নেই)
+Answer: B
+
+Which organ helps detoxification? (কোন অঙ্গ বিষমুক্ত করতে সাহায্য করে?)
+A) Liver (যকৃত)
+B) Kidney (কিডনি)
+C) Brain (মস্তিষ্ক)
+D) Heart (হৃদয়)
+Answer: A
+
+Which waste is excreted by liver? (যকৃত কোন বর্জ্য ত্যাগ করে?)
+A) Urea (ইউরিয়া)
+B) Bile pigments (পিত্ত রঞ্জক)
+C) CO₂ (কার্বন ডাইঅক্সাইড)
+D) Water (জল)
+Answer: B
+
+Which process removes nitrogen waste? (কোন প্রক্রিয়া নাইট্রোজেন বর্জ্য অপসারণ করে?)
+A) Digestion (হজম)
+B) Respiration (শ্বসন)
+C) Excretion (উৎসর্জন)
+D) Circulation (সঞ্চালন)
+Answer: C
+
+Which organ regulates pH of blood? (কোন অঙ্গ রক্তের pH নিয়ন্ত্রণ করে?)
+A) Heart (হৃদয়)
+B) Kidney (কিডনি)
+C) Liver (যকৃত)
+D) Skin (ত্বক)
+Answer: B
+
+Which structure prevents protein loss? (কোন গঠন প্রোটিন বের হতে বাধা দেয়?)
+A) Glomerulus (গ্লোমেরুলাস)
+B) Bowman’s capsule (বোম্যান ক্যাপসুল)
+C) Filtration barrier (পরিস্রবণ প্রতিবন্ধক)
+D) Tubule (নালিকা)
+Answer: C
+
+Which disease is due to kidney stone? (কিডনি পাথরের রোগ কোনটি?)
+A) Nephritis (নেফ্রাইটিস)
+B) Renal calculi (রেনাল ক্যালকুলি)
+C) Uremia (ইউরেমিয়া)
+D) Diabetes (ডায়াবেটিস)
+Answer: B
+
+Kidney stone formed by: (কিডনি পাথর কী দিয়ে তৈরি?)
+A) Protein (প্রোটিন)
+B) Calcium salts (ক্যালসিয়াম লবণ)
+C) Glucose (গ্লুকোজ)
+D) Fat (চর্বি)
+Answer: B
+
+Which organ produces urine? (কোন অঙ্গ মূত্র তৈরি করে?)
+A) Liver (যকৃত)
+B) Kidney (কিডনি)
+C) Bladder (মূত্রাশয়)
+D) Ureter (ইউরেটার)
+Answer: B
+
+Which part stores urine before excretion? (মূত্র নির্গমনের আগে কোথায় সঞ্চিত থাকে?)
+A) Kidney (কিডনি)
+B) Bladder (মূত্রাশয়)
+C) Ureter (ইউরেটার)
+D) Tubule (নালিকা)
+Answer: B
+
+Which process forms urine? (মূত্র তৈরি প্রক্রিয়া কী?)
+A) Digestion (হজম)
+B) Filtration + reabsorption (পরিস্রবণ + পুনঃঅবশোষণ)
+C) Respiration (শ্বসন)
+D) Circulation (সঞ্চালন)
+Answer: B
+
+Which part carries urine outside body? (মূত্র শরীরের বাইরে নিয়ে যায়?)
+A) Ureter (ইউরেটার)
+B) Urethra (ইউরেথ্রা)
+C) Kidney (কিডনি)
+D) Pelvis (পেলভিস)
+Answer: B
+
+Which organ maintains internal balance? (কোন অঙ্গ অভ্যন্তরীণ ভারসাম্য বজায় রাখে?)
+A) Heart (হৃদয়)
+B) Kidney (কিডনি)
+C) Brain (মস্তিষ্ক)
+D) Lung (ফুসফুস)
+Answer: B
+
+Which term refers to balance of body fluids? (শরীরের তরল ভারসাম্যকে কী বলে?)
+A) Metabolism (বিপাক)
+B) Homeostasis (হোমিওস্ট্যাসিস)
+C) Respiration (শ্বসন)
+D) Circulation (সঞ্চালন)
+Answer: B
+

@@ -3624,3 +3624,467 @@ B) Medulla (মেডুলা)
 C) Cerebrum (সেরিব্রাম)
 D) Thalamus (থ্যালামাস)
 Answer: B
+
+#chapter: Endocrine System
+
+What is a gland? (গ্রন্থি কী?)
+A) Structure that stores blood (রক্ত সংরক্ষণকারী গঠন)
+B) Structure that produces substances (পদার্থ উৎপাদনকারী গঠন)
+C) Structure for movement (চলাচলের গঠন)
+D) Structure for digestion only (শুধু হজমের গঠন)
+Answer: B
+
+Endocrine glands secrete into: (অন্তঃস্রাবী গ্রন্থি কোথায় স্রাব করে?)
+A) Blood (রক্তে)
+B) Duct (নালিতে)
+C) Skin (ত্বকে)
+D) Intestine (আন্ত্রে)
+Answer: A
+
+Exocrine glands release through: (বহিঃস্রাবী গ্রন্থি কী মাধ্যমে স্রাব করে?)
+A) Blood (রক্ত)
+B) Nerves (স্নায়ু)
+C) Ducts (নালি)
+D) Bones (অস্থি)
+Answer: C
+
+Mixed gland example: (মিশ্র গ্রন্থির উদাহরণ?)
+A) Thyroid (থাইরয়েড)
+B) Liver (যকৃত)
+C) Pancreas (অগ্ন্যাশয়)
+D) Pituitary (পিটুইটারি)
+Answer: C
+
+Hormone is: (হরমোন কী?)
+A) Protein food (প্রোটিন খাদ্য)
+B) Chemical messenger (রাসায়নিক বার্তাবাহক)
+C) Vitamin (ভিটামিন)
+D) Enzyme only (শুধু এনজাইম)
+Answer: B
+
+Hormones are secreted into: (হরমোন কোথায় স্রাব হয়?)
+A) Nerves (স্নায়ু)
+B) Blood (রক্ত)
+C) Bones (অস্থি)
+D) Skin (ত্বক)
+Answer: B
+
+Which gland is in brain? (কোন গ্রন্থি মস্তিষ্কে থাকে?)
+A) Thyroid (থাইরয়েড)
+B) Pituitary (পিটুইটারি)
+C) Pancreas (অগ্ন্যাশয়)
+D) Adrenal (অ্যাড্রেনাল)
+Answer: B
+
+Master gland is: (মাস্টার গ্রন্থি কোনটি?)
+A) Thyroid (থাইরয়েড)
+B) Adrenal (অ্যাড্রেনাল)
+C) Pituitary (পিটুইটারি)
+D) Pineal (পাইনিয়াল)
+Answer: C
+
+Pineal gland secretes: (পাইনিয়াল গ্রন্থি কী স্রাব করে?)
+A) Insulin (ইনসুলিন)
+B) Thyroxine (থাইরক্সিন)
+C) Melatonin (মেলাটোনিন)
+D) Cortisol (কর্টিসল)
+Answer: C
+
+Melatonin controls: (মেলাটোনিন কী নিয়ন্ত্রণ করে?)
+A) Growth (বৃদ্ধি)
+B) Sleep cycle (ঘুম-জাগরণ চক্র)
+C) Blood sugar (রক্ত শর্করা)
+D) BP (রক্তচাপ)
+Answer: B
+
+Thyroid gland is located in: (থাইরয়েড কোথায় থাকে?)
+A) Brain (মস্তিষ্ক)
+B) Neck (গলা)
+C) Chest (বুক)
+D) Abdomen (পেট)
+Answer: B
+
+Thyroid controls: (থাইরয়েড কী নিয়ন্ত্রণ করে?)
+A) Digestion (হজম)
+B) Metabolism (বিপাক)
+C) Breathing (শ্বাস)
+D) Blood flow (রক্ত প্রবাহ)
+Answer: B
+
+Iodine deficiency causes: (আয়োডিনের অভাবে কী হয়?)
+A) Diabetes (ডায়াবেটিস)
+B) Goitre (গয়টার)
+C) Asthma (অ্যাজমা)
+D) Cancer (ক্যান্সার)
+Answer: B
+
+Thyroxine hormone needs: (থাইরক্সিন তৈরিতে কী লাগে?)
+A) Iron (লোহা)
+B) Zinc (জিঙ্ক)
+C) Iodine (আয়োডিন)
+D) Calcium (ক্যালসিয়াম)
+Answer: C
+
+Which hormone lowers calcium? (কোন হরমোন ক্যালসিয়াম কমায়?)
+A) Insulin (ইনসুলিন)
+B) Calcitonin (ক্যালসিটোনিন)
+C) Adrenaline (অ্যাড্রেনালিন)
+D) Thyroxine (থাইরক্সিন)
+Answer: B
+
+Pancreas is: (অগ্ন্যাশয় কী?)
+A) Exocrine only (শুধু বহিঃস্রাবী)
+B) Endocrine only (শুধু অন্তঃস্রাবী)
+C) Mixed gland (মিশ্র গ্রন্থি)
+D) Nerve organ (স্নায়বিক অঙ্গ)
+Answer: C
+
+Pancreas secretes: (অগ্ন্যাশয় কী স্রাব করে?)
+A) Insulin (ইনসুলিন)
+B) Thyroxine (থাইরক্সিন)
+C) Estrogen (এস্ট্রোজেন)
+D) Melatonin (মেলাটোনিন)
+Answer: A
+
+Insulin function: (ইনসুলিনের কাজ?)
+A) Increase sugar (শর্করা বাড়ায়)
+B) Decrease sugar (শর্করা কমায়)
+C) Increase BP (BP বাড়ায়)
+D) Increase growth (বৃদ্ধি বাড়ায়)
+Answer: B
+
+Glucagon function: (গ্লুকাগনের কাজ?)
+A) Decrease sugar (শর্করা কমায়)
+B) Increase sugar (শর্করা বাড়ায়)
+C) Sleep control (ঘুম নিয়ন্ত্রণ)
+D) BP control (BP নিয়ন্ত্রণ)
+Answer: B
+
+Adrenal gland is above: (অ্যাড্রেনাল গ্রন্থি কোথায় থাকে?)
+A) Heart (হৃদয়)
+B) Kidney (কিডনি)
+C) Liver (যকৃত)
+D) Lung (ফুসফুস)
+Answer: B
+
+Adrenaline prepares body for: (অ্যাড্রেনালিন কী জন্য প্রস্তুত করে?)
+A) Sleep (ঘুম)
+B) Digestion (হজম)
+C) Fight or flight (লড়াই বা পালানো)
+D) Growth (বৃদ্ধি)
+Answer: C
+
+Cortisol is: (কর্টিসল কী?)
+A) Growth hormone (বৃদ্ধি হরমোন)
+B) Stress hormone (স্ট্রেস হরমোন)
+C) Digestive enzyme (হজম এনজাইম)
+D) Sex hormone (যৌন হরমোন)
+Answer: B
+
+Aldosterone controls: (অ্যালডোস্টেরন কী নিয়ন্ত্রণ করে?)
+A) Sugar (শর্করা)
+B) Salt-water balance (লবণ-জল ভারসাম্য)
+C) Sleep (ঘুম)
+D) Growth (বৃদ্ধি)
+Answer: B
+
+Which hormone increases heart rate? (কোন হরমোন হৃদস্পন্দন বাড়ায়?)
+A) Insulin (ইনসুলিন)
+B) Adrenaline (অ্যাড্রেনালিন)
+C) Estrogen (এস্ট্রোজেন)
+D) Melatonin (মেলাটোনিন)
+Answer: B
+
+Which gland secretes cortisol? (কোন গ্রন্থি কর্টিসল স্রাব করে?)
+A) Thyroid (থাইরয়েড)
+B) Pituitary (পিটুইটারি)
+C) Adrenal (অ্যাড্রেনাল)
+D) Pineal (পাইনিয়াল)
+Answer: C
+
+Which gland secretes melatonin? (কোন গ্রন্থি মেলাটোনিন স্রাব করে?)
+A) Thyroid (থাইরয়েড)
+B) Pineal (পাইনিয়াল)
+C) Pituitary (পিটুইটারি)
+D) Adrenal (অ্যাড্রেনাল)
+Answer: B
+
+Ovary produces: (অন্ডাশয় কী উৎপন্ন করে?)
+A) Testosterone (টেস্টোস্টেরন)
+B) Estrogen (এস্ট্রোজেন)
+C) Insulin (ইনসুলিন)
+D) Thyroxine (থাইরক্সিন)
+Answer: B
+
+Progesterone helps: (প্রোজেস্টেরন কী সাহায্য করে?)
+A) Growth (বৃদ্ধি)
+B) Pregnancy maintenance (গর্ভধারণ বজায় রাখা)
+C) Digestion (হজম)
+D) Sleep (ঘুম)
+Answer: B
+
+Testes produce: (বৃষণ কী উৎপন্ন করে?)
+A) Estrogen (এস্ট্রোজেন)
+B) Testosterone (টেস্টোস্টেরন)
+C) Insulin (ইনসুলিন)
+D) Thyroxine (থাইরক্সিন)
+Answer: B
+
+Testosterone function: (টেস্টোস্টেরনের কাজ?)
+A) Female traits (নারী বৈশিষ্ট্য)
+B) Male traits (পুরুষ বৈশিষ্ট্য)
+C) Digestion (হজম)
+D) Sleep (ঘুম)
+Answer: B
+
+Gigantism caused by: (জায়ান্টিজমের কারণ?)
+A) Less GH (কম GH)
+B) Excess GH (বেশি GH)
+C) Less insulin (কম ইনসুলিন)
+D) Less iodine (কম আয়োডিন)
+Answer: B
+
+Dwarfism caused by: (বামনত্বের কারণ?)
+A) Excess GH (বেশি GH)
+B) Less GH (কম GH)
+C) High sugar (উচ্চ শর্করা)
+D) Low BP (কম BP)
+Answer: B
+
+Hyperthyroidism means: (হাইপারথাইরয়েডিজম মানে?)
+A) Low thyroxine (কম থাইরক্সিন)
+B) High thyroxine (বেশি থাইরক্সিন)
+C) Low insulin (কম ইনসুলিন)
+D) High calcium (বেশি ক্যালসিয়াম)
+Answer: B
+
+Diabetes caused by: (ডায়াবেটিসের কারণ?)
+A) Excess insulin (বেশি ইনসুলিন)
+B) Less insulin (কম ইনসুলিন)
+C) Less iodine (কম আয়োডিন)
+D) High calcium (বেশি ক্যালসিয়াম)
+Answer: B
+
+Which gland is attached to hypothalamus? (কোন গ্রন্থি হাইপোথ্যালামাসের সাথে যুক্ত?)
+A) Pituitary (পিটুইটারি)
+B) Thyroid (থাইরয়েড)
+C) Pineal (পাইনিয়াল)
+D) Adrenal (অ্যাড্রেনাল)
+Answer: A
+
+Which gland is called hypophysis? (কোন গ্রন্থিকে হাইপোফাইসিস বলা হয়?)
+A) Thyroid (থাইরয়েড)
+B) Pituitary (পিটুইটারি)
+C) Adrenal (অ্যাড্রেনাল)
+D) Pineal (পাইনিয়াল)
+Answer: B
+
+Which gland is butterfly-shaped? (কোন গ্রন্থি প্রজাপতির মতো?)
+A) Pituitary (পিটুইটারি)
+B) Pineal (পাইনিয়াল)
+C) Thyroid (থাইরয়েড)
+D) Adrenal (অ্যাড্রেনাল)
+Answer: C
+
+Which hormone is NOT secreted by thyroid? (থাইরয়েড কোন হরমোন স্রাব করে না?)
+A) Thyroxine (থাইরক্সিন)
+B) Calcitonin (ক্যালসিটোনিন)
+C) Triiodothyronine (T3)
+D) Thymosin (থাইমোসিন)
+Answer: D
+
+Which hormone is more active form of T4? (T4-এর বেশি সক্রিয় রূপ কোনটি?)
+A) T3 (ট্রাই-আয়োডোথাইরোনিন)
+B) Calcitonin (ক্যালসিটোনিন)
+C) Insulin (ইনসুলিন)
+D) Adrenaline (অ্যাড্রেনালিন)
+Answer: A
+
+Which gland secretes thymosin? (কোন গ্রন্থি থাইমোসিন স্রাব করে?)
+A) Thyroid (থাইরয়েড)
+B) Thymus (থাইমাস)
+C) Adrenal (অ্যাড্রেনাল)
+D) Pancreas (অগ্ন্যাশয়)
+Answer: B
+
+Which gland is in chest? (কোন গ্রন্থি বুকে থাকে?)
+A) Thyroid (থাইরয়েড)
+B) Pituitary (পিটুইটারি)
+C) Thymus (থাইমাস)
+D) Pineal (পাইনিয়াল)
+Answer: C
+
+Which gland helps immunity in childhood? (শিশুদের রোগ প্রতিরোধে কোন গ্রন্থি সাহায্য করে?)
+A) Thyroid (থাইরয়েড)
+B) Thymus (থাইমাস)
+C) Pituitary (পিটুইটারি)
+D) Pancreas (অগ্ন্যাশয়)
+Answer: B
+
+Which hormone prepares body for emergency? (জরুরি অবস্থায় শরীর প্রস্তুত করে কোন হরমোন?)
+A) Insulin (ইনসুলিন)
+B) Thyroxine (থাইরক্সিন)
+C) Adrenaline (অ্যাড্রেনালিন)
+D) Estrogen (এস্ট্রোজেন)
+Answer: C
+
+Which hormone maintains BP? (রক্তচাপ বজায় রাখতে সাহায্য করে কোন হরমোন?)
+A) Insulin (ইনসুলিন)
+B) Aldosterone (অ্যালডোস্টেরন)
+C) Melatonin (মেলাটোনিন)
+D) Thyroxine (থাইরক্সিন)
+Answer: B
+
+Which hormone increases alertness? (কোন হরমোন সতর্কতা বাড়ায়?)
+A) Cortisol (কর্টিসল)
+B) Adrenaline (অ্যাড্রেনালিন)
+C) Insulin (ইনসুলিন)
+D) Estrogen (এস্ট্রোজেন)
+Answer: B
+
+Which gland has cortex and medulla? (কোন গ্রন্থিতে কর্টেক্স ও মেডুলা থাকে?)
+A) Pituitary (পিটুইটারি)
+B) Adrenal (অ্যাড্রেনাল)
+C) Thyroid (থাইরয়েড)
+D) Pineal (পাইনিয়াল)
+Answer: B
+
+Cortex secretes: (কর্টেক্স কী স্রাব করে?)
+A) Adrenaline (অ্যাড্রেনালিন)
+B) Cortisol (কর্টিসল)
+C) Melatonin (মেলাটোনিন)
+D) Insulin (ইনসুলিন)
+Answer: B
+
+Medulla secretes: (মেডুলা কী স্রাব করে?)
+A) Thyroxine (থাইরক্সিন)
+B) Adrenaline (অ্যাড্রেনালিন)
+C) Estrogen (এস্ট্রোজেন)
+D) Progesterone (প্রোজেস্টেরন)
+Answer: B
+
+Which hormone controls salt balance? (কোন হরমোন লবণ ভারসাম্য নিয়ন্ত্রণ করে?)
+A) Aldosterone (অ্যালডোস্টেরন)
+B) Insulin (ইনসুলিন)
+C) Estrogen (এস্ট্রোজেন)
+D) Melatonin (মেলাটোনিন)
+Answer: A
+
+Which gland helps digestion + hormone? (কোন গ্রন্থি হজম ও হরমোন দুইই করে?)
+A) Liver (যকৃত)
+B) Pancreas (অগ্ন্যাশয়)
+C) Thyroid (থাইরয়েড)
+D) Pituitary (পিটুইটারি)
+Answer: B
+
+Alpha cells produce: (আলফা কোষ কী উৎপন্ন করে?)
+A) Insulin (ইনসুলিন)
+B) Glucagon (গ্লুকাগন)
+C) Thyroxine (থাইরক্সিন)
+D) Estrogen (এস্ট্রোজেন)
+Answer: B
+
+Beta cells produce: (বিটা কোষ কী উৎপন্ন করে?)
+A) Glucagon (গ্লুকাগন)
+B) Insulin (ইনসুলিন)
+C) Cortisol (কর্টিসল)
+D) Testosterone (টেস্টোস্টেরন)
+Answer: B
+
+Insulin prevents: (ইনসুলিন কী প্রতিরোধ করে?)
+A) Hypoglycemia (লো শর্করা)
+B) Hyperglycemia (উচ্চ শর্করা)
+C) High BP (উচ্চ BP)
+D) Low calcium (কম ক্যালসিয়াম)
+Answer: B
+
+Glucagon prevents: (গ্লুকাগন কী প্রতিরোধ করে?)
+A) High sugar (উচ্চ শর্করা)
+B) Low sugar (কম শর্করা)
+C) High BP (উচ্চ BP)
+D) Sleep (ঘুম)
+Answer: B
+
+Which hormone regulates menstrual cycle? (মাসিক চক্র নিয়ন্ত্রণ করে?)
+A) Testosterone (টেস্টোস্টেরন)
+B) Estrogen (এস্ট্রোজেন)
+C) Insulin (ইনসুলিন)
+D) Adrenaline (অ্যাড্রেনালিন)
+Answer: B
+
+Which hormone prepares uterus? (গর্ভাশয় প্রস্তুত করে?)
+A) Estrogen (এস্ট্রোজেন)
+B) Progesterone (প্রোজেস্টেরন)
+C) Insulin (ইনসুলিন)
+D) Thyroxine (থাইরক্সিন)
+Answer: B
+
+Which hormone controls growth? (কোন হরমোন বৃদ্ধি নিয়ন্ত্রণ করে?)
+A) GH (গ্রোথ হরমোন)
+B) Insulin (ইনসুলিন)
+C) Estrogen (এস্ট্রোজেন)
+D) Cortisol (কর্টিসল)
+Answer: A
+
+Which hormone causes dwarfism if low? (কম হলে বামনত্ব হয়?)
+A) Thyroxine (থাইরক্সিন)
+B) GH (গ্রোথ হরমোন)
+C) Insulin (ইনসুলিন)
+D) Estrogen (এস্ট্রোজেন)
+Answer: B
+
+Which hormone causes gigantism if high? (বেশি হলে জায়ান্টিজম?)
+A) Insulin (ইনসুলিন)
+B) GH (গ্রোথ হরমোন)
+C) Thyroxine (থাইরক্সিন)
+D) Cortisol (কর্টিসল)
+Answer: B
+
+Goitre shows: (গয়টার কী দেখায়?)
+A) Hand swelling (হাত ফোলা)
+B) Neck swelling (গলা ফোলা)
+C) Leg pain (পায়ে ব্যথা)
+D) Fever (জ্বর)
+Answer: B
+
+Which disease due to low insulin? (কম ইনসুলিনে কোন রোগ?)
+A) Diabetes (ডায়াবেটিস)
+B) Goitre (গয়টার)
+C) Asthma (অ্যাজমা)
+D) Cancer (ক্যান্সার)
+Answer: A
+
+Which hormone controls metabolism rate? (বিপাক হার নিয়ন্ত্রণ করে?)
+A) Thyroxine (থাইরক্সিন)
+B) Insulin (ইনসুলিন)
+C) Estrogen (এস্ট্রোজেন)
+D) Cortisol (কর্টিসল)
+Answer: A
+
+Which hormone lowers blood calcium? (রক্তে ক্যালসিয়াম কমায়?)
+A) Calcitonin (ক্যালসিটোনিন)
+B) Thyroxine (থাইরক্সিন)
+C) Insulin (ইনসুলিন)
+D) Estrogen (এস্ট্রোজেন)
+Answer: A
+
+Which gland secretes sex hormones? (যৌন হরমোন স্রাব করে?)
+A) Thyroid (থাইরয়েড)
+B) Gonads (গোনাড)
+C) Pituitary (পিটুইটারি)
+D) Pineal (পাইনিয়াল)
+Answer: B
+
+Which gland produces testosterone? (টেস্টোস্টেরন উৎপন্ন করে?)
+A) Ovary (অন্ডাশয়)
+B) Testes (বৃষণ)
+C) Thyroid (থাইরয়েড)
+D) Adrenal (অ্যাড্রেনাল)
+Answer: B
+
+Which gland produces estrogen? (এস্ট্রোজেন উৎপন্ন করে?)
+A) Testes (বৃষণ)
+B) Ovary (অন্ডাশয়)
+C) Thyroid (থাইরয়েড)
+D) Pituitary (পিটুইটারি)
+Answer: B

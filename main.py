@@ -296,8 +296,9 @@ def leaderboard(message):
 # ===== RUN =====
 print("Bot Running...")
 
-while True:
-    try:
-        bot.polling(none_stop=True)
-    except:
-        pass
+print("Bot Running...")
+
+bot.remove_webhook()   # 🔥 VERY IMPORTANT
+time.sleep(2)
+
+bot.polling(none_stop=True, interval=0, timeout=20)

@@ -1896,3 +1896,544 @@ B) Transport (পরিবহন)
 C) Digestion (হজম)
 D) Thinking (ভাবনা)
 Answer: B
+
+#chapter: Circulatory System
+
+The circulatory system transports: (পরিসঞ্চালন তন্ত্র কী পরিবহন করে?)
+A) Oxygen (অক্সিজেন)
+B) Nutrients (পুষ্টি)
+C) Hormones (হরমোন)
+D) All of these (সবগুলো)
+Answer: D
+
+Circulatory system includes: (পরিসঞ্চালন তন্ত্রে কী কী অন্তর্ভুক্ত?)
+A) Heart only (শুধু হৃদয়)
+B) Blood only (শুধু রক্ত)
+C) Heart, blood, vessels (হৃদয়, রক্ত, রক্তনালী)
+D) Lungs only (শুধু ফুসফুস)
+Answer: C
+
+Blood vessels are of how many types? (রক্তনালী কয় প্রকার?)
+A) 2 (২)
+B) 3 (৩)
+C) 4 (৪)
+D) 5 (৫)
+Answer: B
+
+Which is not a blood vessel? (কোনটি রক্তনালী নয়?)
+A) Artery (ধমনী)
+B) Vein (শিরা)
+C) Capillary (কেশিকা)
+D) Nerve (স্নায়ু)
+Answer: D
+
+Arteries carry blood: (ধমনী রক্ত বহন করে?)
+A) Towards heart (হৃদয়ের দিকে)
+B) Away from heart (হৃদয় থেকে দূরে)
+C) Only to lungs (শুধু ফুসফুসে)
+D) Only to brain (শুধু মস্তিষ্কে)
+Answer: B
+
+Arteries are: (ধমনী কেমন?)
+A) Thin (পাতলা)
+B) Thick and elastic (মোটা ও স্থিতিস্থাপক)
+C) Weak (দুর্বল)
+D) Soft (নরম)
+Answer: B
+
+Veins carry blood: (শিরা রক্ত বহন করে?)
+A) Away from heart (হৃদয় থেকে দূরে)
+B) Towards heart (হৃদয়ের দিকে)
+C) Only oxygenated (শুধু অক্সিজেনযুক্ত)
+D) Only nutrients (শুধু পুষ্টি)
+Answer: B
+
+Veins are: (শিরা কেমন?)
+A) Thick (মোটা)
+B) Thin (পাতলা)
+C) Hard (কঠিন)
+D) Elastic (স্থিতিস্থাপক)
+Answer: B
+
+Veins have: (শিরায় কী থাকে?)
+A) No valves (কোন ভালভ নেই)
+B) Valves (ভালভ থাকে)
+C) Only muscles (শুধু পেশি)
+D) Only nerves (শুধু স্নায়ু)
+Answer: B
+
+Pulmonary artery carries: (ফুসফুসীয় ধমনী কী বহন করে?)
+A) Oxygenated blood (অক্সিজেনযুক্ত রক্ত)
+B) Deoxygenated blood (অক্সিজেনবিহীন রক্ত)
+C) Pure oxygen (বিশুদ্ধ অক্সিজেন)
+D) Nutrients (পুষ্টি)
+Answer: B
+
+Pulmonary vein carries: (ফুসফুসীয় শিরা কী বহন করে?)
+A) Deoxygenated blood (অক্সিজেনবিহীন রক্ত)
+B) Oxygenated blood (অক্সিজেনযুক্ত রক্ত)
+C) Waste only (শুধু বর্জ্য)
+D) Hormones (হরমোন)
+Answer: B
+
+The organ that pumps blood: (যে অঙ্গ রক্ত পাম্প করে?)
+A) Liver (যকৃত)
+B) Kidney (কিডনি)
+C) Heart (হৃদয়)
+D) Lung (ফুসফুস)
+Answer: C
+
+Heart is made of: (হৃদয় কী দিয়ে তৈরি?)
+A) Smooth muscle (মসৃণ পেশি)
+B) Cardiac muscle (কার্ডিয়াক পেশি)
+C) Skeletal muscle (কঙ্কাল পেশি)
+D) Connective tissue (সংযোজী টিস্যু)
+Answer: B
+
+Heart is a: (হৃদয় কী ধরনের অঙ্গ?)
+A) Digestive organ (হজম অঙ্গ)
+B) Pumping organ (পাম্পিং অঙ্গ)
+C) Sensory organ (সংবেদন অঙ্গ)
+D) Excretory organ (উৎসর্জন অঙ্গ)
+Answer: B
+
+Average weight of heart: (হৃদয়ের গড় ওজন কত?)
+A) 100 g (১০০ গ্রাম)
+B) 200 g (২০০ গ্রাম)
+C) 300 g (৩০০ গ্রাম)
+D) 500 g (৫০০ গ্রাম)
+Answer: C
+
+Heart has chambers: (হৃদয়ে কয়টি কক্ষ আছে?)
+A) 2 (২)
+B) 3 (৩)
+C) 4 (৪)
+D) 5 (৫)
+Answer: C
+
+Upper chambers are called: (উপরের কক্ষকে কী বলা হয়?)
+A) Ventricles (নিলয়)
+B) Auricles (অলিন্দ)
+C) Valves (ভালভ)
+D) Septum (সেপ্টাম)
+Answer: B
+
+Lower chambers are called: (নিচের কক্ষকে কী বলা হয়?)
+A) Auricles (অলিন্দ)
+B) Ventricles (নিলয়)
+C) Valves (ভালভ)
+D) Capillaries (কেশিকা)
+Answer: B
+
+Right auricle receives: (ডান অলিন্দ কী গ্রহণ করে?)
+A) Oxygenated blood (অক্সিজেনযুক্ত রক্ত)
+B) Deoxygenated blood (অক্সিজেনবিহীন রক্ত)
+C) Pure oxygen (বিশুদ্ধ অক্সিজেন)
+D) Hormones (হরমোন)
+Answer: B
+
+Left auricle receives: (বাম অলিন্দ কী গ্রহণ করে?)
+A) Deoxygenated blood (অক্সিজেনবিহীন রক্ত)
+B) Oxygenated blood (অক্সিজেনযুক্ত রক্ত)
+C) Waste (বর্জ্য)
+D) Carbon dioxide (কার্বন ডাইঅক্সাইড)
+Answer: B
+
+Right ventricle pumps blood to: (ডান নিলয় রক্ত কোথায় পাম্প করে?)
+A) Body (শরীর)
+B) Brain (মস্তিষ্ক)
+C) Lungs (ফুসফুস)
+D) Liver (যকৃত)
+Answer: C
+
+Left ventricle pumps blood to: (বাম নিলয় রক্ত কোথায় পাম্প করে?)
+A) Lungs (ফুসফুস)
+B) Body (শরীর)
+C) Kidney (কিডনি)
+D) Stomach (পেট)
+Answer: B
+
+Heart has how many valves? (হৃদয়ে কয়টি ভালভ থাকে?)
+A) 2 (২)
+B) 3 (৩)
+C) 4 (৪)
+D) 5 (৫)
+Answer: C
+
+Valves function is: (ভালভের কাজ কী?)
+A) Produce blood (রক্ত তৈরি করা)
+B) Prevent backflow (পিছনে প্রবাহ রোধ)
+C) Store blood (রক্ত সঞ্চয়)
+D) Filter blood (রক্ত পরিশোধন)
+Answer: B
+
+Blood pressure is: (রক্তচাপ কী?)
+A) Heart rate (হৃদস্পন্দন)
+B) Force of blood on vessel walls (রক্তনালীর দেয়ালে চাপ)
+C) Oxygen level (অক্সিজেনের পরিমাণ)
+D) Sugar level (শর্করার পরিমাণ)
+Answer: B
+
+Blood pressure is measured by: (রক্তচাপ কী দিয়ে মাপা হয়?)
+A) Thermometer (থার্মোমিটার)
+B) Sphygmomanometer (স্ফিগমোম্যানোমিটার)
+C) Barometer (বারোমিটার)
+D) Hygrometer (হাইগ্রোমিটার)
+Answer: B
+
+Unit of blood pressure: (রক্তচাপের একক কী?)
+A) cm (সেমি)
+B) mmHg (মিমি পারদ)
+C) kg (কেজি)
+D) mL (মিলিলিটার)
+Answer: B
+
+Systolic pressure occurs during: (সিস্টোলিক চাপ কখন হয়?)
+A) Relaxation (শিথিলতা)
+B) Contraction (সংকোচন)
+C) Digestion (হজম)
+D) Absorption (অবশোষণ)
+Answer: B
+
+Diastolic pressure occurs during: (ডায়াস্টোলিক চাপ কখন হয়?)
+A) Contraction (সংকোচন)
+B) Relaxation (শিথিলতা)
+C) Pumping (পাম্পিং)
+D) Breathing (শ্বাস নেওয়া)
+Answer: B
+
+Normal BP value: (স্বাভাবিক রক্তচাপ কত?)
+A) 80/120 (৮০/১২০)
+B) 120/80 (১২০/৮০)
+C) 100/60 (১০০/৬০)
+D) 140/90 (১৪০/৯০)
+Answer: B
+
+High BP is called: (উচ্চ রক্তচাপকে কী বলে?)
+A) Hypotension (নিম্ন রক্তচাপ)
+B) Hypertension (উচ্চ রক্তচাপ)
+C) Diabetes (ডায়াবেটিস)
+D) Anemia (অ্যানিমিয়া)
+Answer: B
+
+Low BP is called: (নিম্ন রক্তচাপকে কী বলে?)
+A) Hypertension (উচ্চ রক্তচাপ)
+B) Hypotension (নিম্ন রক্তচাপ)
+C) Cancer (ক্যান্সার)
+D) Fever (জ্বর)
+Answer: B
+
+Hypertension is caused by: (হাইপারটেনশন কী কারণে হয়?)
+A) Dilatation of arteries (ধমনীর প্রসারণ)
+B) Constriction of arterioles (ধমনিকার সংকোচন)
+C) Low blood volume (কম রক্ত)
+D) High oxygen (বেশি অক্সিজেন)
+Answer: B
+
+During diastole: (ডায়াস্টোলের সময় কী হয়?)
+A) Blood leaves ventricle (রক্ত বের হয়)
+B) Blood enters ventricle (রক্ত প্রবেশ করে)
+C) Heart stops (হৃদয় থামে)
+D) No flow (কোন প্রবাহ নেই)
+Answer: B
+
+Instrument to see heart activity: (হৃদয়ের কার্য দেখতে কোন যন্ত্র?)
+A) ECG (ইসিজি)
+B) MRI (এমআরআই)
+C) X-ray (এক্স-রে)
+D) CT scan (সিটি স্ক্যান)
+Answer: A
+
+Echocardiography uses: (ইকোকার্ডিওগ্রাফি কী ব্যবহার করে?)
+A) X-ray (এক্স-রে)
+B) Ultrasound (আল্ট্রাসাউন্ড)
+C) Laser (লেজার)
+D) Heat (তাপ)
+Answer: B
+
+Angiography detects: (এঞ্জিওগ্রাফি কী নির্ণয় করে?)
+A) Blood sugar (রক্তে শর্করা)
+B) Blockage in arteries (ধমনীর ব্লকেজ)
+C) Oxygen level (অক্সিজেন)
+D) Heart rate (হৃদস্পন্দন)
+Answer: B
+
+Cardiac cycle duration: (হৃদচক্রের সময়কাল কত?)
+A) 0.5 sec (০.৫ সেকেন্ড)
+B) 0.8 sec (০.৮ সেকেন্ড)
+C) 1 sec (১ সেকেন্ড)
+D) 2 sec (২ সেকেন্ড)
+Answer: B
+
+Cardiac cycle includes: (হৃদচক্রে কী থাকে?)
+A) Only contraction (শুধু সংকোচন)
+B) Only relaxation (শুধু শিথিলতা)
+C) Both contraction & relaxation (সংকোচন ও শিথিলতা)
+D) No movement (কোন গতি নেই)
+Answer: C
+
+Capillaries are: (কেশিকা কী?)
+A) Thick vessels (মোটা নালী)
+B) Thin vessels (পাতলা নালী)
+C) Largest vessels (সবচেয়ে বড় নালী)
+D) Muscular vessels (পেশীবহুল নালী)
+Answer: B
+
+Exchange of gases occurs in: (গ্যাসের আদান-প্রদান কোথায় হয়?)
+A) Arteries (ধমনী)
+B) Veins (শিরা)
+C) Capillaries (কেশিকা)
+D) Heart (হৃদয়)
+Answer: C
+
+Aorta carries: (মহাধমনী কী বহন করে?)
+A) Deoxygenated blood (অক্সিজেনবিহীন রক্ত)
+B) Oxygenated blood (অক্সিজেনযুক্ত রক্ত)
+C) Only CO₂ (শুধু CO₂)
+D) Only nutrients (শুধু পুষ্টি)
+Answer: B
+
+Vena cava carries blood to: (ভেনা কেভা রক্ত কোথায় নিয়ে যায়?)
+A) Brain (মস্তিষ্ক)
+B) Lungs (ফুসফুস)
+C) Heart (হৃদয়)
+D) Kidney (কিডনি)
+Answer: C
+
+Right side of heart contains: (হৃদয়ের ডান দিকে কী থাকে?)
+A) Oxygenated blood (অক্সিজেনযুক্ত রক্ত)
+B) Deoxygenated blood (অক্সিজেনবিহীন রক্ত)
+C) Mixed blood (মিশ্র রক্ত)
+D) No blood (কোন রক্ত নেই)
+Answer: B
+
+Left side of heart contains: (হৃদয়ের বাম দিকে কী থাকে?)
+A) Deoxygenated blood (অক্সিজেনবিহীন রক্ত)
+B) Mixed blood (মিশ্র রক্ত)
+C) Oxygenated blood (অক্সিজেনযুক্ত রক্ত)
+D) No blood (কোন রক্ত নেই)
+Answer: C
+
+Pulmonary circulation is between: (পালমোনারি সঞ্চালন কোথায় হয়?)
+A) Heart and body (হৃদয় ও শরীর)
+B) Heart and lungs (হৃদয় ও ফুসফুস)
+C) Brain and heart (মস্তিষ্ক ও হৃদয়)
+D) Liver and kidney (যকৃত ও কিডনি)
+Answer: B
+
+Systemic circulation is between: (সিস্টেমিক সঞ্চালন কোথায় হয়?)
+A) Heart and lungs (হৃদয় ও ফুসফুস)
+B) Heart and body (হৃদয় ও শরীর)
+C) Brain and lungs (মস্তিষ্ক ও ফুসফুস)
+D) Kidney and liver (কিডনি ও যকৃত)
+Answer: B
+
+Human circulation is: (মানুষের সঞ্চালন কেমন?)
+A) Single (একক)
+B) Double (দ্বৈত)
+C) Open (উন্মুক্ত)
+D) Closed (বন্ধ নয়)
+Answer: B
+
+Fish has circulation: (মাছের সঞ্চালন কেমন?)
+A) Double (দ্বৈত)
+B) Single (একক)
+C) Mixed (মিশ্র)
+D) Closed (বন্ধ)
+Answer: B
+
+Fish heart has chambers: (মাছের হৃদয়ে কয়টি কক্ষ?)
+A) 2 (২)
+B) 3 (৩)
+C) 4 (৪)
+D) 5 (৫)
+Answer: A
+
+Amphibians have: (উভচরদের হৃদয়ে থাকে?)
+A) 2 chambers (২ কক্ষ)
+B) 3 chambers (৩ কক্ষ)
+C) 4 chambers (৪ কক্ষ)
+D) 5 chambers (৫ কক্ষ)
+Answer: B
+
+Reptiles have: (সরীসৃপদের হৃদয়ে থাকে?)
+A) 2 chambers (২ কক্ষ)
+B) 3 chambers (৩ কক্ষ)
+C) 4 chambers (৪ কক্ষ)
+D) 1 chamber (১ কক্ষ)
+Answer: B
+
+Birds have: (পাখিদের হৃদয়ে থাকে?)
+A) 2 chambers (২ কক্ষ)
+B) 3 chambers (৩ কক্ষ)
+C) 4 chambers (৪ কক্ষ)
+D) 5 chambers (৫ কক্ষ)
+Answer: C
+
+Mammals have: (স্তন্যপায়ীদের হৃদয়ে থাকে?)
+A) 2 chambers (২ কক্ষ)
+B) 3 chambers (৩ কক্ষ)
+C) 4 chambers (৪ কক্ষ)
+D) 1 chamber (১ কক্ষ)
+Answer: C
+
+Septum function is: (সেপ্টামের কাজ কী?)
+A) Pump blood (রক্ত পাম্প করা)
+B) Mix blood (রক্ত মেশানো)
+C) Separate chambers (কক্ষ পৃথক করা)
+D) Store blood (রক্ত জমা রাখা)
+Answer: C
+
+Cardiac muscle is: (কার্ডিয়াক পেশি কেমন?)
+A) Voluntary (ইচ্ছাধীন)
+B) Involuntary (অনৈচ্ছিক)
+C) Skeletal (কঙ্কাল)
+D) Smooth (মসৃণ)
+Answer: B
+
+Heartbeat is controlled by: (হৃদস্পন্দন কে নিয়ন্ত্রণ করে?)
+A) Brain (মস্তিষ্ক)
+B) Hormone (হরমোন)
+C) SA node (এসএ নোড)
+D) Kidney (কিডনি)
+Answer: C
+
+Normal heart rate: (স্বাভাবিক হৃদস্পন্দন কত?)
+A) 50 bpm (৫০)
+B) 72 bpm (৭২)
+C) 100 bpm (১০০)
+D) 120 bpm (১২০)
+Answer: B
+
+Pulse is: (নাড়ি কী?)
+A) Heart beat (হৃদস্পন্দন)
+B) Blood flow in veins (শিরায় প্রবাহ)
+C) Artery expansion (ধমনীর প্রসারণ)
+D) Lung movement (ফুসফুসের গতি)
+Answer: C
+
+Lymph is: (লসিকা কী?)
+A) Blood (রক্ত)
+B) Colorless fluid (বর্ণহীন তরল)
+C) Hormone (হরমোন)
+D) Gas (গ্যাস)
+Answer: B
+
+Lymph transports: (লসিকা কী বহন করে?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Oxygen (অক্সিজেন)
+D) CO₂ (কার্বন ডাইঅক্সাইড)
+Answer: B
+
+Lymph is formed from: (লসিকা কোথা থেকে তৈরি হয়?)
+A) Plasma (প্লাজমা)
+B) RBC (আরবিসি)
+C) WBC (ডব্লিউবিসি)
+D) Platelets (প্লেটলেট)
+Answer: A
+
+Single circulation occurs in: (একক সঞ্চালন কোথায় হয়?)
+A) Humans (মানুষ)
+B) Birds (পাখি)
+C) Fish (মাছ)
+D) Mammals (স্তন্যপায়ী)
+Answer: C
+
+Double circulation occurs in: (দ্বৈত সঞ্চালন কোথায় হয়?)
+A) Fish (মাছ)
+B) Humans (মানুষ)
+C) Insects (পোকা)
+D) Worms (কৃমি)
+Answer: B
+
+During systole: (সিস্টোলের সময় কী হয়?)
+A) Heart relaxes (হৃদয় শিথিল)
+B) Heart contracts (হৃদয় সংকুচিত)
+C) No activity (কোন কার্য নেই)
+D) Blood stops (রক্ত থামে)
+Answer: B
+
+During diastole heart: (ডায়াস্টোলের সময় হৃদয় কী করে?)
+A) Contracts (সংকুচিত হয়)
+B) Relaxes (শিথিল হয়)
+C) Stops (থেমে যায়)
+D) Breaks (ভেঙে যায়)
+Answer: B
+
+Complete diastole duration: (সম্পূর্ণ ডায়াস্টোল সময় কত?)
+A) 0.1 sec (০.১)
+B) 0.3 sec (০.৩)
+C) 0.4 sec (০.৪)
+D) 1 sec (১)
+Answer: C
+
+Ventricular systole duration: (নিলয় সংকোচনের সময়?)
+A) 0.1 sec (০.১)
+B) 0.3 sec (০.৩)
+C) 0.4 sec (০.৪)
+D) 0.8 sec (০.৮)
+Answer: B
+
+Atrial systole duration: (অলিন্দ সংকোচনের সময়?)
+A) 0.1 sec (০.১)
+B) 0.3 sec (০.৩)
+C) 0.4 sec (০.৪)
+D) 1 sec (১)
+Answer: A
+
+Double circulation advantage: (দ্বৈত সঞ্চালনের সুবিধা?)
+A) Less oxygen (কম অক্সিজেন)
+B) Mixing blood (রক্ত মেশানো)
+C) Efficient oxygen supply (কার্যকর অক্সিজেন সরবরাহ)
+D) Slow flow (ধীর প্রবাহ)
+Answer: C
+
+Blood passes heart twice in: (রক্ত দুইবার হৃদয় দিয়ে যায় কোথায়?)
+A) Fish (মাছ)
+B) Humans (মানুষ)
+C) Worm (কৃমি)
+D) Insect (পোকা)
+Answer: B
+
+Capillaries connect: (কেশিকা কী যুক্ত করে?)
+A) Artery to vein (ধমনী ও শিরা)
+B) Heart to lung (হৃদয় ও ফুসফুস)
+C) Brain to heart (মস্তিষ্ক ও হৃদয়)
+D) Liver to kidney (যকৃত ও কিডনি)
+Answer: A
+
+Smallest vessels are: (সবচেয়ে ছোট রক্তনালী?)
+A) Artery (ধমনী)
+B) Vein (শিরা)
+C) Capillary (কেশিকা)
+D) Aorta (মহাধমনী)
+Answer: C
+
+Largest artery is: (সবচেয়ে বড় ধমনী?)
+A) Pulmonary artery (ফুসফুসীয় ধমনী)
+B) Aorta (মহাধমনী)
+C) Renal artery (কিডনি ধমনী)
+D) Coronary artery (করোনারি ধমনী)
+Answer: B
+
+Heart sound “lub-dub” due to: (হৃদয়ের শব্দ কেন হয়?)
+A) Muscle movement (পেশির গতি)
+B) Valve closing (ভালভ বন্ধ হওয়া)
+C) Blood flow (রক্ত প্রবাহ)
+D) Air movement (বায়ু চলাচল)
+Answer: B
+
+Coronary arteries supply: (করোনারি ধমনী কী সরবরাহ করে?)
+A) Brain (মস্তিষ্ক)
+B) Heart (হৃদয়)
+C) Kidney (কিডনি)
+D) Liver (যকৃত)
+Answer: B
+
+Blockage in coronary artery leads to: (করোনারি ব্লক হলে কী হয়?)
+A) Stroke (স্ট্রোক)
+B) Heart attack (হার্ট অ্যাটাক)
+C) Fever (জ্বর)
+D) Diabetes (ডায়াবেটিস)
+Answer: B

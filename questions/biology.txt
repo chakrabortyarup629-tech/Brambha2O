@@ -1,0 +1,1366 @@
+#chapter: Nutrition
+
+What is nutrition? (পুষ্টি কী?)
+A) Breathing (শ্বাস নেওয়া)
+B) Taking food (খাদ্য গ্রহণ)
+C) Movement (গতি)
+D) Excretion (উৎসর্জন)
+Answer: B
+
+Nutrition is the process of: (পুষ্টি হল কী প্রক্রিয়া?)
+A) Sleeping (ঘুমানো)
+B) Taking and utilizing food (খাদ্য গ্রহণ ও ব্যবহার)
+C) Movement (গতি)
+D) Thinking (ভাবা)
+Answer: B
+
+Which type of nutrition is found in plants? (উদ্ভিদে কোন ধরনের পুষ্টি দেখা যায়?)
+A) Heterotrophic (বিষমপোষী)
+B) Autotrophic (স্বপোষী)
+C) Parasitic (পরজীবী)
+D) Saprophytic (মৃতপোষী)
+Answer: B
+
+Which organism prepares its own food? (কোন জীব নিজেই খাদ্য তৈরি করে?)
+A) Human (মানুষ)
+B) Plant (উদ্ভিদ)
+C) Fungus (ছত্রাক)
+D) Bacteria (ব্যাকটেরিয়া)
+Answer: B
+
+Which type of nutrition depends on other organisms? (কোন পুষ্টি অন্য জীবের উপর নির্ভরশীল?)
+A) Autotrophic (স্বপোষী)
+B) Heterotrophic (বিষমপোষী)
+C) Photosynthetic (প্রকাশ সংশ্লেষণ)
+D) Chemical (রাসায়নিক)
+Answer: B
+
+Which is not a type of heterotrophic nutrition? (নিচের কোনটি বিষমপোষী পুষ্টির ধরন নয়?)
+A) Parasitic (পরজীবী)
+B) Holozoic (হলোজোইক)
+C) Saprophytic (মৃতপোষী)
+D) Autotrophic (স্বপোষী)
+Answer: D
+
+Saprophytic nutrition means: (মৃতপোষী পুষ্টি কী?)
+A) Living on host (আতিথেয় জীবের উপর থাকা)
+B) Making own food (নিজে খাদ্য তৈরি)
+C) Feeding on dead matter (মৃত ও পচা পদার্থ খাওয়া)
+D) Eating plants (উদ্ভিদ খাওয়া)
+Answer: C
+
+Parasitic nutrition means: (পরজীবী পুষ্টি কী?)
+A) Living independently (স্বাধীনভাবে থাকা)
+B) Living on other organisms (অন্য জীবের উপর থাকা)
+C) Eating dead matter (মৃত পদার্থ খাওয়া)
+D) Making food (খাদ্য তৈরি)
+Answer: B
+
+Which is an example of parasitic plant? (পরজীবী উদ্ভিদের উদাহরণ কোনটি?)
+A) Mango (আম)
+B) Neem (নিম)
+C) Cuscuta (অমরবেল)
+D) Rose (গোলাপ)
+Answer: C
+
+Which type of nutrition is shown by humans? (মানুষ কোন ধরনের পুষ্টি দেখায়?)
+A) Autotrophic (স্বপোষী)
+B) Holozoic (হলোজোইক)
+C) Saprophytic (মৃতপোষী)
+D) Parasitic (পরজীবী)
+Answer: B
+
+Which organism shows saprophytic nutrition? (কোন জীব মৃতপোষী পুষ্টি দেখায়?)
+A) Dog (কুকুর)
+B) Fungus (ছত্রাক)
+C) Cow (গরু)
+D) Human (মানুষ)
+Answer: B
+
+Symbiotic nutrition means: (সহজীবী পুষ্টি কী?)
+A) Living alone (একাকী থাকা)
+B) Two organisms benefit (দুই জীব উপকৃত হয়)
+C) Killing host (আতিথেয় হত্যা)
+D) Eating plants (উদ্ভিদ খাওয়া)
+Answer: B
+
+Example of symbiosis is: (সহজীবিতার উদাহরণ কোনটি?)
+A) Lichen (লাইকেন)
+B) Dog (কুকুর)
+C) Tiger (বাঘ)
+D) Human (মানুষ)
+Answer: A
+
+Insectivorous plants obtain nutrients from: (কীটভক্ষী উদ্ভিদ কোথা থেকে পুষ্টি পায়?)
+A) Soil (মাটি)
+B) Air (বায়ু)
+C) Insects (পোকামাকড়)
+D) Water (জল)
+Answer: C
+
+Which is an insectivorous plant? (কোনটি কীটভক্ষী উদ্ভিদ?)
+A) Mushroom (মাশরুম)
+B) Cuscuta (অমরবেল)
+C) Pitcher plant (পিচার প্ল্যান্ট)
+D) Lichen (লাইকেন)
+Answer: C
+
+Which is not an insectivorous plant? (নিচের কোনটি কীটভক্ষী উদ্ভিদ নয়?)
+A) Venus flytrap (ভেনাস ফ্লাইট্র্যাপ)
+B) Sundew (সানডিউ)
+C) Pitcher plant (পিচার প্ল্যান্ট)
+D) Prothallus (প্রোথ্যালাস)
+Answer: D
+
+Nutrients are: (পুষ্টি উপাদান কী?)
+A) Waste materials (বর্জ্য পদার্থ)
+B) Components of food (খাদ্যের উপাদান)
+C) Enzymes (এনজাইম)
+D) Hormones (হরমোন)
+Answer: B
+
+Which nutrient gives energy? (কোন পুষ্টি শক্তি দেয়?)
+A) Vitamins (ভিটামিন)
+B) Carbohydrates (কার্বোহাইড্রেট)
+C) Minerals (খনিজ)
+D) Water (জল)
+Answer: B
+
+Which nutrient helps in growth? (কোন পুষ্টি বৃদ্ধি সাহায্য করে?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Vitamin (ভিটামিন)
+D) Water (জল)
+Answer: A
+
+Which nutrient protects body? (কোন পুষ্টি শরীরকে রক্ষা করে?)
+A) Carbohydrate (কার্বোহাইড্রেট)
+B) Protein (প্রোটিন)
+C) Vitamin (ভিটামিন)
+D) Fat (চর্বি)
+Answer: C
+
+Which carbohydrate is simplest? (সবচেয়ে সরল কার্বোহাইড্রেট কোনটি?)
+A) Glucose (গ্লুকোজ)
+B) Starch (স্টার্চ)
+C) Glycogen (গ্লাইকোজেন)
+D) Cellulose (সেলুলোজ)
+Answer: A
+
+Glucose is also called: (গ্লুকোজকে আর কী বলা হয়?)
+A) Milk sugar (দুধের চিনি)
+B) Blood sugar (রক্তের চিনি)
+C) Fruit sugar (ফলের চিনি)
+D) Table sugar (খাবার চিনি)
+Answer: B
+
+Which sugar is sweetest? (সবচেয়ে মিষ্টি চিনি কোনটি?)
+A) Glucose (গ্লুকোজ)
+B) Lactose (ল্যাকটোজ)
+C) Fructose (ফ্রুক্টোজ)
+D) Maltose (মালটোজ)
+Answer: C
+
+Which is a disaccharide? (কোনটি ডাইস্যাকারাইড?)
+A) Glucose (গ্লুকোজ)
+B) Fructose (ফ্রুক্টোজ)
+C) Sucrose (সুক্রোজ)
+D) Galactose (গ্যালাক্টোজ)
+Answer: C
+
+Which carbohydrate is stored in animals? (প্রাণীতে কোন কার্বোহাইড্রেট সঞ্চিত থাকে?)
+A) Starch (স্টার্চ)
+B) Cellulose (সেলুলোজ)
+C) Glycogen (গ্লাইকোজেন)
+D) Glucose (গ্লুকোজ)
+Answer: C
+
+Glucose chemical formula is: (গ্লুকোজের রাসায়নিক সূত্র কী?)
+A) C2H5OH (সি₂এইচ₅ওএইচ)
+B) C6H12O6 (সি₆এইচ₁₂ও₆)
+C) CH4 (সিএইচ₄)
+D) CO2 (সিও₂)
+Answer: B
+
+Which sugar is found in milk? (দুধে কোন চিনি পাওয়া যায়?)
+A) Glucose (গ্লুকোজ)
+B) Fructose (ফ্রুক্টোজ)
+C) Lactose (ল্যাকটোজ)
+D) Maltose (মালটোজ)
+Answer: C
+
+Which sugar is called fruit sugar? (কোন চিনিকে ফলের চিনি বলা হয়?)
+A) Glucose (গ্লুকোজ)
+B) Fructose (ফ্রুক্টোজ)
+C) Sucrose (সুক্রোজ)
+D) Lactose (ল্যাকটোজ)
+Answer: B
+
+Sucrose is made of: (সুক্রোজ কী দিয়ে গঠিত?)
+A) Glucose + Glucose (গ্লুকোজ + গ্লুকোজ)
+B) Glucose + Fructose (গ্লুকোজ + ফ্রুক্টোজ)
+C) Glucose + Galactose (গ্লুকোজ + গ্যালাক্টোজ)
+D) Fructose + Galactose (ফ্রুক্টোজ + গ্যালাক্টোজ)
+Answer: B
+
+Maltose is made of: (মালটোজ কী দিয়ে গঠিত?)
+A) Glucose + Glucose (গ্লুকোজ + গ্লুকোজ)
+B) Glucose + Fructose (গ্লুকোজ + ফ্রুক্টোজ)
+C) Glucose + Galactose (গ্লুকোজ + গ্যালাক্টোজ)
+D) Fructose + Fructose (ফ্রুক্টোজ + ফ্রুক্টোজ)
+Answer: A
+
+Lactose is made of: (ল্যাকটোজ কী দিয়ে গঠিত?)
+A) Glucose + Fructose (গ্লুকোজ + ফ্রুক্টোজ)
+B) Glucose + Galactose (গ্লুকোজ + গ্যালাক্টোজ)
+C) Glucose + Glucose (গ্লুকোজ + গ্লুকোজ)
+D) Fructose + Galactose (ফ্রুক্টোজ + গ্যালাক্টোজ)
+Answer: B
+
+Which carbohydrate is found in plant cell wall? (উদ্ভিদের কোষপ্রাচীরে কোন কার্বোহাইড্রেট থাকে?)
+A) Starch (স্টার্চ)
+B) Glycogen (গ্লাইকোজেন)
+C) Cellulose (সেলুলোজ)
+D) Glucose (গ্লুকোজ)
+Answer: C
+
+Which carbohydrate is stored in plants? (উদ্ভিদে কোন কার্বোহাইড্রেট সঞ্চিত থাকে?)
+A) Glycogen (গ্লাইকোজেন)
+B) Starch (স্টার্চ)
+C) Cellulose (সেলুলোজ)
+D) Lactose (ল্যাকটোজ)
+Answer: B
+
+Proteins are made up of: (প্রোটিন কী দিয়ে গঠিত?)
+A) Fatty acids (ফ্যাটি অ্যাসিড)
+B) Amino acids (অ্যামিনো অ্যাসিড)
+C) Glucose (গ্লুকোজ)
+D) Vitamins (ভিটামিন)
+Answer: B
+
+How many amino acids form proteins? (প্রোটিন কয়টি অ্যামিনো অ্যাসিড দিয়ে গঠিত?)
+A) 10 (১০)
+B) 15 (১৫)
+C) 20 (২০)
+D) 25 (২৫)
+Answer: C
+
+Essential amino acids are: (অপরিহার্য অ্যামিনো অ্যাসিড কী?)
+A) Made in body (দেহে তৈরি হয়)
+B) Not needed (প্রয়োজন নেই)
+C) Must be taken in diet (খাদ্য থেকে নিতে হয়)
+D) Stored in body (দেহে সঞ্চিত থাকে)
+Answer: C
+
+Protein helps in: (প্রোটিন কী কাজে সাহায্য করে?)
+A) Energy only (শুধু শক্তি)
+B) Growth and repair (বৃদ্ধি ও মেরামত)
+C) Digestion (হজম)
+D) Excretion (উৎসর্জন)
+Answer: B
+
+Which is a protein source? (কোনটি প্রোটিনের উৎস?)
+A) Rice (চাল)
+B) Pulses (ডাল)
+C) Sugar (চিনি)
+D) Salt (লবণ)
+Answer: B
+
+Which protein carries oxygen? (কোন প্রোটিন অক্সিজেন বহন করে?)
+A) Keratin (কেরাটিন)
+B) Myosin (মায়োসিন)
+C) Hemoglobin (হিমোগ্লোবিন)
+D) Collagen (কোলাজেন)
+Answer: C
+
+Which protein is found in milk? (দুধে কোন প্রোটিন থাকে?)
+A) Gluten (গ্লুটেন)
+B) Casein (কেসিন)
+C) Keratin (কেরাটিন)
+D) Myosin (মায়োসিন)
+Answer: B
+
+Which disease is caused by protein deficiency? (প্রোটিনের অভাবে কোন রোগ হয়?)
+A) Scurvy (স্কার্ভি)
+B) Rickets (রিকেটস)
+C) Kwashiorkor (কোয়াশিওরকর)
+D) Beriberi (বেরিবেরি)
+Answer: C
+
+Which disease is caused by severe protein deficiency? (প্রোটিনের তীব্র অভাবে কোন রোগ হয়?)
+A) Marasmus (ম্যারাসমাস)
+B) Flu (ফ্লু)
+C) Diabetes (ডায়াবেটিস)
+D) Goitre (গয়টার)
+Answer: A
+
+After digestion protein converts into: (পাচনের পর প্রোটিন কীতে রূপান্তরিত হয়?)
+A) Glucose (গ্লুকোজ)
+B) Fat (চর্বি)
+C) Amino acids (অ্যামিনো অ্যাসিড)
+D) Vitamins (ভিটামিন)
+Answer: C
+
+Which vitamin is water soluble? (কোন ভিটামিন জলে দ্রবণীয়?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin D (ভিটামিন D)
+C) Vitamin B (ভিটামিন B)
+D) Vitamin E (ভিটামিন E)
+Answer: C
+
+Which vitamin prevents scurvy? (কোন ভিটামিন স্কার্ভি প্রতিরোধ করে?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin B (ভিটামিন B)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: C
+
+Which vitamin helps in vision? (কোন ভিটামিন দৃষ্টিশক্তিতে সাহায্য করে?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin B (ভিটামিন B)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: A
+
+Deficiency of Vitamin D causes: (ভিটামিন D-এর অভাবে কী হয়?)
+A) Scurvy (স্কার্ভি)
+B) Rickets (রিকেটস)
+C) Beriberi (বেরিবেরি)
+D) Night blindness (রাতকানা)
+Answer: B
+
+Which vitamin helps in blood clotting? (কোন ভিটামিন রক্ত জমাট বাঁধতে সাহায্য করে?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin C (ভিটামিন C)
+C) Vitamin D (ভিটামিন D)
+D) Vitamin K (ভিটামিন K)
+Answer: D
+
+Vitamin K is produced in: (ভিটামিন K কোথায় তৈরি হয়?)
+A) Heart (হৃদয়)
+B) Kidney (কিডনি)
+C) Intestine (আন্ত্র)
+D) Liver (যকৃত)
+Answer: C
+
+Which vitamin is called sunshine vitamin? (কোন ভিটামিনকে সূর্যালোক ভিটামিন বলা হয়?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin B (ভিটামিন B)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: D
+
+Which vitamin deficiency causes night blindness? (কোন ভিটামিনের অভাবে রাতকানা হয়?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin B (ভিটামিন B)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: A
+
+Which vitamin deficiency causes beriberi? (কোন ভিটামিনের অভাবে বেরিবেরি হয়?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin B1 (ভিটামিন B1)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: B
+
+Which vitamin deficiency causes pellagra? (কোন ভিটামিনের অভাবে পেলাগ্রা হয়?)
+A) Vitamin B3 (ভিটামিন B3)
+B) Vitamin B2 (ভিটামিন B2)
+C) Vitamin B6 (ভিটামিন B6)
+D) Vitamin B12 (ভিটামিন B12)
+Answer: A
+
+Which vitamin deficiency causes anemia? (কোন ভিটামিনের অভাবে অ্যানিমিয়া হয়?)
+A) Vitamin B12 (ভিটামিন B12)
+B) Vitamin C (ভিটামিন C)
+C) Vitamin D (ভিটামিন D)
+D) Vitamin K (ভিটামিন K)
+Answer: A
+
+Which vitamin helps in wound healing? (কোন ভিটামিন ক্ষত সারাতে সাহায্য করে?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin B (ভিটামিন B)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: C
+
+Which nutrient stores energy? (কোন পুষ্টি শক্তি সঞ্চয় করে?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Vitamin (ভিটামিন)
+D) Water (জল)
+Answer: B
+
+Which nutrient provides highest energy? (কোন পুষ্টি সর্বাধিক শক্তি দেয়?)
+A) Carbohydrate (কার্বোহাইড্রেট)
+B) Protein (প্রোটিন)
+C) Fat (চর্বি)
+D) Vitamin (ভিটামিন)
+Answer: C
+
+Which fat is solid at room temperature? (কোন চর্বি ঘরের তাপমাত্রায় কঠিন থাকে?)
+A) Oil (তেল)
+B) Unsaturated fat (অসম্পৃক্ত চর্বি)
+C) Saturated fat (সম্পৃক্ত চর্বি)
+D) Liquid fat (তরল চর্বি)
+Answer: C
+
+Which fat is liquid at room temperature? (কোন চর্বি ঘরের তাপমাত্রায় তরল থাকে?)
+A) Saturated fat (সম্পৃক্ত চর্বি)
+B) Unsaturated fat (অসম্পৃক্ত চর্বি)
+C) Solid fat (কঠিন চর্বি)
+D) Animal fat (প্রাণীজ চর্বি)
+Answer: B
+
+Which nutrient acts as insulation? (কোন পুষ্টি তাপ নিরোধক হিসেবে কাজ করে?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Vitamin (ভিটামিন)
+D) Mineral (খনিজ)
+Answer: B
+
+Which mineral is needed for bones? (হাড়ের জন্য কোন খনিজ দরকার?)
+A) Iron (লোহা)
+B) Calcium (ক্যালসিয়াম)
+C) Sodium (সোডিয়াম)
+D) Potassium (পটাশিয়াম)
+Answer: B
+
+Which mineral is part of hemoglobin? (হিমোগ্লোবিনের অংশ কোন খনিজ?)
+A) Calcium (ক্যালসিয়াম)
+B) Iron (লোহা)
+C) Sodium (সোডিয়াম)
+D) Zinc (জিঙ্ক)
+Answer: B
+
+Deficiency of iron causes: (লোহারের অভাবে কী হয়?)
+A) Rickets (রিকেটস)
+B) Anemia (অ্যানিমিয়া)
+C) Goitre (গয়টার)
+D) Scurvy (স্কার্ভি)
+Answer: B
+
+Which mineral is needed for thyroid gland? (থাইরয়েডের জন্য কোন খনিজ দরকার?)
+A) Iron (লোহা)
+B) Calcium (ক্যালসিয়াম)
+C) Iodine (আয়োডিন)
+D) Zinc (জিঙ্ক)
+Answer: C
+
+Deficiency of iodine causes: (আয়োডিনের অভাবে কী হয়?)
+A) Diabetes (ডায়াবেটিস)
+B) Goitre (গয়টার)
+C) Anemia (অ্যানিমিয়া)
+D) Rickets (রিকেটস)
+Answer: B
+
+Which mineral helps in nerve function? (কোন খনিজ স্নায়ুর কাজে সাহায্য করে?)
+A) Sodium (সোডিয়াম)
+B) Iron (লোহা)
+C) Calcium (ক্যালসিয়াম)
+D) Iodine (আয়োডিন)
+Answer: A
+
+Water helps in: (জল কী কাজে সাহায্য করে?)
+A) Digestion (হজম)
+B) Transportation (পরিবহন)
+C) Temperature control (তাপমাত্রা নিয়ন্ত্রণ)
+D) All of these (সবগুলো)
+Answer: D
+
+Which nutrient regulates body functions? (কোন পুষ্টি দেহের কার্য নিয়ন্ত্রণ করে?)
+A) Carbohydrate (কার্বোহাইড্রেট)
+B) Protein (প্রোটিন)
+C) Vitamin (ভিটামিন)
+D) Fat (চর্বি)
+Answer: C
+
+Balanced diet means: (সুষম খাদ্য কী?)
+A) Only protein (শুধু প্রোটিন)
+B) Only fat (শুধু চর্বি)
+C) All nutrients in right amount (সব পুষ্টি সঠিক পরিমাণে)
+D) Only vitamins (শুধু ভিটামিন)
+Answer: C
+
+Which food is rich in carbohydrates? (কোন খাদ্যে কার্বোহাইড্রেট বেশি?)
+A) Rice (চাল)
+B) Egg (ডিম)
+C) Fish (মাছ)
+D) Milk (দুধ)
+Answer: A
+
+Which food is rich in protein? (কোন খাদ্যে প্রোটিন বেশি?)
+A) Rice (চাল)
+B) Dal (ডাল)
+C) Sugar (চিনি)
+D) Oil (তেল)
+Answer: B
+
+Which food is rich in fat? (কোন খাদ্যে চর্বি বেশি?)
+A) Butter (মাখন)
+B) Rice (চাল)
+C) Dal (ডাল)
+D) Fruits (ফল)
+Answer: A
+
+Which nutrient prevents diseases? (কোন পুষ্টি রোগ প্রতিরোধ করে?)
+A) Fat (চর্বি)
+B) Vitamin (ভিটামিন)
+C) Carbohydrate (কার্বোহাইড্রেট)
+D) Protein (প্রোটিন)
+Answer: B
+
+Which disease is caused by lack of vitamin C? (ভিটামিন C-এর অভাবে কোন রোগ হয়?)
+A) Rickets (রিকেটস)
+B) Scurvy (স্কার্ভি)
+C) Beriberi (বেরিবেরি)
+D) Pellagra (পেলাগ্রা)
+Answer: B
+
+Which nutrient builds body tissues? (কোন পুষ্টি দেহের টিস্যু তৈরি করে?)
+A) Carbohydrate (কার্বোহাইড্রেট)
+B) Protein (প্রোটিন)
+C) Fat (চর্বি)
+D) Vitamin (ভিটামিন)
+Answer: B
+
+Which nutrient provides immediate energy? (কোন পুষ্টি তাত্ক্ষণিক শক্তি দেয়?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Carbohydrate (কার্বোহাইড্রেট)
+D) Vitamin (ভিটামিন)
+Answer: C
+
+Which nutrient helps in body repair? (কোন পুষ্টি দেহ মেরামতে সাহায্য করে?)
+A) Fat (চর্বি)
+B) Protein (প্রোটিন)
+C) Carbohydrate (কার্বোহাইড্রেট)
+D) Mineral (খনিজ)
+Answer: B
+
+Which nutrient is needed in small quantity? (কোন পুষ্টি অল্প পরিমাণে প্রয়োজন?)
+A) Carbohydrate (কার্বোহাইড্রেট)
+B) Protein (প্রোটিন)
+C) Vitamin (ভিটামিন)
+D) Fat (চর্বি)
+Answer: C
+
+Which vitamin is fat soluble? (কোন ভিটামিন চর্বিতে দ্রবণীয়?)
+A) Vitamin B (ভিটামিন B)
+B) Vitamin C (ভিটামিন C)
+C) Vitamin D (ভিটামিন D)
+D) Vitamin B12 (ভিটামিন B12)
+Answer: C
+
+Which vitamin is not stored in body? (কোন ভিটামিন দেহে সঞ্চিত হয় না?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin D (ভিটামিন D)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin E (ভিটামিন E)
+Answer: C
+
+Which vitamin helps in immune system? (কোন ভিটামিন রোগ প্রতিরোধ ক্ষমতা বাড়ায়?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin B (ভিটামিন B)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: C
+
+Which nutrient is essential for enzymes? (এনজাইমের জন্য কোন পুষ্টি দরকার?)
+A) Mineral (খনিজ)
+B) Protein (প্রোটিন)
+C) Fat (চর্বি)
+D) Carbohydrate (কার্বোহাইড্রেট)
+Answer: B
+
+Which nutrient is required for hormone production? (হরমোন তৈরির জন্য কোন পুষ্টি দরকার?)
+A) Fat (চর্বি)
+B) Carbohydrate (কার্বোহাইড্রেট)
+C) Vitamin (ভিটামিন)
+D) Water (জল)
+Answer: A
+
+Which nutrient forms cell membrane? (কোষঝিল্লি কোন পুষ্টি দিয়ে তৈরি?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Carbohydrate (কার্বোহাইড্রেট)
+D) Vitamin (ভিটামিন)
+Answer: B
+
+Which nutrient regulates metabolism? (কোন পুষ্টি বিপাক নিয়ন্ত্রণ করে?)
+A) Vitamin (ভিটামিন)
+B) Fat (চর্বি)
+C) Carbohydrate (কার্বোহাইড্রেট)
+D) Protein (প্রোটিন)
+Answer: A
+
+Which mineral helps in muscle contraction? (কোন খনিজ পেশি সংকোচনে সাহায্য করে?)
+A) Calcium (ক্যালসিয়াম)
+B) Iron (লোহা)
+C) Iodine (আয়োডিন)
+D) Zinc (জিঙ্ক)
+Answer: A
+
+Which mineral is needed for teeth? (দাঁতের জন্য কোন খনিজ দরকার?)
+A) Iron (লোহা)
+B) Calcium (ক্যালসিয়াম)
+C) Sodium (সোডিয়াম)
+D) Potassium (পটাশিয়াম)
+Answer: B
+
+Which mineral maintains water balance? (কোন খনিজ জলীয় ভারসাম্য বজায় রাখে?)
+A) Sodium (সোডিয়াম)
+B) Iron (লোহা)
+C) Calcium (ক্যালসিয়াম)
+D) Iodine (আয়োডিন)
+Answer: A
+
+Which nutrient acts as solvent? (কোন পুষ্টি দ্রাবক হিসেবে কাজ করে?)
+A) Water (জল)
+B) Fat (চর্বি)
+C) Protein (প্রোটিন)
+D) Vitamin (ভিটামিন)
+Answer: A
+
+Which nutrient removes waste from body? (কোন পুষ্টি দেহ থেকে বর্জ্য অপসারণে সাহায্য করে?)
+A) Protein (প্রোটিন)
+B) Water (জল)
+C) Fat (চর্বি)
+D) Vitamin (ভিটামিন)
+Answer: B
+
+Which nutrient lubricates joints? (কোন পুষ্টি সন্ধি মসৃণ করে?)
+A) Water (জল)
+B) Fat (চর্বি)
+C) Protein (প্রোটিন)
+D) Mineral (খনিজ)
+Answer: A
+
+Which disease is caused by lack of Vitamin A? (ভিটামিন A-এর অভাবে কোন রোগ হয়?)
+A) Night blindness (রাতকানা)
+B) Scurvy (স্কার্ভি)
+C) Rickets (রিকেটস)
+D) Beriberi (বেরিবেরি)
+Answer: A
+
+Which disease is caused by lack of Vitamin B1? (ভিটামিন B1-এর অভাবে কোন রোগ হয়?)
+A) Rickets (রিকেটস)
+B) Beriberi (বেরিবেরি)
+C) Scurvy (স্কার্ভি)
+D) Pellagra (পেলাগ্রা)
+Answer: B
+
+Which disease is caused by lack of Vitamin D? (ভিটামিন D-এর অভাবে কোন রোগ হয়?)
+A) Night blindness (রাতকানা)
+B) Rickets (রিকেটস)
+C) Beriberi (বেরিবেরি)
+D) Scurvy (স্কার্ভি)
+Answer: B
+
+Which disease is caused by lack of iron? (লোহারের অভাবে কোন রোগ হয়?)
+A) Anemia (অ্যানিমিয়া)
+B) Goitre (গয়টার)
+C) Diabetes (ডায়াবেটিস)
+D) Flu (ফ্লু)
+Answer: A
+
+Which nutrient deficiency causes goitre? (কোন পুষ্টির অভাবে গয়টার হয়?)
+A) Iron (লোহা)
+B) Calcium (ক্যালসিয়াম)
+C) Iodine (আয়োডিন)
+D) Sodium (সোডিয়াম)
+Answer: C
+
+Which food is rich in vitamins? (কোন খাদ্যে ভিটামিন বেশি?)
+A) Fruits (ফল)
+B) Rice (চাল)
+C) Oil (তেল)
+D) Meat (মাংস)
+Answer: A
+
+Which food is rich in minerals? (কোন খাদ্যে খনিজ বেশি?)
+A) Vegetables (সবজি)
+B) Sugar (চিনি)
+C) Oil (তেল)
+D) Rice (চাল)
+Answer: A
+
+Which nutrient is called protective food? (কোন পুষ্টিকে রক্ষাকারী খাদ্য বলা হয়?)
+A) Protein (প্রোটিন)
+B) Vitamin (ভিটামিন)
+C) Carbohydrate (কার্বোহাইড্রেট)
+D) Fat (চর্বি)
+Answer: B
+
+Which diet includes all nutrients? (কোন খাদ্যে সব পুষ্টি থাকে?)
+A) Junk food (জাঙ্ক ফুড)
+B) Balanced diet (সুষম খাদ্য)
+C) Fast food (ফাস্ট ফুড)
+D) Liquid diet (তরল খাদ্য)
+Answer: B
+
+#chapter: Digestion
+
+What is digestion? (পাচন কী?)
+A) Breathing (শ্বাস নেওয়া)
+B) Breaking complex food into simple form (জটিল খাদ্যকে সরল রূপে ভাঙা)
+C) Movement (গতি)
+D) Circulation (রক্ত সঞ্চালন)
+Answer: B
+
+Which nutrient is not digested in body? (কোন পুষ্টি শরীরে হজম হয় না?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Vitamin (ভিটামিন)
+D) Carbohydrate (কার্বোহাইড্রেট)
+Answer: C
+
+Carbohydrate converts into: (কার্বোহাইড্রেট কীতে রূপান্তরিত হয়?)
+A) Amino acid (অ্যামিনো অ্যাসিড)
+B) Glucose (গ্লুকোজ)
+C) Fatty acid (ফ্যাটি অ্যাসিড)
+D) Glycerol (গ্লিসারল)
+Answer: B
+
+Protein converts into: (প্রোটিন কীতে রূপান্তরিত হয়?)
+A) Glucose (গ্লুকোজ)
+B) Amino acid (অ্যামিনো অ্যাসিড)
+C) Fat (চর্বি)
+D) Starch (স্টার্চ)
+Answer: B
+
+Fat breaks into: (চর্বি কীতে ভাঙে?)
+A) Amino acid (অ্যামিনো অ্যাসিড)
+B) Glucose (গ্লুকোজ)
+C) Fatty acid + Glycerol (ফ্যাটি অ্যাসিড + গ্লিসারল)
+D) Maltose (মালটোজ)
+Answer: C
+
+Taking food is called: (খাদ্য গ্রহণকে কী বলে?)
+A) Digestion (পাচন)
+B) Ingestion (অন্তর্গ্রহণ)
+C) Absorption (অবশোষণ)
+D) Assimilation (সঙ্গীকরণ)
+Answer: B
+
+Removing undigested food is called: (অপাচ্য খাদ্য বের হওয়া কী?)
+A) Digestion (পাচন)
+B) Absorption (অবশোষণ)
+C) Egestion (উৎসর্জন)
+D) Assimilation (সঙ্গীকরণ)
+Answer: C
+
+Correct sequence of digestion: (পাচনের সঠিক ক্রম?)
+A) Digestion → Ingestion → Egestion (পাচন → অন্তর্গ্রহণ → উৎসর্জন)
+B) Ingestion → Digestion → Absorption → Egestion (অন্তর্গ্রহণ → পাচন → অবশোষণ → উৎসর্জন)
+C) Absorption → Digestion → Ingestion (অবশোষণ → পাচন → অন্তর্গ্রহণ)
+D) Egestion → Digestion → Ingestion (উৎসর্জন → পাচন → অন্তর্গ্রহণ)
+Answer: B
+
+First step of digestion: (পাচনের প্রথম ধাপ?)
+A) Digestion (পাচন)
+B) Absorption (অবশোষণ)
+C) Ingestion (অন্তর্গ্রহণ)
+D) Egestion (উৎসর্জন)
+Answer: C
+
+Where digestion starts? (পাচন কোথায় শুরু হয়?)
+A) Stomach (পেট)
+B) Mouth (মুখ)
+C) Intestine (আন্ত্র)
+D) Liver (যকৃত)
+Answer: B
+
+Food first enters: (খাদ্য প্রথম কোথায় যায়?)
+A) Oesophagus (গ্রাসনালী)
+B) Mouth (মুখ)
+C) Stomach (পেট)
+D) Intestine (আন্ত্র)
+Answer: B
+
+Correct path of food: (খাদ্যের সঠিক পথ?)
+A) Mouth → Stomach → Oesophagus (মুখ → পেট → গ্রাসনালী)
+B) Mouth → Oesophagus → Stomach (মুখ → গ্রাসনালী → পেট)
+C) Oesophagus → Mouth → Stomach (গ্রাসনালী → মুখ → পেট)
+D) Stomach → Mouth → Oesophagus (পেট → মুখ → গ্রাসনালী)
+Answer: B
+
+Which is not part of alimentary canal? (কোনটি আহার নালীর অংশ নয়?)
+A) Mouth (মুখ)
+B) Stomach (পেট)
+C) Trachea (শ্বাসনালী)
+D) Intestine (আন্ত্র)
+Answer: C
+
+Study of teeth is called: (দাঁতের অধ্যয়ন কী?)
+A) Cardiology (কার্ডিওলজি)
+B) Odontology (ওডোন্টোলজি)
+C) Neurology (নিউরোলজি)
+D) Hepatology (হেপাটোলজি)
+Answer: B
+ 
+Salivary amylase digests: (লালার অ্যামাইলেজ কী হজম করে?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Starch (স্টার্চ)
+D) Vitamin (ভিটামিন)
+Answer: C
+
+Another name of salivary amylase: (লালার অ্যামাইলেজের অন্য নাম কী?)
+A) Pepsin (পেপসিন)
+B) Ptyalin (পটাইলিন)
+C) Trypsin (ট্রিপসিন)
+D) Lipase (লাইপেজ)
+Answer: B
+
+Lysozyme function is: (লাইসোজাইমের কাজ কী?)
+A) Digest protein (প্রোটিন হজম)
+B) Kill bacteria (ব্যাকটেরিয়া ধ্বংস)
+C) Digest fat (চর্বি হজম)
+D) Digest starch (স্টার্চ হজম)
+Answer: B
+
+Salivary glands are: (লালাগ্রন্থি কয় প্রকার?)
+A) 2 (২)
+B) 3 (৩)
+C) 4 (৪)
+D) 5 (৫)
+Answer: B
+
+Largest salivary gland: (সবচেয়ে বড় লালাগ্রন্থি কোনটি?)
+A) Sublingual (সাবলিঙ্গুয়াল)
+B) Submandibular (সাবম্যান্ডিবুলার)
+C) Parotid (প্যারোটিড)
+D) None (কোনোটিই নয়)
+Answer: C
+
+Food pipe is called: (খাদ্যনালীকে কী বলা হয়?)
+A) Trachea (শ্বাসনালী)
+B) Oesophagus (গ্রাসনালী)
+C) Bronchi (ব্রঙ্কাই)
+D) Larynx (ল্যারিংস)
+Answer: B
+
+Length of oesophagus: (গ্রাসনালীর দৈর্ঘ্য কত?)
+A) 10 cm (১০ সেমি)
+B) 15 cm (১৫ সেমি)
+C) 25 cm (২৫ সেমি)
+D) 30 cm (৩০ সেমি)
+Answer: C
+
+Movement in oesophagus: (গ্রাসনালীর গতিকে কী বলা হয়?)
+A) Diffusion (বিসরণ)
+B) Peristalsis (পেরিস্টালসিস)
+C) Osmosis (অস্মোসিস)
+D) Filtration (পরিস্রবণ)
+Answer: B
+
+Stomach shape is: (পেটের আকৃতি কেমন?)
+A) S shape (এস আকৃতি)
+B) J shape (জে আকৃতি)
+C) L shape (এল আকৃতি)
+D) U shape (ইউ আকৃতি)
+Answer: B
+
+Food remains in stomach for: (খাবার পেটে কতক্ষণ থাকে?)
+A) 1–2 hr (১–২ ঘন্টা)
+B) 2–3 hr (২–৩ ঘন্টা)
+C) 4–5 hr (৪–৫ ঘন্টা)
+D) 6–7 hr (৬–৭ ঘন্টা)
+Answer: C
+
+pH of gastric juice: (জঠর রসের pH কত?)
+A) 7 (৭)
+B) 5 (৫)
+C) 1.2 (১.২)
+D) 9 (৯)
+Answer: C
+
+Acid present in stomach: (পেটে কোন অ্যাসিড থাকে?)
+A) H₂SO₄ (সালফিউরিক অ্যাসিড)
+B) HCl (হাইড্রোক্লোরিক অ্যাসিড)
+C) HNO₃ (নাইট্রিক অ্যাসিড)
+D) CH₃COOH (অ্যাসিটিক অ্যাসিড)
+Answer: B
+
+Protein digesting enzyme in stomach: (পেটে প্রোটিন হজমকারী এনজাইম কোনটি?)
+A) Lipase (লাইপেজ)
+B) Pepsin (পেপসিন)
+C) Amylase (অ্যামাইলেজ)
+D) Maltase (মাল্টেজ)
+Answer: B
+
+Gastric glands produce: (জঠর গ্রন্থি কী উৎপন্ন করে?)
+A) Saliva (লালা)
+B) Bile (পিত্ত)
+C) Gastric juice (জঠর রস)
+D) Insulin (ইনসুলিন)
+Answer: C
+
+Pepsin is activated by: (পেপসিন কী দ্বারা সক্রিয় হয়?)
+A) Water (জল)
+B) HCl (হাইড্রোক্লোরিক অ্যাসিড)
+C) Oxygen (অক্সিজেন)
+D) Enzyme (এনজাইম)
+Answer: B
+
+Liver is: (যকৃত কী?)
+A) Small organ (ছোট অঙ্গ)
+B) Largest gland (সবচেয়ে বড় গ্রন্থি)
+C) Muscle (পেশি)
+D) Bone (হাড়)
+Answer: B
+
+Bile is produced in: (পিত্ত কোথায় তৈরি হয়?)
+A) Pancreas (অগ্ন্যাশয়)
+B) Liver (যকৃত)
+C) Kidney (কিডনি)
+D) Heart (হৃদপিণ্ড)
+Answer: B
+
+Bile is stored in: (পিত্ত কোথায় সঞ্চিত থাকে?)
+A) Liver (যকৃত)
+B) Gall bladder (পিত্তথলি)
+C) Kidney (কিডনি)
+D) Stomach (পেট)
+Answer: B
+
+Function of bile: (পিত্তের কাজ কী?)
+A) Digest protein (প্রোটিন হজম)
+B) Digest carbohydrate (কার্বোহাইড্রেট হজম)
+C) Emulsify fat (চর্বি ইমালসিফাই করা)
+D) Digest vitamin (ভিটামিন হজম)
+Answer: C
+
+Bile contains enzyme: (পিত্তে এনজাইম থাকে?)
+A) Yes (হ্যাঁ)
+B) No (না)
+C) Only lipase (শুধু লাইপেজ)
+D) Only amylase (শুধু অ্যামাইলেজ)
+Answer: B
+
+Pancreas is: (অগ্ন্যাশয় কী?)
+A) Endocrine gland (অন্তঃস্রাবী গ্রন্থি)
+B) Exocrine gland (বহিঃস্রাবী গ্রন্থি)
+C) Mixed gland (মিশ্র গ্রন্থি)
+D) Tissue (টিস্যু)
+Answer: C
+
+Pancreatic enzyme for protein digestion: (প্রোটিন হজমের জন্য অগ্ন্যাশয়ের এনজাইম কোনটি?)
+A) Amylase (অ্যামাইলেজ)
+B) Lipase (লাইপেজ)
+C) Trypsin (ট্রিপসিন)
+D) Maltase (মাল্টেজ)
+Answer: C
+
+Pancreatic enzyme for fat digestion: (চর্বি হজমের জন্য অগ্ন্যাশয়ের এনজাইম কোনটি?)
+A) Trypsin (ট্রিপসিন)
+B) Lipase (লাইপেজ)
+C) Amylase (অ্যামাইলেজ)
+D) Pepsin (পেপসিন)
+Answer: B
+
+Pancreatic enzyme for carbohydrate digestion: (কার্বোহাইড্রেট হজমের জন্য অগ্ন্যাশয়ের এনজাইম কোনটি?)
+A) Lipase (লাইপেজ)
+B) Trypsin (ট্রিপসিন)
+C) Amylase (অ্যামাইলেজ)
+D) Pepsin (পেপসিন)
+Answer: C
+
+Complete digestion occurs in: (সম্পূর্ণ পাচন কোথায় হয়?)
+A) Mouth (মুখ)
+B) Stomach (পেট)
+C) Small intestine (ক্ষুদ্রান্ত্র)
+D) Large intestine (বৃহদান্ত্র)
+Answer: C
+
+Absorption of digested food occurs in: (পাচিত খাদ্যের অবশোষণ কোথায় হয়?)
+A) Stomach (পেট)
+B) Small intestine (ক্ষুদ্রান্ত্র)
+C) Large intestine (বৃহদান্ত্র)
+D) Mouth (মুখ)
+Answer: B
+
+Finger-like projections in intestine are called: (আন্ত্রের আঙুলের মতো গঠন কী নামে পরিচিত?)
+A) Cilia (সিলিয়া)
+B) Villi (ভিলাই)
+C) Cells (কোষ)
+D) Fibers (তন্তু)
+Answer: B
+
+Function of villi: (ভিলাইয়ের কাজ কী?)
+A) Digestion (পাচন)
+B) Absorption (অবশোষণ)
+C) Circulation (সঞ্চালন)
+D) Excretion (উৎসর্জন)
+Answer: B
+
+Biological catalyst is: (জৈব অনুঘটক কী?)
+A) Hormone (হরমোন)
+B) Enzyme (এনজাইম)
+C) Acid (অম্ল)
+D) Salt (লবণ)
+Answer: B
+
+Enzymes are: (এনজাইম কেমন?)
+A) Non-specific (অ-নির্দিষ্ট)
+B) Specific (নির্দিষ্ট)
+C) Random (অনিয়মিত)
+D) General (সাধারণ)
+Answer: B
+
+Which enzyme converts starch to maltose? (কোন এনজাইম স্টার্চকে মালটোজে রূপান্তরিত করে?)
+A) Lipase (লাইপেজ)
+B) Amylase (অ্যামাইলেজ)
+C) Trypsin (ট্রিপসিন)
+D) Pepsin (পেপসিন)
+Answer: B
+
+Which enzyme converts protein into peptides? (কোন এনজাইম প্রোটিনকে পেপটাইডে ভাঙে?)
+A) Amylase (অ্যামাইলেজ)
+B) Lipase (লাইপেজ)
+C) Pepsin (পেপসিন)
+D) Maltase (মাল্টেজ)
+Answer: C
+
+Which enzyme converts fats into fatty acids? (কোন এনজাইম চর্বিকে ফ্যাটি অ্যাসিডে ভাঙে?)
+A) Lipase (লাইপেজ)
+B) Trypsin (ট্রিপসিন)
+C) Amylase (অ্যামাইলেজ)
+D) Pepsin (পেপসিন)
+Answer: A
+
+Large intestine mainly absorbs: (বৃহদান্ত্র প্রধানত কী শোষণ করে?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Water (জল)
+D) Glucose (গ্লুকোজ)
+Answer: C
+
+Length of small intestine: (ক্ষুদ্রান্ত্রের দৈর্ঘ্য কত?)
+A) 2 m (২ মিটার)
+B) 4 m (৪ মিটার)
+C) 6 m (৬ মিটার)
+D) 10 m (১০ মিটার)
+Answer: C
+
+Length of large intestine: (বৃহদান্ত্রের দৈর্ঘ্য কত?)
+A) 1.5 m (১.৫ মিটার)
+B) 3 m (৩ মিটার)
+C) 5 m (৫ মিটার)
+D) 7 m (৭ মিটার)
+Answer: A
+
+Appendix is attached to: (অ্যাপেন্ডিক্স কোথায় যুক্ত থাকে?)
+A) Stomach (পেট)
+B) Small intestine (ক্ষুদ্রান্ত্র)
+C) Large intestine (বৃহদান্ত্র)
+D) Liver (যকৃত)
+Answer: C
+
+Inflammation of appendix is called: (অ্যাপেন্ডিক্সের প্রদাহকে কী বলে?)
+A) Gastritis (গ্যাস্ট্রাইটিস)
+B) Appendicitis (অ্যাপেন্ডিসাইটিস)
+C) Hepatitis (হেপাটাইটিস)
+D) Colitis (কোলাইটিস)
+Answer: B
+
+Which organ produces insulin? (কোন অঙ্গ ইনসুলিন উৎপন্ন করে?)
+A) Liver (যকৃত)
+B) Pancreas (অগ্ন্যাশয়)
+C) Kidney (কিডনি)
+D) Stomach (পেট)
+Answer: B
+
+Insulin controls: (ইনসুলিন কী নিয়ন্ত্রণ করে?)
+A) Blood pressure (রক্তচাপ)
+B) Blood sugar (রক্তে শর্করা)
+C) Digestion (পাচন)
+D) Temperature (তাপমাত্রা)
+Answer: B
+
+Which organ stores bile? (কোন অঙ্গ পিত্ত সঞ্চয় করে?)
+A) Liver (যকৃত)
+B) Gall bladder (পিত্তথলি)
+C) Pancreas (অগ্ন্যাশয়)
+D) Kidney (কিডনি)
+Answer: B
+
+Which organ produces bile? (কোন অঙ্গ পিত্ত উৎপন্ন করে?)
+A) Pancreas (অগ্ন্যাশয়)
+B) Liver (যকৃত)
+C) Stomach (পেট)
+D) Intestine (আন্ত্র)
+Answer: B
+
+Bile helps in digestion of: (পিত্ত কোন খাদ্য হজমে সাহায্য করে?)
+A) Protein (প্রোটিন)
+B) Carbohydrate (কার্বোহাইড্রেট)
+C) Fat (চর্বি)
+D) Vitamin (ভিটামিন)
+Answer: C
+
+Which enzyme converts maltose to glucose? (কোন এনজাইম মালটোজকে গ্লুকোজে রূপান্তরিত করে?)
+A) Maltase (মাল্টেজ)
+B) Lipase (লাইপেজ)
+C) Pepsin (পেপসিন)
+D) Trypsin (ট্রিপসিন)
+Answer: A
+
+Which enzyme converts lactose to glucose? (কোন এনজাইম ল্যাকটোজকে গ্লুকোজে ভাঙে?)
+A) Maltase (মাল্টেজ)
+B) Lactase (ল্যাকটেজ)
+C) Lipase (লাইপেজ)
+D) Amylase (অ্যামাইলেজ)
+Answer: B
+
+Which enzyme converts sucrose to glucose? (কোন এনজাইম সুক্রোজকে গ্লুকোজে ভাঙে?)
+A) Sucrase (সুক্রেজ)
+B) Maltase (মাল্টেজ)
+C) Lipase (লাইপেজ)
+D) Pepsin (পেপসিন)
+Answer: A
+
+Which part secretes gastric juice? (কোন অংশ জঠর রস নিঃসরণ করে?)
+A) Liver (যকৃত)
+B) Stomach (পেট)
+C) Pancreas (অগ্ন্যাশয়)
+D) Intestine (আন্ত্র)
+Answer: B
+
+Which organ absorbs water? (কোন অঙ্গ জল শোষণ করে?)
+A) Stomach (পেট)
+B) Small intestine (ক্ষুদ্রান্ত্র)
+C) Large intestine (বৃহদান্ত্র)
+D) Mouth (মুখ)
+Answer: C
+
+Which organ forms feces? (কোন অঙ্গ মল তৈরি করে?)
+A) Liver (যকৃত)
+B) Stomach (পেট)
+C) Large intestine (বৃহদান্ত্র)
+D) Pancreas (অগ্ন্যাশয়)
+Answer: C
+
+Which part stores feces? (কোন অংশ মল সঞ্চয় করে?)
+A) Rectum (মলাশয়)
+B) Liver (যকৃত)
+C) Stomach (পেট)
+D) Kidney (কিডনি)
+Answer: A
+
+Which opening removes feces? (কোন ছিদ্র দিয়ে মল বের হয়?)
+A) Mouth (মুখ)
+B) Anus (গুহ্যদ্বার)
+C) Nose (নাক)
+D) Ear (কান)
+Answer: B
+
+Digestion of protein starts in: (প্রোটিনের পাচন কোথায় শুরু হয়?)
+A) Mouth (মুখ)
+B) Stomach (পেট)
+C) Intestine (আন্ত্র)
+D) Liver (যকৃত)
+Answer: B
+
+Digestion of starch starts in: (স্টার্চের পাচন কোথায় শুরু হয়?)
+A) Mouth (মুখ)
+B) Stomach (পেট)
+C) Intestine (আন্ত্র)
+D) Liver (যকৃত)
+Answer: A
+
+Digestion of fat starts in: (চর্বির পাচন কোথায় শুরু হয়?)
+A) Mouth (মুখ)
+B) Stomach (পেট)
+C) Small intestine (ক্ষুদ্রান্ত্র)
+D) Liver (যকৃত)
+Answer: C
+
+Which enzyme works in acidic medium? (কোন এনজাইম অম্লীয় মাধ্যমে কাজ করে?)
+A) Amylase (অ্যামাইলেজ)
+B) Pepsin (পেপসিন)
+C) Trypsin (ট্রিপসিন)
+D) Lipase (লাইপেজ)
+Answer: B
+
+Which enzyme works in alkaline medium? (কোন এনজাইম ক্ষারীয় মাধ্যমে কাজ করে?)
+A) Pepsin (পেপসিন)
+B) Amylase (অ্যামাইলেজ)
+C) Trypsin (ট্রিপসিন)
+D) All of these (সবগুলো)
+Answer: C
+
+Which vitamin is produced in large intestine? (বৃহদান্ত্রে কোন ভিটামিন তৈরি হয়?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin C (ভিটামিন C)
+C) Vitamin K (ভিটামিন K)
+D) Vitamin D (ভিটামিন D)
+Answer: C
+
+Which bacteria help in digestion? (কোন ব্যাকটেরিয়া পাচনে সাহায্য করে?)
+A) Harmful bacteria (ক্ষতিকর ব্যাকটেরিয়া)
+B) Useful bacteria (উপকারী ব্যাকটেরিয়া)
+C) Virus (ভাইরাস)
+D) Fungi (ছত্রাক)
+Answer: B
+
+Which organ detoxifies blood? (কোন অঙ্গ রক্তকে বিষমুক্ত করে?)
+A) Kidney (কিডনি)
+B) Liver (যকৃত)
+C) Heart (হৃদপিণ্ড)
+D) Lung (ফুসফুস)
+Answer: B
+
+Which organ produces digestive enzymes and hormones? (কোন অঙ্গ এনজাইম ও হরমোন দুটোই উৎপন্ন করে?)
+A) Liver (যকৃত)
+B) Pancreas (অগ্ন্যাশয়)
+C) Stomach (পেট)
+D) Intestine (আন্ত্র)
+Answer: B
+
+Great 👍 finishing 81–100 (Final Set)
+
+
+---
+
+Which organ secretes saliva? (কোন অঙ্গ লালা নিঃসরণ করে?)
+A) Liver (যকৃত)
+B) Salivary glands (লালাগ্রন্থি)
+C) Pancreas (অগ্ন্যাশয়)
+D) Stomach (পেট)
+Answer: B
+
+Which enzyme is present in saliva? (লালায় কোন এনজাইম থাকে?)
+A) Pepsin (পেপসিন)
+B) Amylase (অ্যামাইলেজ)
+C) Trypsin (ট্রিপসিন)
+D) Lipase (লাইপেজ)
+Answer: B
+
+Which part helps in chewing food? (কোন অংশ খাদ্য চিবাতে সাহায্য করে?)
+A) Teeth (দাঁত)
+B) Tongue (জিহ্বা)
+C) Liver (যকৃত)
+D) Pancreas (অগ্ন্যাশয়)
+Answer: A
+
+Which teeth are used for cutting? (কোন দাঁত কাটার কাজে ব্যবহৃত হয়?)
+A) Molars (মোলার)
+B) Premolars (প্রিমোলার)
+C) Incisors (ইনসাইজর)
+D) Canines (ক্যানাইন)
+Answer: C
+
+Which teeth are used for tearing? (কোন দাঁত ছিঁড়তে ব্যবহৃত হয়?)
+A) Incisors (ইনসাইজর)
+B) Molars (মোলার)
+C) Canines (ক্যানাইন)
+D) Premolars (প্রিমোলার)
+Answer: C
+
+Which teeth are used for grinding? (কোন দাঁত খাদ্য পিষতে ব্যবহৃত হয়?)
+A) Incisors (ইনসাইজর)
+B) Canines (ক্যানাইন)
+C) Molars (মোলার)
+D) All (সবগুলো)
+Answer: C
+
+Which organ mixes food with saliva? (কোন অঙ্গ খাদ্যকে লালার সাথে মিশায়?)
+A) Teeth (দাঁত)
+B) Tongue (জিহ্বা)
+C) Liver (যকৃত)
+D) Intestine (আন্ত্র)
+Answer: B
+
+Which part pushes food into oesophagus? (কোন অংশ খাদ্যকে গ্রাসনালীতে ঠেলে দেয়?)
+A) Teeth (দাঁত)
+B) Tongue (জিহ্বা)
+C) Stomach (পেট)
+D) Liver (যকৃত)
+Answer: B
+
+Which movement pushes food down the oesophagus? (কোন গতি খাদ্যকে নিচে নামায়?)
+A) Diffusion (বিসরণ)
+B) Peristalsis (পেরিস্টালসিস)
+C) Osmosis (অস্মোসিস)
+D) Filtration (পরিস্রবণ)
+Answer: B
+
+Which valve prevents food from going back to oesophagus? (কোন ভালভ খাদ্যকে ফিরে যেতে বাধা দেয়?)
+A) Pyloric valve (পাইলোরিক ভালভ)
+B) Cardiac sphincter (কার্ডিয়াক স্পিঙ্কটার)
+C) Ileocaecal valve (ইলিওসেকাল ভালভ)
+D) Anal sphincter (অ্যানাল স্পিঙ্কটার)
+Answer: B
+
+Which part connects stomach to small intestine? (কোন অংশ পেটকে ক্ষুদ্রান্ত্রের সাথে যুক্ত করে?)
+A) Cardiac sphincter (কার্ডিয়াক স্পিঙ্কটার)
+B) Pyloric sphincter (পাইলোরিক স্পিঙ্কটার)
+C) Ileum (ইলিয়াম)
+D) Colon (কোলন)
+Answer: B
+
+Which part of small intestine receives bile? (ক্ষুদ্রান্ত্রের কোন অংশ পিত্ত গ্রহণ করে?)
+A) Duodenum (ডুওডেনাম)
+B) Jejunum (জেজুনাম)
+C) Ileum (ইলিয়াম)
+D) Colon (কোলন)
+Answer: A
+
+Which part absorbs maximum nutrients? (কোন অংশ সর্বাধিক পুষ্টি শোষণ করে?)
+A) Duodenum (ডুওডেনাম)
+B) Jejunum (জেজুনাম)
+C) Ileum (ইলিয়াম)
+D) Rectum (মলাশয়)
+Answer: C
+
+Which part of large intestine is longest? (বৃহদান্ত্রের কোন অংশ সবচেয়ে বড়?)
+A) Caecum (সিকাম)
+B) Colon (কোলন)
+C) Rectum (মলাশয়)
+D) Appendix (অ্যাপেন্ডিক্স)
+Answer: B
+
+Which organ absorbs water and salts? (কোন অঙ্গ জল ও লবণ শোষণ করে?)
+A) Stomach (পেট)
+B) Small intestine (ক্ষুদ্রান্ত্র)
+C) Large intestine (বৃহদান্ত্র)
+D) Mouth (মুখ)
+Answer: C
+
+Which organ stores undigested food? (কোন অঙ্গ অপাচ্য খাদ্য সঞ্চয় করে?)
+A) Liver (যকৃত)
+B) Stomach (পেট)
+C) Rectum (মলাশয়)
+D) Kidney (কিডনি)
+Answer: C
+
+Which process is removal of waste? (বর্জ্য অপসারণের প্রক্রিয়া কী?)
+A) Digestion (পাচন)
+B) Absorption (অবশোষণ)
+C) Egestion (উৎসর্জন)
+D) Assimilation (সঙ্গীকরণ)
+Answer: C
+
+Which nutrient is absorbed without digestion? (কোন পুষ্টি হজম ছাড়াই শোষিত হয়?)
+A) Protein (প্রোটিন)
+B) Fat (চর্বি)
+C) Vitamin (ভিটামিন)
+D) Starch (স্টার্চ)
+Answer: C
+
+Which organ secretes digestive juice and stores food? (কোন অঙ্গ পাচকরস নিঃসরণ করে ও খাদ্য সঞ্চয় করে?)
+A) Liver (যকৃত)
+B) Stomach (পেট)
+C) Pancreas (অগ্ন্যাশয়)
+D) Intestine (আন্ত্র)
+Answer: B
+
+Which system helps in breakdown of food? (কোন তন্ত্র খাদ্য ভাঙতে সাহায্য করে?)
+A) Respiratory system (শ্বসনতন্ত্র)
+B) Digestive system (পাচনতন্ত্র)
+C) Nervous system (স্নায়ুতন্ত্র)
+D) Circulatory system (রক্ত সঞ্চালন তন্ত্র)
+Answer: B

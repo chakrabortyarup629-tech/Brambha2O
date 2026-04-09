@@ -296,8 +296,6 @@ def leaderboard(message):
 # ===== RUN =====
 print("Bot Running...")
 
-print("Bot Running...")
-
 bot.remove_webhook()   # 🔥 VERY IMPORTANT
 time.sleep(2)
 

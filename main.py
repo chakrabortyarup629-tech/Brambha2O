@@ -3,241 +3,188 @@ from telebot import types
 import os
 import random
 import time
+import threading # Added for non-blocking quiz loops
 
-# ===== TOKEN =====
 API_TOKEN = os.getenv("BOT_TOKEN")
 bot = telebot.TeleBot(API_TOKEN)
 
 ADMIN_KEY = "Eshu2005aru"
-GROUP_ID = -1003746627836  # your group id
+GROUP_ID = -1003746627836
 
 # ===== DATA =====
 question_bank = {}
-used_questions = set()
 user_state = {}
 user_step = {}
 selected_chapters = {}
-
-# ===== SCORE =====
-user_scores = {}
-poll_correct_answers = {}
-
-# ===== ADMIN CONTROL =====
-poll_answers_count = {}
-poll_active = {}
-MIN_RESPONSES = 3
-admin_chat_id = None
+active_quizzes = {} # Track if a quiz is running per chat
 
 # ===== LOAD QUESTIONS =====
 def load_questions():
     try:
+        # Ensure directory exists
+        if not os.path.exists("questions/biology.txt"):
+            print("File not found: questions/biology.txt")
+            return
+
         with open("questions/biology.txt", "r", encoding="utf-8") as f:
-            text = f.read()
+            content = f.read()
 
-        current_chapter = ""
+        # Split by double newline to get blocks
+        blocks = content.strip().split("\n\n")
+        current_chapter = "General"
 
-        for block in text.split("\n\n"):
-            lines = block.strip().split("\n")
+        for block in blocks:
+            lines = [line.strip() for line in block.split("\n") if line.strip()]
+            
+            # Check for chapter header
+            header_line = next((l for l in lines if l.startswith("#chapter:")), None)
+            if header_line:
+                current_chapter = header_line.split(":")[1].strip()
+                continue # Skip the header block itself
 
-            for line in lines:
-                if line.startswith("#chapter:"):
-                    current_chapter = line.split(":")[1].strip()
+            # Validate block has question, 4 options, and answer
+            if len(lines) >= 6 and "Answer:" in lines[-1]:
+                question_bank.setdefault("biology", {}).setdefault(current_chapter, []).append(lines)
 
-            if "Answer:" in block:
-                question_bank.setdefault("biology", {}).setdefault(current_chapter, []).append(block)
-
-        print("Questions loaded ✅")
+        print(f"Questions loaded: {len(question_bank.get('biology', {}))} chapters found. ✅")
 
     except Exception as e:
-        print("ERROR loading questions:", e)
+        print("Error loading questions:", e)
 
 load_questions()
 
-# ===== START COMMAND =====
+# ===== QUIZ LOGIC (Threaded) =====
+def run_quiz_thread(chat_id, data):
+    chapters = data['chapters']
+    count = data['count']
+    timer = data['timer']
+    
+    pool = []
+    for ch in chapters:
+        pool.extend(question_bank["biology"].get(ch, []))
+    
+    # Safely sample questions
+    num_to_send = min(count, len(pool))
+    questions = random.sample(pool, num_to_send)
+
+    bot.send_message(chat_id, f"🚀 Starting quiz with {num_to_send} questions!")
+
+    for lines in questions:
+        # Check if quiz was stopped (optional logic)
+        question_text = lines[0]
+        options = [lines[1][3:], lines[2][3:], lines[3][3:], lines[4][3:]]
+        
+        # Parse Answer (Expected format: "Answer: A")
+        ans_line = lines[-1]
+        ans_char = ans_line.split(":")[-1].strip().upper()
+        correct_idx = ord(ans_char) - ord("A")
+
+        try:
+            bot.send_poll(
+                chat_id=GROUP_ID,
+                question=question_text,
+                options=options,
+                type="quiz",
+                correct_option_id=correct_idx,
+                is_anonymous=False,
+                open_period=timer
+            )
+        except Exception as e:
+            print(f"Error sending poll: {e}")
+        
+        time.sleep(timer + 2) # Buffer for Telegram processing
+
+    bot.send_message(chat_id, "🏁 Quiz Finished!")
+
+# ===== HANDLERS =====
+
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.send_message(message.chat.id, "👋 Welcome!\nUse /admin to start quiz 🔐")
+    bot.send_message(message.chat.id, "👋 Welcome! Use /admin to configure the quiz.")
 
-# ===== ADMIN LOGIN =====
 @bot.message_handler(commands=['admin'])
 def admin(message):
-    msg = bot.send_message(message.chat.id, "🔑 Enter Admin Key:")
-    bot.register_next_step_handler(msg, check_admin)
+    user_step[message.chat.id] = "admin_key"
+    bot.send_message(message.chat.id, "🔑 Enter Admin Key:")
 
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "admin_key")
 def check_admin(message):
-    global admin_chat_id
-
     if message.text == ADMIN_KEY:
-        admin_chat_id = message.chat.id
         user_step[message.chat.id] = "subject"
-        show_subject(message.chat.id)
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
+        markup.add("Biology")
+        bot.send_message(message.chat.id, "✅ Access Granted. Choose Subject:", reply_markup=markup)
     else:
-        bot.send_message(message.chat.id, "❌ Wrong key")
-
-# ===== SUBJECT =====
-def show_subject(chat_id):
-    markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add("Biology")
-    bot.send_message(chat_id, "📚 Choose Subject:", reply_markup=markup)
+        bot.send_message(message.chat.id, "❌ Wrong key.")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "subject")
 def handle_subject(message):
-    chat_id = message.chat.id
-    user_state[chat_id] = {}
-    user_step[chat_id] = "mode"
-
+    user_state[message.chat.id] = {}
+    user_step[message.chat.id] = "mode"
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     markup.add("Mix 🎯", "Chapter-wise 📂")
+    bot.send_message(message.chat.id, "Choose Mode:", reply_markup=markup)
 
-    bot.send_message(chat_id, "Choose Mode:", reply_markup=markup)
-
-# ===== MODE =====
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "mode")
 def handle_mode(message):
-    chat_id = message.chat.id
-
     if message.text == "Mix 🎯":
-        user_state[chat_id]['chapters'] = list(question_bank["biology"].keys())
-        user_step[chat_id] = "count"
-
-        msg = bot.send_message(chat_id, "🔢 Enter number of questions:")
-        bot.register_next_step_handler(msg, save_count)
-
+        user_state[message.chat.id]['chapters'] = list(question_bank["biology"].keys())
+        user_step[message.chat.id] = "count"
+        bot.send_message(message.chat.id, "🔢 Enter number of questions:")
     elif message.text == "Chapter-wise 📂":
-        user_step[chat_id] = "chapter"
-        selected_chapters[chat_id] = set()
-        show_chapters(chat_id)
+        user_step[message.chat.id] = "chapter"
+        selected_chapters[message.chat.id] = set()
+        show_chapters(message.chat.id)
 
-# ===== CHAPTER =====
 def show_chapters(chat_id):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     for ch in question_bank["biology"]:
         markup.add(ch)
     markup.add("DONE ✅")
-
-    bot.send_message(chat_id, "Select chapters then DONE:", reply_markup=markup)
+    bot.send_message(chat_id, "Select chapters then click DONE:", reply_markup=markup)
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "chapter")
 def select_chapter(message):
-    chat_id = message.chat.id
-
     if message.text == "DONE ✅":
-        user_state[chat_id]['chapters'] = list(selected_chapters[chat_id])
-        user_step[chat_id] = "count"
-
-        msg = bot.send_message(chat_id, "🔢 Enter number of questions:")
-        bot.register_next_step_handler(msg, save_count)
+        if not selected_chapters.get(message.chat.id):
+            return bot.send_message(message.chat.id, "Please select at least one chapter!")
+        user_state[message.chat.id]['chapters'] = list(selected_chapters[message.chat.id])
+        user_step[message.chat.id] = "count"
+        bot.send_message(message.chat.id, "🔢 Enter number of questions:")
     else:
-        selected_chapters[chat_id].add(message.text)
-        bot.send_message(chat_id, f"✅ Added: {message.text}")
+        selected_chapters[message.chat.id].add(message.text)
+        bot.send_message(message.chat.id, f"✅ Added: {message.text}")
 
-# ===== COUNT =====
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "count")
 def save_count(message):
-    chat_id = message.chat.id
-    user_state[chat_id]['count'] = int(message.text)
-    user_step[chat_id] = "timer"
+    try:
+        user_state[message.chat.id]['count'] = int(message.text)
+        user_step[message.chat.id] = "timer"
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+        markup.add("15", "30", "45", "60")
+        bot.send_message(message.chat.id, "⏱️ Select seconds per question:", reply_markup=markup)
+    except:
+        bot.send_message(message.chat.id, "❌ Please send a valid number.")
 
-    markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add("10", "20", "30", "60")
-
-    bot.send_message(chat_id, "⏱️ Select timer:", reply_markup=markup)
-
-# ===== TIMER =====
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "timer")
 def save_timer(message):
-    chat_id = message.chat.id
-    user_state[chat_id]['timer'] = int(message.text)
-    user_step[chat_id] = "start"
+    try:
+        user_state[message.chat.id]['timer'] = int(message.text)
+        user_step[message.chat.id] = "ready"
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+        markup.add("START QUIZ 🚀")
+        bot.send_message(message.chat.id, "Ready to go?", reply_markup=markup)
+    except:
+        bot.send_message(message.chat.id, "❌ Select from the options.")
 
-    markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add("START QUIZ 🚀")
-
-    bot.send_message(chat_id, "Ready?", reply_markup=markup)
-
-# ===== RANDOM =====
-def get_questions(chapters, count):
-    pool = []
-    for ch in chapters:
-        pool.extend(question_bank["biology"].get(ch, []))
-
-    available = [q for q in pool if q not in used_questions]
-
-    if len(available) < count:
-        used_questions.clear()
-        available = pool
-
-    selected = random.sample(available, min(count, len(available)))
-
-    for q in selected:
-        used_questions.add(q)
-
-    return selected
-
-# ===== SEND POLL =====
-def send_poll(block, timer):
-    lines = [l.strip() for l in block.split("\n") if l.strip()]
-
-    question = lines[0]
-    options = [lines[1][3:], lines[2][3:], lines[3][3:], lines[4][3:]]
-
-    ans = "A"
-    for l in lines:
-        if "Answer:" in l:
-            ans = l.split(":")[-1].strip()
-
-    idx = ord(ans) - ord("A")
-
-    poll = bot.send_poll(
-        chat_id=GROUP_ID,
-        question=question,
-        options=options,
-        type="quiz",
-        correct_option_id=idx,
-        is_anonymous=False,
-        open_period=timer
-    )
-
-    poll_id = poll.poll.id
-    poll_correct_answers[poll_id] = idx
-    poll_answers_count[poll_id] = 0
-    poll_active[poll_id] = True
-
-    return poll_id
-
-# ===== START QUIZ =====
-@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "start")
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "ready")
 def start_quiz(message):
-    chat_id = message.chat.id
-    data = user_state[chat_id]
-
-    questions = get_questions(data['chapters'], data['count'])
-
-    bot.send_message(chat_id, "🚀 Quiz Started!")
-
-    for q in questions:
-        poll_id = send_poll(q, data['timer'])
-        start = time.time()
-
-        while True:
-            if not poll_active.get(poll_id, True):
-                break
-            if poll_answers_count.get(poll_id, 0) >= MIN_RESPONSES:
-                break
-            if time.time() - start > data['timer']:
-                break
-            time.sleep(1)
-
-    bot.send_message(GROUP_ID, "🏁 Quiz Finished!\nType /leaderboard")
-
-# ===== DEBUG HANDLER =====
-@bot.message_handler(func=lambda m: True)
-def debug_all(message):
-    print("Received:", message.text)
+    if message.text == "START QUIZ 🚀":
+        data = user_state.get(message.chat.id)
+        # Run quiz in a separate thread so the bot stays responsive
+        threading.Thread(target=run_quiz_thread, args=(message.chat.id, data)).start()
+        user_step[message.chat.id] = None # Reset state
 
 # ===== RUN =====
 print("Bot Running...")
-
-bot.remove_webhook()
-time.sleep(2)
-
-bot.polling(none_stop=True, interval=0, timeout=20)
+bot.polling(none_stop=True)

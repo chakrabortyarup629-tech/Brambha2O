@@ -3105,3 +3105,522 @@ C) Respiration (শ্বসন)
 D) Circulation (সঞ্চালন)
 Answer: B
 
+#chapter: Nervous System
+
+Control and coordination help in: (নিয়ন্ত্রণ ও সমন্বয় কী সাহায্য করে?)
+A) Digestion (হজম)
+B) Detecting stimuli & response (উত্তেজনা শনাক্ত ও প্রতিক্রিয়া)
+C) Breathing (শ্বাস নেওয়া)
+D) Circulation (সঞ্চালন)
+Answer: B
+
+Nervous system consists of: (স্নায়ুতন্ত্র কী নিয়ে গঠিত?)
+A) Brain, spinal cord, nerves (মস্তিষ্ক, মেরুরজ্জু, স্নায়ু)
+B) Heart and lungs (হৃদয় ও ফুসফুস)
+C) Liver and kidney (যকৃত ও কিডনি)
+D) Blood vessels (রক্তনালী)
+Answer: A
+
+Central nervous system includes: (কেন্দ্রীয় স্নায়ুতন্ত্রে কী থাকে?)
+A) Nerves only (শুধু স্নায়ু)
+B) Brain only (শুধু মস্তিষ্ক)
+C) Brain and spinal cord (মস্তিষ্ক ও মেরুরজ্জু)
+D) Spinal nerves only (শুধু স্পাইনাল নার্ভ)
+Answer: C
+
+Peripheral nervous system includes: (পরিধীয় স্নায়ুতন্ত্রে কী থাকে?)
+A) Brain only (শুধু মস্তিষ্ক)
+B) Cranial and spinal nerves (কপাল ও স্পাইনাল স্নায়ু)
+C) Spinal cord only (শুধু মেরুরজ্জু)
+D) Heart nerves (হৃদয়ের স্নায়ু)
+Answer: B
+
+Brain is located in: (মস্তিষ্ক কোথায় অবস্থিত?)
+A) Chest (বুক)
+B) Abdomen (পেট)
+C) Skull (খুলি)
+D) Backbone (মেরুদণ্ড)
+Answer: C
+
+Average brain weight in humans: (মানুষের মস্তিষ্কের গড় ওজন?)
+A) 500–700 g (৫০০–৭০০ গ্রাম)
+B) 1200–1400 g (১২০০–১৪০০ গ্রাম)
+C) 2000 g (২০০০ গ্রাম)
+D) 300 g (৩০০ গ্রাম)
+Answer: B
+
+Brain weight is about: (মস্তিষ্কের ওজন মোট শরীরের কত অংশ?)
+A) 5% (৫%)
+B) 10% (১০%)
+C) 2% (২%)
+D) 15% (১৫%)
+Answer: C
+
+Outermost layer of brain covering: (মস্তিষ্কের বাইরের স্তর কী?)
+A) Pia mater (পিয়া ম্যাটার)
+B) Arachnoid (এরাকনয়েড)
+C) Dura mater (ডিউরা ম্যাটার)
+D) Cortex (কর্টেক্স)
+Answer: C
+
+Brain has how many main parts? (মস্তিষ্কের প্রধান অংশ কয়টি?)
+A) 2 (২)
+B) 3 (৩)
+C) 4 (৪)
+D) 5 (৫)
+Answer: B
+
+Largest part of brain: (মস্তিষ্কের সবচেয়ে বড় অংশ?)
+A) Cerebellum (সেরিবেলাম)
+B) Medulla (মেডুলা)
+C) Cerebrum (সেরিব্রাম)
+D) Pons (পনস)
+Answer: C
+
+Cerebrum controls: (সেরিব্রাম কী নিয়ন্ত্রণ করে?)
+A) Involuntary actions (অনৈচ্ছিক কাজ)
+B) Thinking and memory (চিন্তা ও স্মৃতি)
+C) Heart beat (হৃদস্পন্দন)
+D) Breathing (শ্বাস নেওয়া)
+Answer: B
+
+Midbrain controls: (মিডব্রেন কী নিয়ন্ত্রণ করে?)
+A) Balance (সন্তুলন)
+B) Sensory organs (ইন্দ্রিয় অঙ্গ)
+C) Digestion (হজম)
+D) Blood flow (রক্ত প্রবাহ)
+Answer: B
+
+Hindbrain includes: (পশ্চাৎ মস্তিষ্কে কী থাকে?)
+A) Cerebrum (সেরিব্রাম)
+B) Thalamus (থ্যালামাস)
+C) Cerebellum, pons, medulla (সেরিবেলাম, পনস, মেডুলা)
+D) Hypothalamus (হাইপোথ্যালামাস)
+Answer: C
+
+Cerebellum controls: (সেরিবেলাম কী নিয়ন্ত্রণ করে?)
+A) Thinking (চিন্তা)
+B) Balance and posture (সন্তুলন ও ভঙ্গি)
+C) Respiration (শ্বাস)
+D) Digestion (হজম)
+Answer: B
+
+Medulla controls: (মেডুলা কী নিয়ন্ত্রণ করে?)
+A) Memory (স্মৃতি)
+B) Voluntary action (ইচ্ছাধীন কাজ)
+C) Involuntary actions (অনৈচ্ছিক কাজ)
+D) Thinking (চিন্তা)
+Answer: C
+
+Spinal cord controls: (মেরুরজ্জু কী নিয়ন্ত্রণ করে?)
+A) Digestion (হজম)
+B) Reflex action (প্রতিবর্ত ক্রিয়া)
+C) Thinking (চিন্তা)
+D) Memory (স্মৃতি)
+Answer: B
+
+Length of spinal cord: (মেরুরজ্জুর দৈর্ঘ্য?)
+A) 20 cm (২০ সেমি)
+B) 30 cm (৩০ সেমি)
+C) 45 cm (৪৫ সেমি)
+D) 60 cm (৬০ সেমি)
+Answer: C
+
+Reflex action is: (প্রতিবর্ত ক্রিয়া কী?)
+A) Slow response (ধীর প্রতিক্রিয়া)
+B) Automatic quick response (দ্রুত স্বয়ংক্রিয় প্রতিক্রিয়া)
+C) Voluntary action (ইচ্ছাধীন কাজ)
+D) Thinking process (চিন্তা প্রক্রিয়া)
+Answer: B
+
+Reflex arc is: (রিফ্লেক্স আর্ক কী?)
+A) Bone structure (অস্থি গঠন)
+B) Neural pathway (স্নায়বিক পথ)
+C) Blood vessel (রক্তনালী)
+D) Muscle fiber (পেশি তন্তু)
+Answer: B
+
+Reflex arc occurs in: (রিফ্লেক্স আর্ক কোথায় হয়?)
+A) Brain (মস্তিষ্ক)
+B) Spinal cord (মেরুরজ্জু)
+C) Heart (হৃদয়)
+D) Kidney (কিডনি)
+Answer: B
+
+Neuron is: (নিউরন কী?)
+A) Tissue (টিস্যু)
+B) Cell (কোষ)
+C) Organ (অঙ্গ)
+D) System (তন্ত্র)
+Answer: B
+
+Neuron is functional unit of: (নিউরন কোন তন্ত্রের একক?)
+A) Digestive (হজম তন্ত্র)
+B) Nervous system (স্নায়ুতন্ত্র)
+C) Circulatory (সঞ্চালন তন্ত্র)
+D) Respiratory (শ্বসন তন্ত্র)
+Answer: B
+
+Longest cell in body: (শরীরের দীর্ঘতম কোষ?)
+A) Muscle cell (পেশি কোষ)
+B) Nerve cell (স্নায়ু কোষ)
+C) Blood cell (রক্ত কোষ)
+D) Fat cell (চর্বি কোষ)
+Answer: B
+
+Dendrites function: (ডেনড্রাইটের কাজ?)
+A) Carry impulses away (সংকেত দূরে বহন)
+B) Receive impulses (সংকেত গ্রহণ)
+C) Store energy (শক্তি সংরক্ষণ)
+D) Produce hormones (হরমোন তৈরি)
+Answer: B
+
+Axon function: (অ্যাক্সনের কাজ?)
+A) Receive impulse (সংকেত গ্রহণ)
+B) Carry impulse away (সংকেত বহন)
+C) Store food (খাদ্য সংরক্ষণ)
+D) Filter blood (রক্ত ছাঁকা)
+Answer: B
+
+Myelin sheath helps in: (মাইলিন শিথ কী সাহায্য করে?)
+A) Slow conduction (ধীর গতি)
+B) Fast conduction (দ্রুত গতি)
+C) Storage (সংরক্ষণ)
+D) Digestion (হজম)
+Answer: B
+
+Node of Ranvier helps: (নোড অফ র্যানভিয়ার কী সাহায্য করে?)
+A) Digestion (হজম)
+B) Fast impulse transmission (দ্রুত সংকেত পরিবহন)
+C) Blood flow (রক্ত প্রবাহ)
+D) Breathing (শ্বাস)
+Answer: B
+
+Cranial nerves pairs: (কপাল স্নায়ু কত জোড়া?)
+A) 10 (১০)
+B) 12 (১২)
+C) 31 (৩১)
+D) 20 (২০)
+Answer: B
+
+Spinal nerves pairs: (স্পাইনাল স্নায়ু কত জোড়া?)
+A) 12 (১২)
+B) 31 (৩১)
+C) 24 (২৪)
+D) 20 (২০)
+Answer: B
+
+Receptors detect: (রিসেপ্টর কী শনাক্ত করে?)
+A) Food (খাদ্য)
+B) Stimuli (উত্তেজনা)
+C) Blood (রক্ত)
+D) Hormones (হরমোন)
+Answer: B
+
+Olfactory receptors detect: (ঘ্রাণ রিসেপ্টর কী শনাক্ত করে?)
+A) Taste (স্বাদ)
+B) Smell (গন্ধ)
+C) Light (আলো)
+D) Sound (শব্দ)
+Answer: B
+
+Gustatory receptors detect: (গাস্টেটরি রিসেপ্টর কী শনাক্ত করে?)
+A) Smell (গন্ধ)
+B) Taste (স্বাদ)
+C) Light (আলো)
+D) Touch (স্পর্শ)
+Answer: B
+
+Photoreceptors detect: (ফোটোরিসেপ্টর কী শনাক্ত করে?)
+A) Sound (শব্দ)
+B) Light (আলো)
+C) Taste (স্বাদ)
+D) Smell (গন্ধ)
+Answer: B
+
+Phonoreceptors detect: (ফোনোরিসেপ্টর কী শনাক্ত করে?)
+A) Light (আলো)
+B) Sound (শব্দ)
+C) Taste (স্বাদ)
+D) Smell (গন্ধ)
+Answer: B
+
+Interneuron connects: (ইন্টারনিউরন কী সংযোগ করে?)
+A) Muscle to bone (পেশি থেকে অস্থি)
+B) Neuron to neuron (নিউরন থেকে নিউরন)
+C) Heart to lung (হৃদয় থেকে ফুসফুস)
+D) Brain to stomach (মস্তিষ্ক থেকে পাকস্থলী)
+Answer: B
+
+Motor neuron carries impulse to: (মোটর নিউরন সংকেত কোথায় নিয়ে যায়?)
+A) Brain (মস্তিষ্ক)
+B) Effector (প্রতিক্রিয়াকারী অঙ্গ)
+C) Receptor (গ্রাহক)
+D) Spine (মেরুদণ্ড)
+Answer: B
+
+Sensory neuron carries impulse to: (সেন্সরি নিউরন সংকেত কোথায় নিয়ে যায়?)
+A) Receptor (গ্রাহক)
+B) CNS (কেন্দ্রীয় স্নায়ুতন্ত্র)
+C) Muscle (পেশি)
+D) Skin (ত্বক)
+Answer: B
+
+Autonomic nervous system controls: (স্বায়ত্ত স্নায়ুতন্ত্র কী নিয়ন্ত্রণ করে?)
+A) Voluntary actions (ইচ্ছাধীন কাজ)
+B) Involuntary actions (অনৈচ্ছিক কাজ)
+C) Thinking (চিন্তা)
+D) Memory (স্মৃতি)
+Answer: B
+
+Somatic nervous system controls: (সোমাটিক স্নায়ুতন্ত্র কী নিয়ন্ত্রণ করে?)
+A) Voluntary actions (ইচ্ছাধীন কাজ)
+B) Heartbeat (হৃদস্পন্দন)
+C) Digestion (হজম)
+D) Hormones (হরমোন)
+Answer: A
+
+Sympathetic nervous system prepares body for: (সিমপ্যাথেটিক সিস্টেম কী জন্য প্রস্তুত করে?)
+A) Rest (বিশ্রাম)
+B) Fight or flight (লড়াই বা পালানো)
+C) Sleep (ঘুম)
+D) Digestion (হজম)
+Answer: B
+
+Parasympathetic system controls: (প্যারাসিমপ্যাথেটিক সিস্টেম কী নিয়ন্ত্রণ করে?)
+A) Fight response (লড়াই প্রতিক্রিয়া)
+B) Emergency (জরুরি অবস্থা)
+C) Rest and digestion (বিশ্রাম ও হজম)
+D) Stress (স্ট্রেস)
+Answer: C
+
+Neuron junction is called: (নিউরনের সংযোগস্থল কী?)
+A) Axon (অ্যাক্সন)
+B) Dendrite (ডেনড্রাইট)
+C) Synapse (সিন্যাপ্স)
+D) Node (নোড)
+Answer: C
+
+Chemical messenger in neuron: (নিউরনে রাসায়নিক বার্তাবাহক কী?)
+A) Hormone (হরমোন)
+B) Neurotransmitter (নিউরোট্রান্সমিটার)
+C) Enzyme (এনজাইম)
+D) Protein (প্রোটিন)
+Answer: B
+
+Which neurotransmitter is common? (কোনটি সাধারণ নিউরোট্রান্সমিটার?)
+A) Insulin (ইনসুলিন)
+B) Adrenaline (অ্যাড্রেনালিন)
+C) Acetylcholine (অ্যাসিটাইলকোলিন)
+D) Thyroxine (থাইরক্সিন)
+Answer: C
+
+Speed of nerve impulse is fastest in: (কোনটিতে স্নায়ু সংকেত দ্রুততম?)
+A) Non-myelinated fiber (মাইলিনহীন)
+B) Myelinated fiber (মাইলিনযুক্ত)
+C) Muscle (পেশি)
+D) Blood (রক্ত)
+Answer: B
+
+Which part of brain regulates hunger? (মস্তিষ্কের কোন অংশ ক্ষুধা নিয়ন্ত্রণ করে?)
+A) Cerebrum (সেরিব্রাম)
+B) Cerebellum (সেরিবেলাম)
+C) Hypothalamus (হাইপোথ্যালামাস)
+D) Medulla (মেডুলা)
+Answer: C
+
+Which part regulates body temperature? (কোন অংশ শরীরের তাপমাত্রা নিয়ন্ত্রণ করে?)
+A) Thalamus (থ্যালামাস)
+B) Hypothalamus (হাইপোথ্যালামাস)
+C) Cerebellum (সেরিবেলাম)
+D) Pons (পনস)
+Answer: B
+
+Thalamus function: (থ্যালামাসের কাজ কী?)
+A) Relay station (সংকেত প্রেরণ কেন্দ্র)
+B) Digestion (হজম)
+C) Blood flow (রক্ত প্রবাহ)
+D) Respiration (শ্বাস)
+Answer: A
+
+Pons controls: (পনস কী নিয়ন্ত্রণ করে?)
+A) Thinking (চিন্তা)
+B) Balance (সন্তুলন)
+C) Breathing (শ্বাস)
+D) Memory (স্মৃতি)
+Answer: C
+
+Which part connects brain and spinal cord? (কোন অংশ মস্তিষ্ক ও মেরুরজ্জু যুক্ত করে?)
+A) Cerebrum (সেরিব্রাম)
+B) Medulla (মেডুলা)
+C) Thalamus (থ্যালামাস)
+D) Hypothalamus (হাইপোথ্যালামাস)
+Answer: B
+
+Grey matter contains: (গ্রে ম্যাটারে কী থাকে?)
+A) Axon (অ্যাক্সন)
+B) Cell body (কোষদেহ)
+C) Myelin (মাইলিন)
+D) Blood (রক্ত)
+Answer: B
+
+White matter contains: (হোয়াইট ম্যাটারে কী থাকে?)
+A) Cell body (কোষদেহ)
+B) Axon (অ্যাক্সন)
+C) Nucleus (নিউক্লিয়াস)
+D) Cytoplasm (সাইটোপ্লাজম)
+Answer: B
+
+Brain is protected by: (মস্তিষ্ক কী দ্বারা সুরক্ষিত?)
+A) Skin (ত্বক)
+B) Skull (খুলি)
+C) Muscle (পেশি)
+D) Blood (রক্ত)
+Answer: B
+
+Spinal cord is protected by: (মেরুরজ্জু কী দ্বারা সুরক্ষিত?)
+A) Ribs (পাঁজর)
+B) Skull (খুলি)
+C) Vertebral column (মেরুদণ্ড)
+D) Muscle (পেশি)
+Answer: C
+
+Which fluid protects brain? (কোন তরল মস্তিষ্ককে রক্ষা করে?)
+A) Blood (রক্ত)
+B) Lymph (লসিকা)
+C) CSF (সিএসএফ)
+D) Plasma (প্লাজমা)
+Answer: C
+
+Full form of CSF: (CSF এর পূর্ণরূপ?)
+A) Central spinal fluid
+B) Cerebrospinal fluid
+C) Cell spinal fluid
+D) Control system fluid
+Answer: B
+
+Reflex action is controlled by: (প্রতিবর্ত ক্রিয়া কে নিয়ন্ত্রণ করে?)
+A) Brain (মস্তিষ্ক)
+B) Spinal cord (মেরুরজ্জু)
+C) Heart (হৃদয়)
+D) Liver (যকৃত)
+Answer: B
+
+Which is fastest response? (সবচেয়ে দ্রুত প্রতিক্রিয়া কোনটি?)
+A) Thinking (চিন্তা)
+B) Reflex action (প্রতিবর্ত ক্রিয়া)
+C) Digestion (হজম)
+D) Breathing (শ্বাস)
+Answer: B
+
+Which neuron carries impulse to CNS? (কোন নিউরন CNS এ সংকেত বহন করে?)
+A) Motor neuron (মোটর নিউরন)
+B) Sensory neuron (সেন্সরি নিউরন)
+C) Interneuron (ইন্টারনিউরন)
+D) Connector neuron (সংযোগ নিউরন)
+Answer: B
+
+Which neuron carries impulse from CNS? (CNS থেকে সংকেত বহন করে?)
+A) Sensory (সেন্সরি)
+B) Motor (মোটর)
+C) Interneuron (ইন্টারনিউরন)
+D) Receptor (রিসেপ্টর)
+Answer: B
+
+Which is receptor organ? (কোনটি রিসেপ্টর অঙ্গ?)
+A) Eye (চোখ)
+B) Heart (হৃদয়)
+C) Kidney (কিডনি)
+D) Liver (যকৃত)
+Answer: A
+
+Which part of eye detects light? (চোখের কোন অংশ আলো শনাক্ত করে?)
+A) Cornea (কর্নিয়া)
+B) Retina (রেটিনা)
+C) Lens (লেন্স)
+D) Iris (আইরিস)
+Answer: B
+
+Which part controls pupil size? (পিউপিলের আকার কে নিয়ন্ত্রণ করে?)
+A) Retina (রেটিনা)
+B) Iris (আইরিস)
+C) Lens (লেন্স)
+D) Cornea (কর্নিয়া)
+Answer: B
+
+Ear helps in: (কান কী সাহায্য করে?)
+A) Seeing (দেখা)
+B) Hearing (শোনা)
+C) Smelling (ঘ্রাণ)
+D) Taste (স্বাদ)
+Answer: B
+
+Inner ear controls: (অন্তঃকর্ণ কী নিয়ন্ত্রণ করে?)
+A) Balance (সন্তুলন)
+B) Digestion (হজম)
+C) Blood flow (রক্ত প্রবাহ)
+D) Respiration (শ্বাস)
+Answer: A
+
+Tongue detects: (জিহ্বা কী শনাক্ত করে?)
+A) Smell (গন্ধ)
+B) Taste (স্বাদ)
+C) Light (আলো)
+D) Sound (শব্দ)
+Answer: B
+
+Skin detects: (ত্বক কী শনাক্ত করে?)
+A) Sound (শব্দ)
+B) Touch (স্পর্শ)
+C) Taste (স্বাদ)
+D) Light (আলো)
+Answer: B
+
+Reflex arc includes: (রিফ্লেক্স আর্কে কী থাকে?)
+A) Receptor (রিসেপ্টর)
+B) Neuron (নিউরন)
+C) Effector (ইফেক্টর)
+D) All (সবগুলো)
+Answer: D
+
+Which system controls body activities rapidly? (কোন তন্ত্র দ্রুত নিয়ন্ত্রণ করে?)
+A) Endocrine (অন্তঃস্রাবী)
+B) Nervous (স্নায়ুতন্ত্র)
+C) Digestive (পাচনতন্ত্র)
+D) Circulatory (সঞ্চালন তন্ত্র)
+Answer: B
+
+Which system works slowly? (কোন তন্ত্র ধীরে কাজ করে?)
+A) Nervous (স্নায়ুতন্ত্র)
+B) Endocrine (অন্তঃস্রাবী)
+C) Respiratory (শ্বসন)
+D) Muscular (পেশি)
+Answer: B
+
+Hormones act through: (হরমোন কীভাবে কাজ করে?)
+A) Nerves (স্নায়ু)
+B) Blood (রক্ত)
+C) Muscles (পেশি)
+D) Skin (ত্বক)
+Answer: B
+
+Example of reflex action: (প্রতিবর্ত ক্রিয়ার উদাহরণ?)
+A) Walking (হাঁটা)
+B) Thinking (চিন্তা)
+C) Withdrawal of hand (হাত সরানো)
+D) Writing (লেখা)
+Answer: C
+
+Which part helps memory? (কোন অংশ স্মৃতিতে সাহায্য করে?)
+A) Cerebrum (সেরিব্রাম)
+B) Medulla (মেডুলা)
+C) Pons (পনস)
+D) Spinal cord (মেরুরজ্জু)
+Answer: A
+
+Which part controls breathing and heartbeat? (কোন অংশ শ্বাস ও হৃদস্পন্দন নিয়ন্ত্রণ করে?)
+A) Cerebellum (সেরিবেলাম)
+B) Medulla (মেডুলা)
+C) Cerebrum (সেরিব্রাম)
+D) Thalamus (থ্যালামাস)
+Answer: B

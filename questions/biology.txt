@@ -1364,3 +1364,535 @@ B) Digestive system (পাচনতন্ত্র)
 C) Nervous system (স্নায়ুতন্ত্র)
 D) Circulatory system (রক্ত সঞ্চালন তন্ত্র)
 Answer: B
+
+#chapter: Blood
+
+scientific study of blood is called: (রক্তের বৈজ্ঞানিক অধ্যয়ন কী বলা হয়?)
+A) Cytology (সাইটোলোজি)
+B) Hematology (হেমাটোলজি)
+C) Histology (হিস্টোলজি)
+D) Immunology (ইমিউনোলজি)
+Answer: B
+
+Blood is a: (রক্ত কী ধরনের টিস্যু?)
+A) Muscle tissue (মাংসপেশী টিস্যু)
+B) Connective tissue (সংযোজী টিস্যু)
+C) Nervous tissue (স্নায়ু টিস্যু)
+D) Epithelial tissue (উপকলা টিস্যু)
+Answer: B
+
+pH of human blood is: (মানব রক্তের pH কত?)
+A) 6.5 (৬.৫)
+B) 7.4 (৭.৪)
+C) 8.2 (৮.২)
+D) 5.8 (৫.৮)
+Answer: B
+
+Liquid part of blood is called: (রক্তের তরল অংশকে কী বলে?)
+A) Plasma (প্লাজমা)
+B) Serum (সিরাম)
+C) Lymph (লসিকা)
+D) Platelets (প্লেটলেট)
+Answer: A
+
+Solid part of blood contains: (রক্তের কঠিন অংশে কী থাকে?)
+A) Plasma (প্লাজমা)
+B) RBC, WBC, Platelets (আরবিসি, ডব্লিউবিসি, প্লেটলেট)
+C) Only RBC (শুধু আরবিসি)
+D) Only WBC (শুধু ডব্লিউবিসি)
+Answer: B
+
+Plasma percentage in blood: (রক্তে প্লাজমার শতাংশ কত?)
+A) 45% (৪৫%)
+B) 55% (৫৫%)
+C) 65% (৬৫%)
+D) 75% (৭৫%)
+Answer: B
+
+RBC function is: (আরবিসির কাজ কী?)
+A) Immunity (রোগ প্রতিরোধ)
+B) Oxygen transport (অক্সিজেন পরিবহন)
+C) Clotting (রক্ত জমাট)
+D) Digestion (হজম)
+Answer: B
+
+WBC function is: (ডব্লিউবিসির কাজ কী?)
+A) Oxygen transport (অক্সিজেন পরিবহন)
+B) Immunity (রোগ প্রতিরোধ)
+C) Clotting (রক্ত জমাট)
+D) Storage (সংরক্ষণ)
+Answer: B
+
+Platelets function is: (প্লেটলেটের কাজ কী?)
+A) Transport oxygen (অক্সিজেন পরিবহন)
+B) Fight infection (সংক্রমণের বিরুদ্ধে লড়াই)
+C) Blood clotting (রক্ত জমাট বাঁধা)
+D) Digestion (হজম)
+Answer: C
+
+RBC contains: (আরবিসিতে কী থাকে?)
+A) Melanin (মেলানিন)
+B) Hemoglobin (হিমোগ্লোবিন)
+C) Chlorophyll (ক্লোরোফিল)
+D) Myoglobin (মায়োগ্লোবিন)
+Answer: B
+
+Hemoglobin helps in: (হিমোগ্লোবিন কী কাজে সাহায্য করে?)
+A) Digestion (হজম)
+B) Oxygen transport (অক্সিজেন পরিবহন)
+C) Immunity (রোগ প্রতিরোধ)
+D) Clotting (রক্ত জমাট)
+Answer: B
+
+RBC shape is: (আরবিসির আকৃতি কেমন?)
+A) Spherical (গোলাকার)
+B) Biconcave (দ্বি-অবতল)
+C) Cylindrical (নলাকার)
+D) Irregular (অনিয়মিত)
+Answer: B
+
+RBC lifespan is: (আরবিসির জীবনকাল কত?)
+A) 30 days (৩০ দিন)
+B) 60 days (৬০ দিন)
+C) 120 days (১২০ দিন)
+D) 200 days (২০০ দিন)
+Answer: C
+
+RBC is produced in: (আরবিসি কোথায় তৈরি হয়?)
+A) Liver (যকৃত)
+B) Bone marrow (অস্থিমজ্জা)
+C) Kidney (কিডনি)
+D) Heart (হৃদপিণ্ড)
+Answer: B
+
+Old RBC destroyed in: (পুরোনো আরবিসি কোথায় ধ্বংস হয়?)
+A) Kidney (কিডনি)
+B) Spleen (প্লীহা)
+C) Brain (মস্তিষ্ক)
+D) Skin (ত্বক)
+Answer: B
+
+Largest blood cells are: (সবচেয়ে বড় রক্তকণিকা কোনটি?)
+A) RBC (আরবিসি)
+B) WBC (ডব্লিউবিসি)
+C) Platelets (প্লেটলেট)
+D) Plasma (প্লাজমা)
+Answer: B
+
+Which cell has nucleus? (কোন কোষে নিউক্লিয়াস থাকে?)
+A) RBC (আরবিসি)
+B) WBC (ডব্লিউবিসি)
+C) Platelets (প্লেটলেট)
+D) None (কোনোটিই নয়)
+Answer: B
+
+WBC are also called: (ডব্লিউবিসিকে কী বলা হয়?)
+A) Erythrocytes (এরিথ্রোসাইট)
+B) Leucocytes (লিউকোসাইট)
+C) Thrombocytes (থ্রম্বোসাইট)
+D) Plasma (প্লাজমা)
+Answer: B
+
+Platelets are also called: (প্লেটলেটকে কী বলা হয়?)
+A) Leucocytes (লিউকোসাইট)
+B) Thrombocytes (থ্রম্বোসাইট)
+C) Erythrocytes (এরিথ্রোসাইট)
+D) Neurons (নিউরন)
+Answer: B
+
+Platelets have nucleus: (প্লেটলেটে নিউক্লিয়াস থাকে?)
+A) Yes (হ্যাঁ)
+B) No (না)
+C) Sometimes (কখনও কখনও)
+D) Only in adults (শুধু প্রাপ্তবয়স্কে)
+Answer: B
+
+WBC lifespan is: (ডব্লিউবিসির জীবনকাল কত?)
+A) 2–5 days (২–৫ দিন)
+B) 12–20 days (১২–২০ দিন)
+C) 100 days (১০০ দিন)
+D) 1 year (১ বছর)
+Answer: B
+
+WBC shape is: (ডব্লিউবিসির আকৃতি কেমন?)
+A) Fixed (নির্দিষ্ট)
+B) Irregular (অনিয়মিত)
+C) Round (গোলাকার)
+D) Oval (ডিম্বাকার)
+Answer: B
+
+Platelets originate in: (প্লেটলেট কোথায় উৎপন্ন হয়?)
+A) Brain (মস্তিষ্ক)
+B) Bone marrow (অস্থিমজ্জা)
+C) Liver (যকৃত)
+D) Heart (হৃদপিণ্ড)
+Answer: B
+
+Platelets help in: (প্লেটলেট কীতে সাহায্য করে?)
+A) Respiration (শ্বসন)
+B) Clotting (রক্ত জমাট)
+C) Digestion (হজম)
+D) Circulation (সঞ্চালন)
+Answer: B
+
+Injury triggers release of: (চোট লাগলে কী নিঃসৃত হয়?)
+A) Hemoglobin (হিমোগ্লোবিন)
+B) Thromboplastin (থ্রম্বোপ্লাস্টিন)
+C) Insulin (ইনসুলিন)
+D) Pepsin (পেপসিন)
+Answer: B
+
+Prothrombin converts into: (প্রোথ্রম্বিন কীতে রূপান্তরিত হয়?)
+A) Fibrin (ফাইব্রিন)
+B) Thrombin (থ্রম্বিন)
+C) Plasma (প্লাজমা)
+D) Platelets (প্লেটলেট)
+Answer: B
+
+Fibrin helps in: (ফাইব্রিন কী কাজে সাহায্য করে?)
+A) Oxygen transport (অক্সিজেন পরিবহন)
+B) Blood clotting (রক্ত জমাট বাঁধা)
+C) Immunity (রোগ প্রতিরোধ)
+D) Digestion (হজম)
+Answer: B
+
+Blood clotting requires: (রক্ত জমাট বাঁধতে কী প্রয়োজন?)
+A) Vitamin A (ভিটামিন A)
+B) Vitamin K (ভিটামিন K)
+C) Vitamin C (ভিটামিন C)
+D) Vitamin D (ভিটামিন D)
+Answer: B
+
+Calcium ion role in clotting: (ক্যালসিয়াম আয়নের কাজ কী?)
+A) Stops clotting (জমাট থামায়)
+B) Helps clotting (জমাট বাঁধতে সাহায্য করে)
+C) Breaks clot (জমাট ভাঙে)
+D) No role (কোন ভূমিকা নেই)
+Answer: B
+
+Platelets become active when: (প্লেটলেট কখন সক্রিয় হয়?)
+A) During sleep (ঘুমের সময়)
+B) During injury (চোট লাগলে)
+C) During digestion (হজমের সময়)
+D) During breathing (শ্বাস নেওয়ার সময়)
+Answer: B
+
+Who discovered blood groups? (রক্তের গ্রুপ কে আবিষ্কার করেন?)
+A) Darwin (ডারউইন)
+B) Karl Landsteiner (কার্ল ল্যান্ডস্টেইনার)
+C) Mendel (মেন্ডেল)
+D) Newton (নিউটন)
+Answer: B
+
+Year of blood group discovery: (রক্ত গ্রুপ আবিষ্কারের বছর?)
+A) 1890 (১৮৯০)
+B) 1901 (১৯০১)
+C) 1910 (১৯১০)
+D) 1920 (১৯২০)
+Answer: B
+
+Blood groups are: (রক্তের গ্রুপ কয়টি?)
+A) 2 (২)
+B) 3 (৩)
+C) 4 (৪)
+D) 5 (৫)
+Answer: C
+
+Blood group depends on: (রক্ত গ্রুপ কী নির্ভর করে?)
+A) Protein (প্রোটিন)
+B) Antigen (অ্যান্টিজেন)
+C) Enzyme (এনজাইম)
+D) Hormone (হরমোন)
+Answer: B
+
+Blood group A has: (A গ্রুপে কী থাকে?)
+A) Antigen B (অ্যান্টিজেন B)
+B) Antigen A (অ্যান্টিজেন A)
+C) No antigen (কোন অ্যান্টিজেন নেই)
+D) Both antigens (দুটোই আছে)
+Answer: B
+
+Blood group B has: (B গ্রুপে কী থাকে?)
+A) Antigen A (অ্যান্টিজেন A)
+B) Antigen B (অ্যান্টিজেন B)
+C) No antigen (কোন অ্যান্টিজেন নেই)
+D) Both antigens (দুটোই আছে)
+Answer: B
+
+Blood group AB has: (AB গ্রুপে কী থাকে?)
+A) Only A (শুধু A)
+B) Only B (শুধু B)
+C) Both A & B (A ও B উভয়)
+D) None (কোনোটিই নয়)
+Answer: C
+
+Blood group O has: (O গ্রুপে কী থাকে?)
+A) Antigen A (অ্যান্টিজেন A)
+B) Antigen B (অ্যান্টিজেন B)
+C) Both (দুটোই)
+D) No antigen (কোন অ্যান্টিজেন নেই)
+Answer: D
+
+Universal donor is: (সর্বজনীন দাতা কে?)
+A) A (A)
+B) B (B)
+C) AB (AB)
+D) O (O)
+Answer: D
+
+Universal recipient is: (সর্বজনীন গ্রহীতা কে?)
+A) A (A)
+B) B (B)
+C) AB (AB)
+D) O (O)
+Answer: C
+
+AB blood group can receive from: (AB গ্রুপ কার কাছ থেকে রক্ত নিতে পারে?)
+A) Only A (শুধু A)
+B) Only B (শুধু B)
+C) A and B (A ও B)
+D) All groups (সব গ্রুপ)
+Answer: D
+
+O blood group can donate to: (O গ্রুপ কাদের রক্ত দিতে পারে?)
+A) Only A (শুধু A)
+B) Only B (শুধু B)
+C) Only AB (শুধু AB)
+D) All groups (সব গ্রুপ)
+Answer: D
+
+Which is not a blood group? (কোনটি রক্তের গ্রুপ নয়?)
+A) A (A)
+B) B (B)
+C) AB (AB)
+D) C (C)
+Answer: D
+
+Rh factor determines: (Rh ফ্যাক্টর কী নির্ধারণ করে?)
+A) Blood color (রক্তের রঙ)
+B) Positive or negative (পজিটিভ বা নেগেটিভ)
+C) Volume (পরিমাণ)
+D) Shape (আকৃতি)
+Answer: B
+
+Rh positive means: (Rh পজিটিভ মানে কী?)
+A) No antigen (অ্যান্টিজেন নেই)
+B) Antigen D present (D অ্যান্টিজেন আছে)
+C) Only A antigen (শুধু A অ্যান্টিজেন)
+D) Only B antigen (শুধু B অ্যান্টিজেন)
+Answer: B
+
+Rh negative means: (Rh নেগেটিভ মানে কী?)
+A) Antigen present (অ্যান্টিজেন আছে)
+B) Antigen absent (অ্যান্টিজেন নেই)
+C) Only RBC present (শুধু RBC আছে)
+D) Only plasma present (শুধু প্লাজমা আছে)
+Answer: B
+
+Rh factor discovered in: (Rh ফ্যাক্টর আবিষ্কৃত হয়?)
+A) 1930 (১৯৩০)
+B) 1940 (১৯৪০)
+C) 1950 (১৯৫০)
+D) 1920 (১৯২০)
+Answer: B
+
+Blood group difference due to: (রক্তের গ্রুপ ভিন্ন হওয়ার কারণ?)
+A) Hormone (হরমোন)
+B) Glycoprotein antigen (গ্লাইকোপ্রোটিন অ্যান্টিজেন)
+C) Enzyme (এনজাইম)
+D) Vitamin (ভিটামিন)
+Answer: B
+
+Antibody is found in: (অ্যান্টিবডি কোথায় থাকে?)
+A) RBC (আরবিসি)
+B) Plasma (প্লাজমা)
+C) Platelets (প্লেটলেট)
+D) Bone (হাড়)
+Answer: B
+
+AB blood group has antibody: (AB গ্রুপে কোন অ্যান্টিবডি থাকে?)
+A) Anti-A (অ্যান্টি-A)
+B) Anti-B (অ্যান্টি-B)
+C) Both (দুটোই)
+D) None (কোনোটিই নয়)
+Answer: D
+
+Great 👍 finishing 51–75 (Final Set)
+
+
+---
+
+Blood is red due to: (রক্ত লাল হয় কেন?)
+A) Melanin (মেলানিন)
+B) Hemoglobin (হিমোগ্লোবিন)
+C) Chlorophyll (ক্লোরোফিল)
+D) Myoglobin (মায়োগ্লোবিন)
+Answer: B
+
+Hemoglobin contains: (হিমোগ্লোবিনে কী থাকে?)
+A) Calcium (ক্যালসিয়াম)
+B) Iron (লোহা)
+C) Sodium (সোডিয়াম)
+D) Zinc (জিঙ্ক)
+Answer: B
+
+Deficiency of iron causes: (লোহারের অভাবে কী হয়?)
+A) Diabetes (ডায়াবেটিস)
+B) Anemia (অ্যানিমিয়া)
+C) Goitre (গয়টার)
+D) Rickets (রিকেটস)
+Answer: B
+
+Anemia means: (অ্যানিমিয়া মানে কী?)
+A) High sugar (উচ্চ শর্করা)
+B) Low hemoglobin (কম হিমোগ্লোবিন)
+C) High BP (উচ্চ রক্তচাপ)
+D) Low calcium (কম ক্যালসিয়াম)
+Answer: B
+
+Normal hemoglobin in adult: (প্রাপ্তবয়স্কদের স্বাভাবিক হিমোগ্লোবিন কত?)
+A) 5 g/dL (৫ গ্রাম)
+B) 10 g/dL (১০ গ্রাম)
+C) 12–16 g/dL (১২–১৬ গ্রাম)
+D) 20 g/dL (২০ গ্রাম)
+Answer: C
+
+Which organ produces RBC in fetus? (ভ্রূণে RBC কোথায় তৈরি হয়?)
+A) Liver (যকৃত)
+B) Kidney (কিডনি)
+C) Brain (মস্তিষ্ক)
+D) Heart (হৃদপিণ্ড)
+Answer: A
+
+Which organ stores blood? (কোন অঙ্গ রক্ত সঞ্চয় করে?)
+A) Kidney (কিডনি)
+B) Spleen (প্লীহা)
+C) Heart (হৃদপিণ্ড)
+D) Lung (ফুসফুস)
+Answer: B
+
+Which disease is caused by lack of WBC? (ডব্লিউবিসির অভাবে কোন রোগ হয়?)
+A) Leukemia (লিউকেমিয়া)
+B) Anemia (অ্যানিমিয়া)
+C) AIDS (এইডস)
+D) Cancer (ক্যান্সার)
+Answer: C
+
+Excess WBC causes: (ডব্লিউবিসি বেশি হলে কী হয়?)
+A) Anemia (অ্যানিমিয়া)
+B) Leukemia (লিউকেমিয়া)
+C) Diabetes (ডায়াবেটিস)
+D) Goitre (গয়টার)
+Answer: B
+
+Normal RBC count: (স্বাভাবিক RBC সংখ্যা কত?)
+A) 1–2 million (১–২ মিলিয়ন)
+B) 3–4 million (৩–৪ মিলিয়ন)
+C) 5–6 million (৫–৬ মিলিয়ন)
+D) 10 million (১০ মিলিয়ন)
+Answer: C
+
+Normal WBC count: (স্বাভাবিক WBC সংখ্যা কত?)
+A) 1000–2000 (১০০০–২০০০)
+B) 4000–11000 (৪০০০–১১০০০)
+C) 20000–30000 (২০০০০–৩০০০০)
+D) 50000 (৫০০০০)
+Answer: B
+
+Normal platelet count: (স্বাভাবিক প্লেটলেট সংখ্যা কত?)
+A) 50,000 (৫০,০০০)
+B) 1 lakh (১ লাখ)
+C) 1.5–4 lakh (১.৫–৪ লাখ)
+D) 10 lakh (১০ লাখ)
+Answer: C
+
+Blood volume in human body: (মানবদেহে রক্তের পরিমাণ কত?)
+A) 2 L (২ লিটার)
+B) 3 L (৩ লিটার)
+C) 5–6 L (৫–৬ লিটার)
+D) 10 L (১০ লিটার)
+Answer: C
+
+Blood transports: (রক্ত কী পরিবহন করে?)
+A) Oxygen (অক্সিজেন)
+B) Nutrients (পুষ্টি)
+C) Waste (বর্জ্য)
+D) All (সবগুলো)
+Answer: D
+
+Blood helps in temperature: (রক্ত কী নিয়ন্ত্রণ করে?)
+A) BP (রক্তচাপ)
+B) Temperature (তাপমাত্রা)
+C) Digestion (হজম)
+D) Growth (বৃদ্ধি)
+Answer: B
+
+Blood helps in immunity by: (রক্ত কীভাবে রোগ প্রতিরোধ করে?)
+A) RBC (আরবিসি)
+B) WBC (ডব্লিউবিসি)
+C) Platelets (প্লেটলেট)
+D) Plasma (প্লাজমা)
+Answer: B
+
+Which protein helps clotting? (কোন প্রোটিন জমাট বাঁধতে সাহায্য করে?)
+A) Albumin (অ্যালবুমিন)
+B) Globulin (গ্লোবুলিন)
+C) Fibrinogen (ফাইব্রিনোজেন)
+D) Hemoglobin (হিমোগ্লোবিন)
+Answer: C
+
+Plasma protein responsible for immunity: (রোগ প্রতিরোধে কোন প্লাজমা প্রোটিন কাজ করে?)
+A) Albumin (অ্যালবুমিন)
+B) Globulin (গ্লোবুলিন)
+C) Fibrinogen (ফাইব্রিনোজেন)
+D) Enzyme (এনজাইম)
+Answer: B
+
+Serum is plasma without: (সিরাম কী ছাড়া প্লাজমা?)
+A) Protein (প্রোটিন)
+B) RBC (আরবিসি)
+C) Fibrinogen (ফাইব্রিনোজেন)
+D) WBC (ডব্লিউবিসি)
+Answer: C
+
+Which blood group has no antibody? (কোন রক্ত গ্রুপে অ্যান্টিবডি নেই?)
+A) A (A)
+B) B (B)
+C) AB (AB)
+D) O (O)
+Answer: C
+
+Which blood group has both antibodies? (কোন রক্ত গ্রুপে দুই ধরনের অ্যান্টিবডি থাকে?)
+A) A (A)
+B) B (B)
+C) AB (AB)
+D) O (O)
+Answer: D
+
+Blood donation gap is: (রক্তদানের ব্যবধান কত?)
+A) 1 month (১ মাস)
+B) 2 months (২ মাস)
+C) 3 months (৩ মাস)
+D) 6 months (৬ মাস)
+Answer: C
+
+Which test determines blood group? (কোন পরীক্ষায় রক্তের গ্রুপ নির্ধারণ হয়?)
+A) ECG (ইসিজি)
+B) Blood test (রক্ত পরীক্ষা)
+C) X-ray (এক্স-রে)
+D) MRI (এমআরআই)
+Answer: B
+
+Which organ purifies blood? (কোন অঙ্গ রক্ত পরিশোধন করে?)
+A) Heart (হৃদপিণ্ড)
+B) Liver (যকৃত)
+C) Kidney (কিডনি)
+D) Lung (ফুসফুস)
+Answer: C
+
+Main function of blood is: (রক্তের প্রধান কাজ কী?)
+A) Movement (গতি)
+B) Transport (পরিবহন)
+C) Digestion (হজম)
+D) Thinking (ভাবনা)
+Answer: B

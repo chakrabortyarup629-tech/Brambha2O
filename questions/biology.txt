@@ -4088,3 +4088,677 @@ B) Ovary (অন্ডাশয়)
 C) Thyroid (থাইরয়েড)
 D) Pituitary (পিটুইটারি)
 Answer: B
+
+#chapter: Respiratory system 
+
+Which process releases energy by breaking glucose? (গ্লুকোজ ভেঙে শক্তি উৎপন্ন করার প্রক্রিয়া কোনটি?)
+A. Breathing (শ্বাস নেওয়া)
+B. Respiration (শ্বসন)
+C. Digestion (হজম)
+D. Circulation (রক্ত সঞ্চালন)
+Answer: B
+
+Aerobic respiration requires ________. (বায়বীয় শ্বসনের জন্য ________ প্রয়োজন)
+A. Nitrogen (নাইট্রোজেন)
+B. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+C. Oxygen (অক্সিজেন)
+D. Hydrogen (হাইড্রোজেন)
+Answer: C
+
+The first product of respiration is ________. (শ্বসনের প্রথম উৎপাদন ________)
+A. Ethanol (এথানল)
+B. Pyruvate (পাইরুভেট)
+C. Water (জল)
+D. Lactic acid (ল্যাকটিক অ্যাসিড)
+Answer: B
+
+Glucose breaks into pyruvate in ________. (গ্লুকোজ ________ এ ভেঙে পাইরুভেট হয়)
+A. Nucleus (কেন্দ্রক)
+B. Cytoplasm (কোষদ্রব্য)
+C. Mitochondria (মাইটোকন্ড্রিয়া)
+D. Ribosome (রাইবোসোম)
+Answer: B
+
+Anaerobic respiration occurs in absence of ________. (অবায়বীয় শ্বসন ________ এর অভাবে ঘটে)
+A. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+B. Nitrogen (নাইট্রোজেন)
+C. Oxygen (অক্সিজেন)
+D. Hydrogen (হাইড্রোজেন)
+Answer: C
+
+In yeast, anaerobic respiration produces ________. (ইস্টে অবায়বীয় শ্বসনে ________ উৎপন্ন হয়)
+A. Lactic acid (ল্যাকটিক অ্যাসিড)
+B. Ethanol (এথানল)
+C. Water (জল)
+D. Oxygen (অক্সিজেন)
+Answer: B
+
+In muscle cells, anaerobic respiration forms ________. (পেশিতে অবায়বীয় শ্বসনে ________ তৈরি হয়)
+A. Ethanol (এথানল)
+B. CO₂ (কার্বন ডাইঅক্সাইড)
+C. Lactic acid (ল্যাকটিক অ্যাসিড)
+D. Oxygen (অক্সিজেন)
+Answer: C
+
+How many oxygen molecules combine with one glucose? (একটি গ্লুকোজের সাথে কতটি অক্সিজেন যুক্ত হয়?)
+A. Four (চার)
+B. Six (ছয়)
+C. Five (পাঁচ)
+D. Seven (সাত)
+Answer: B
+
+The full form of ATP is ________. (ATP এর পূর্ণরূপ কী?)
+A. Adenine Triphosphate (এডেনিন ট্রাইফসফেট)
+B. Adenosine Diphosphate (এডেনোসিন ডাইফসফেট)
+C. Adenosine Triphosphate (এডেনোসিন ট্রাইফসফেট)
+D. Adenine Diphosphate (এডেনিন ডাইফসফেট)
+Answer: C
+
+ATP is known as ________. (ATP কে বলা হয় ________)
+A. Protein (প্রোটিন)
+B. Energy currency (শক্তির মুদ্রা)
+C. Enzyme (এনজাইম)
+D. Hormone (হরমোন)
+Answer: B
+
+ATP is produced in ________. (ATP উৎপন্ন হয় ________)
+A. Ribosome (রাইবোসোম)
+B. Mitochondria (মাইটোকন্ড্রিয়া)
+C. Nucleus (কেন্দ্রক)
+D. Chloroplast (ক্লোরোপ্লাস্ট)
+Answer: B
+
+Energy released from ATP is about ________. (ATP থেকে মুক্ত শক্তি প্রায় ________)
+A. 10 kJ/mol
+B. 20 kJ/mol
+C. 30.5 kJ/mol
+D. 50 kJ/mol
+Answer: C
+
+Which mineral is essential for ATP formation? (ATP তৈরির জন্য কোন খনিজ প্রয়োজন?)
+A. Iron (লোহা)
+B. Calcium (ক্যালসিয়াম)
+C. Sodium (সোডিয়াম)
+D. Phosphorus (ফসফরাস)
+Answer: D
+
+Which organ filters air first? (প্রথমে কোন অঙ্গ বায়ু ফিল্টার করে?)
+A. Lungs (ফুসফুস)
+B. Nostrils (নাসারন্ধ্র)
+C. Trachea (শ্বাসনালী)
+D. Bronchi (ব্রঙ্কাই)
+Answer: B
+
+Which part is common for food and air? (খাদ্য ও বায়ুর জন্য সাধারণ অংশ কোনটি?)
+A. Trachea (শ্বাসনালী)
+B. Pharynx (গ্রাসনী)
+C. Lungs (ফুসফুস)
+D. Bronchi (ব্রঙ্কাই)
+Answer: B
+
+Length of trachea is about ________. (শ্বাসনালীর দৈর্ঘ্য কত?)
+A. 10 cm
+B. 12.5 cm
+C. 15 cm
+D. 20 cm
+Answer: B
+
+Trachea divides into ________. (শ্বাসনালী বিভক্ত হয়ে কী তৈরি করে?)
+A. Bronchi (ব্রঙ্কাই)
+B. Alveoli (অ্যালভিওলাই)
+C. Capillaries (ক্যাপিলারি)
+D. Veins (শিরা)
+Answer: A
+
+Bronchi divide into ________. (ব্রঙ্কাই বিভক্ত হয়ে কী তৈরি করে?)
+A. Trachea (শ্বাসনালী)
+B. Alveoli (অ্যালভিওলাই)
+C. Bronchioles (ব্রঙ্কিওল)
+D. Arteries (ধমনী)
+Answer: C
+
+Gas exchange occurs in ________. (গ্যাসের আদান-প্রদান কোথায় হয়?)
+A. Bronchi (ব্রঙ্কাই)
+B. Trachea (শ্বাসনালী)
+C. Alveoli (অ্যালভিওলাই)
+D. Pharynx (গ্রাসনী)
+Answer: C
+
+Alveoli increase ________. (অ্যালভিওলাই কী বাড়ায়?)
+A. Volume (আয়তন)
+B. Pressure (চাপ)
+C. Surface area (পৃষ্ঠতল)
+D. Temperature (তাপমাত্রা)
+Answer: C
+
+Breathing rate means ________. (শ্বাস-প্রশ্বাসের হার বলতে কী বোঝায়?)
+A. Oxygen intake (অক্সিজেন গ্রহণ)
+B. Number of breaths per minute (প্রতি মিনিটে শ্বাসের সংখ্যা)
+C. Energy production (শক্তি উৎপাদন)
+D. CO₂ release (CO₂ নির্গমন)
+Answer: B
+
+Normal breathing rate in adults is ________. (প্রাপ্তবয়স্কদের স্বাভাবিক শ্বাসের হার কত?)
+A. 10–12
+B. 15–18
+C. 20–25
+D. 30–35
+Answer: B
+
+Which organism has fastest breathing rate? (কার শ্বাসের হার সবচেয়ে বেশি?)
+A. Human (মানব)
+B. Elephant (হাতি)
+C. Fish (মাছ)
+D. Pigeon (কবুতর)
+Answer: C
+
+During inhalation diaphragm becomes ________. (শ্বাস নেওয়ার সময় ডায়াফ্রাম কেমন হয়?)
+A. Dome-shaped (গম্বুজাকার)
+B. Flat (সমতল)
+C. Contracted upward (উপরে সঙ্কুচিত)
+D. Relaxed (শিথিল)
+Answer: B
+
+During exhalation diaphragm becomes ________. (শ্বাস ছাড়ার সময় ডায়াফ্রাম কেমন হয়?)
+A. Flat (সমতল)
+B. Contracted (সঙ্কুচিত)
+C. Dome-shaped (গম্বুজাকার)
+D. Expanded (প্রসারিত)
+Answer: C
+
+Ribs move upward during ________. (পাঁজর কখন উপরে ওঠে?)
+A. Exhalation (শ্বাস ছাড়া)
+B. Inhalation (শ্বাস নেওয়া)
+C. Digestion (হজম)
+D. Circulation (সঞ্চালন)
+Answer: B
+
+Which gas is released during respiration? (শ্বসনে কোন গ্যাস বের হয়?)
+A. Oxygen (অক্সিজেন)
+B. Nitrogen (নাইট্রোজেন)
+C. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+D. Hydrogen (হাইড্রোজেন)
+Answer: C
+
+Respiration occurs in ________. (শ্বসন কোথায় ঘটে?)
+A. Lungs only (শুধু ফুসফুসে)
+B. Cells (কোষে)
+C. Blood (রক্তে)
+D. Heart (হৃদয়ে)
+Answer: B
+
+Energy released is stored as ________. (শক্তি সংরক্ষিত হয় ________ হিসেবে)
+A. Protein (প্রোটিন)
+B. Fat (চর্বি)
+C. ATP (এটিপি)
+D. Enzyme (এনজাইম)
+Answer: C
+
+Which is a 3-carbon compound? (৩-কার্বনযুক্ত যৌগ কোনটি?)
+A. Glucose (গ্লুকোজ)
+B. Pyruvate (পাইরুভেট)
+C. CO₂ (কার্বন ডাইঅক্সাইড)
+D. Oxygen (অক্সিজেন)
+Answer: B
+
+Which process occurs in cytoplasm? (কোন প্রক্রিয়া কোষদ্রব্যে ঘটে?)
+A. Glycolysis (গ্লাইকোলাইসিস)
+B. Krebs cycle (ক্রেবস চক্র)
+C. ETC (ইটিসি)
+D. Photosynthesis (প্রকাশ সংশ্লেষণ)
+Answer: A
+
+Fermentation occurs in ________. (গাঁজন কোথায় ঘটে?)
+A. Mitochondria (মাইটোকন্ড্রিয়া)
+B. Cytoplasm (কোষদ্রব্য)
+C. Nucleus (কেন্দ্রক)
+D. Ribosome (রাইবোসোম)
+Answer: B
+
+Which organ helps breathing movement? (শ্বাস-প্রশ্বাসে কোন অঙ্গ সাহায্য করে?)
+A. Liver (যকৃত)
+B. Kidney (বৃক্ক)
+C. Diaphragm (ডায়াফ্রাম)
+D. Pancreas (অগ্ন্যাশয়)
+Answer: C
+
+Which part connects pharynx to trachea? (গ্রাসনীকে শ্বাসনালীর সাথে যুক্ত করে কোনটি?)
+A. Larynx (লারিংক্স)
+B. Bronchi (ব্রঙ্কাই)
+C. Alveoli (অ্যালভিওলাই)
+D. Nose (নাক)
+Answer: A
+
+Which organ contains vocal cords? (কোন অঙ্গে স্বরযন্ত্র থাকে?)
+A. Pharynx (গ্রাসনী)
+B. Larynx (লারিংক্স)
+C. Trachea (শ্বাসনালী)
+D. Lungs (ফুসফুস)
+Answer: B
+
+Which structure has C-shaped cartilage? (কোন গঠনে C-আকৃতির উপাস্থি থাকে?)
+A. Lungs (ফুসফুস)
+B. Trachea (শ্বাসনালী)
+C. Bronchi (ব্রঙ্কাই)
+D. Alveoli (অ্যালভিওলাই)
+Answer: B
+
+Which structure provides large surface area? (কোন গঠন বড় পৃষ্ঠতল দেয়?)
+A. Bronchi (ব্রঙ্কাই)
+B. Trachea (শ্বাসনালী)
+C. Alveoli (অ্যালভিওলাই)
+D. Pharynx (গ্রাসনী)
+Answer: C
+
+Which gas enters blood from lungs? (ফুসফুস থেকে রক্তে কোন গ্যাস যায়?)
+A. CO₂ (কার্বন ডাইঅক্সাইড)
+B. Oxygen (অক্সিজেন)
+C. Nitrogen (নাইট্রোজেন)
+D. Hydrogen (হাইড্রোজেন)
+Answer: B
+
+Which organ is called windpipe? (কোন অঙ্গকে বায়ুনালী বলা হয়?)
+A. Bronchi (ব্রঙ্কাই)
+B. Larynx (লারিংক্স)
+C. Trachea (শ্বাসনালী)
+D. Pharynx (গ্রাসনী)
+Answer: C
+
+Which structure prevents food from entering trachea? (খাদ্য যাতে শ্বাসনালীতে না যায় তা কোনটি রোধ করে?)
+A. Epiglottis (এপিগ্লটিস)
+B. Larynx (লারিংক্স)
+C. Bronchi (ব্রঙ্কাই)
+D. Diaphragm (ডায়াফ্রাম)
+Answer: A
+
+Which gas is mainly transported by blood? (রক্ত প্রধানত কোন গ্যাস বহন করে?)
+A. Oxygen (অক্সিজেন)
+B. Nitrogen (নাইট্রোজেন)
+C. Hydrogen (হাইড্রোজেন)
+D. Helium (হিলিয়াম)
+Answer: A
+
+Which gas is removed during exhalation? (শ্বাসত্যাগের সময় কোন গ্যাস বের হয়?)
+A. Oxygen (অক্সিজেন)
+B. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+C. Nitrogen (নাইট্রোজেন)
+D. Hydrogen (হাইড্রোজেন)
+Answer: B
+
+Which process is physical? (কোন প্রক্রিয়াটি ভৌত?)
+A. Respiration (শ্বসন)
+B. Breathing (শ্বাস-প্রশ্বাস)
+C. Digestion (হজম)
+D. Excretion (উৎসর্জন)
+Answer: B
+
+Which process is biochemical? (কোন প্রক্রিয়াটি জৈব রাসায়নিক?)
+A. Breathing (শ্বাস নেওয়া)
+B. Respiration (শ্বসন)
+C. Circulation (রক্ত সঞ্চালন)
+D. Movement (গতি)
+Answer: B
+
+Where does Krebs cycle occur? (ক্রেবস চক্র কোথায় ঘটে?)
+A. Cytoplasm (কোষদ্রব্য)
+B. Nucleus (কেন্দ্রক)
+C. Mitochondria (মাইটোকন্ড্রিয়া)
+D. Ribosome (রাইবোসোম)
+Answer: C
+
+Which step releases maximum energy? (কোন ধাপে সর্বাধিক শক্তি উৎপন্ন হয়?)
+A. Glycolysis (গ্লাইকোলাইসিস)
+B. Krebs cycle (ক্রেবস চক্র)
+C. Electron transport chain (ইলেকট্রন পরিবহন শৃঙ্খল)
+D. Fermentation (গাঁজন)
+Answer: C
+
+Which respiration gives more energy? (কোন শ্বসনে বেশি শক্তি উৎপন্ন হয়?)
+A. Anaerobic (অবায়বীয়)
+B. Aerobic (বায়বীয়)
+C. Fermentation (গাঁজন)
+D. Diffusion (বিসরণ)
+Answer: B
+
+Which compound is formed in absence of oxygen in muscles? (অক্সিজেনের অভাবে পেশিতে কোন যৌগ তৈরি হয়?)
+A. Ethanol (এথানল)
+B. Lactic acid (ল্যাকটিক অ্যাসিড)
+C. Glucose (গ্লুকোজ)
+D. ATP (এটিপি)
+Answer: B
+
+Which organism shows fermentation? (কোন জীব গাঁজন প্রক্রিয়া দেখায়?)
+A. Amoeba (অ্যামিবা)
+B. Yeast (ইস্ট)
+C. Human (মানুষ)
+D. Fish (মাছ)
+Answer: B
+
+Which organ expands during inhalation? (শ্বাস নেওয়ার সময় কোন অঙ্গ প্রসারিত হয়?)
+A. Heart (হৃদপিণ্ড)
+B. Lungs (ফুসফুস)
+C. Liver (যকৃত)
+D. Kidney (বৃক্ক)
+Answer: B
+
+Which structure carries air to lungs? (কোন গঠন বায়ু ফুসফুসে নিয়ে যায়?)
+A. Bronchi (ব্রঙ্কাই)
+B. Veins (শিরা)
+C. Capillaries (ক্যাপিলারি)
+D. Arteries (ধমনী)
+Answer: A
+
+Which structure is smallest airway? (সবচেয়ে ছোট বায়ুনালী কোনটি?)
+A. Bronchi (ব্রঙ্কাই)
+B. Bronchioles (ব্রঙ্কিওল)
+C. Trachea (শ্বাসনালী)
+D. Pharynx (গ্রাসনী)
+Answer: B
+
+Which structure is surrounded by capillaries? (কোন গঠন ক্যাপিলারি দ্বারা পরিবেষ্টিত?)
+A. Bronchi (ব্রঙ্কাই)
+B. Alveoli (অ্যালভিওলাই)
+C. Trachea (শ্বাসনালী)
+D. Larynx (লারিংক্স)
+Answer: B
+
+Which process uses diffusion? (কোন প্রক্রিয়ায় বিসরণ ব্যবহৃত হয়?)
+A. Digestion (হজম)
+B. Gas exchange (গ্যাস আদান-প্রদান)
+C. Circulation (সঞ্চালন)
+D. Excretion (উৎসর্জন)
+Answer: B
+
+Which structure has thin walls? (কোন গঠনের দেয়াল পাতলা?)
+A. Bronchi (ব্রঙ্কাই)
+B. Alveoli (অ্যালভিওলাই)
+C. Trachea (শ্বাসনালী)
+D. Pharynx (গ্রাসনী)
+Answer: B
+
+Which gas diffuses into blood? (কোন গ্যাস রক্তে প্রবেশ করে?)
+A. CO₂ (কার্বন ডাইঅক্সাইড)
+B. O₂ (অক্সিজেন)
+C. Nitrogen (নাইট্রোজেন)
+D. Methane (মিথেন)
+Answer: B
+
+Which gas diffuses out of blood? (কোন গ্যাস রক্ত থেকে বের হয়?)
+A. Oxygen (অক্সিজেন)
+B. Nitrogen (নাইট্রোজেন)
+C. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+D. Hydrogen (হাইড্রোজেন)
+Answer: C
+
+Which condition increases breathing rate? (কোন অবস্থায় শ্বাসের হার বাড়ে?)
+A. Sleep (ঘুম)
+B. Exercise (ব্যায়াম)
+C. Rest (বিশ্রাম)
+D. Meditation (ধ্যান)
+Answer: B
+
+Aquatic animals breathe faster because ________. (জলজ প্রাণী দ্রুত শ্বাস নেয় কারণ ________)
+A. More oxygen (বেশি অক্সিজেন)
+B. Less oxygen (কম অক্সিজেন)
+C. High temperature (উচ্চ তাপমাত্রা)
+D. High pressure (উচ্চ চাপ)
+Answer: B
+
+Which structure produces voice? (কোন গঠন শব্দ তৈরি করে?)
+A. Trachea (শ্বাসনালী)
+B. Larynx (লারিংক্স)
+C. Bronchi (ব্রঙ্কাই)
+D. Alveoli (অ্যালভিওলাই)
+Answer: B
+
+Which gas is required for oxidation of food? (খাদ্যের জারণের জন্য কোন গ্যাস দরকার?)
+A. CO₂ (কার্বন ডাইঅক্সাইড)
+B. O₂ (অক্সিজেন)
+C. N₂ (নাইট্রোজেন)
+D. H₂ (হাইড্রোজেন)
+Answer: B
+
+Which stage occurs in cytoplasm? (কোন ধাপ কোষদ্রব্যে ঘটে?)
+A. Krebs cycle (ক্রেবস চক্র)
+B. ETC (ইটিসি)
+C. Glycolysis (গ্লাইকোলাইসিস)
+D. Oxidation (জারণ)
+Answer: C
+
+Which organ separates chest and abdomen? (কোন অঙ্গ বুক ও পেট আলাদা করে?)
+A. Liver (যকৃত)
+B. Diaphragm (ডায়াফ্রাম)
+C. Lung (ফুসফুস)
+D. Heart (হৃদপিণ্ড)
+Answer: B
+
+Which movement occurs during inhalation? (শ্বাস নেওয়ার সময় কী ঘটে?)
+A. Ribs down (পাঁজর নিচে)
+B. Ribs inward (ভিতরে)
+C. Ribs upward (উপরে)
+D. No movement (কোন গতি নেই)
+Answer: C
+
+Which organ contains bronchi? (কোন অঙ্গে ব্রঙ্কাই থাকে?)
+A. Heart (হৃদপিণ্ড)
+B. Lungs (ফুসফুস)
+C. Liver (যকৃত)
+D. Kidney (বৃক্ক)
+Answer: B
+
+Which structure connects nose to lungs? (নাককে ফুসফুসের সাথে যুক্ত করে কোনটি?)
+A. Trachea (শ্বাসনালী)
+B. Bronchi (ব্রঙ্কাই)
+C. Both (উভয়ই)
+D. None (কোনোটিই নয়)
+Answer: C
+
+Which gas exchange is passive? (কোন গ্যাস বিনিময় নিষ্ক্রিয়?)
+A. Active transport (সক্রিয় পরিবহন)
+B. Diffusion (বিসরণ)
+C. Osmosis (অসমোসিস)
+D. Filtration (পরিস্রবণ)
+Answer: B
+
+Which respiration occurs without oxygen? (অক্সিজেন ছাড়া কোন শ্বসন হয়?)
+A. Aerobic (বায়বীয়)
+B. Anaerobic (অবায়বীয়)
+C. Both (উভয়ই)
+D. None (কোনোটিই নয়)
+Answer: B
+
+Which gas is used in cellular respiration? (কোষীয় শ্বসনে কোন গ্যাস ব্যবহৃত হয়?)
+A. Oxygen (অক্সিজেন)
+B. CO₂ (কার্বন ডাইঅক্সাইড)
+C. Nitrogen (নাইট্রোজেন)
+D. Methane (মিথেন)
+Answer: A
+
+Which structure is first entry of air? (বায়ুর প্রথম প্রবেশ পথ কোনটি?)
+A. Trachea (শ্বাসনালী)
+B. Nostrils (নাসারন্ধ্র)
+C. Bronchi (ব্রঙ্কাই)
+D. Lungs (ফুসফুস)
+Answer: B
+
+Which organ removes dust from air? (বায়ু থেকে ধুলো সরায় কোনটি?)
+A. Nostrils (নাসারন্ধ্র)
+B. Bronchi (ব্রঙ্কাই)
+C. Lungs (ফুসফুস)
+D. Heart (হৃদপিণ্ড)
+Answer: A
+
+Which part has mucus lining? (কোন অংশে মিউকাস থাকে?)
+A. Nose (নাক)
+B. Kidney (বৃক্ক)
+C. Liver (যকৃত)
+D. Heart (হৃদপিণ্ড)
+Answer: A
+
+Which structure carries oxygen to tissues? (কোনটি টিস্যুতে অক্সিজেন বহন করে?)
+A. RBC (লাল রক্তকণিকা)
+B. WBC (শ্বেত রক্তকণিকা)
+C. Platelets (প্লেটলেট)
+D. Plasma (প্লাজমা)
+Answer: A
+
+Which gas binds with hemoglobin? (কোন গ্যাস হিমোগ্লোবিনের সাথে যুক্ত হয়?)
+A. CO₂ (কার্বন ডাইঅক্সাইড)
+B. Oxygen (অক্সিজেন)
+C. Nitrogen (নাইট্রোজেন)
+D. Hydrogen (হাইড্রোজেন)
+Answer: B
+
+Which structure is balloon-like? (কোন গঠন বেলুনের মতো?)
+A. Bronchi (ব্রঙ্কাই)
+B. Alveoli (অ্যালভিওলাই)
+C. Trachea (শ্বাসনালী)
+D. Pharynx (গ্রাসনী)
+Answer: B
+
+Which structure provides ~80 m² surface area? (প্রায় ৮০ m² পৃষ্ঠতল দেয় কোনটি?)
+A. Bronchi (ব্রঙ্কাই)
+B. Trachea (শ্বাসনালী)
+C. Alveoli (অ্যালভিওলাই)
+D. Larynx (লারিংক্স)
+Answer: C
+
+Which step connects glycolysis and Krebs cycle? (গ্লাইকোলাইসিস ও ক্রেবস চক্রকে যুক্ত করে কোন ধাপ?)
+A. Pyruvate oxidation (পাইরুভেট অক্সিডেশন)
+B. Fermentation (গাঁজন)
+C. Diffusion (বিসরণ)
+D. Photolysis (ফোটোলাইসিস)
+Answer: A
+
+Which compound enters Krebs cycle directly? (কোন যৌগ সরাসরি ক্রেবস চক্রে প্রবেশ করে?)
+A. Pyruvate (পাইরুভেট)
+B. Acetyl-CoA (অ্যাসিটাইল-CoA)
+C. Glucose (গ্লুকোজ)
+D. Lactic acid (ল্যাকটিক অ্যাসিড)
+Answer: B
+
+Which stage produces maximum ATP? (কোন ধাপে সর্বাধিক ATP উৎপন্ন হয়?)
+A. Glycolysis (গ্লাইকোলাইসিস)
+B. Krebs cycle (ক্রেবস চক্র)
+C. ETC (ইলেকট্রন পরিবহন শৃঙ্খল)
+D. Fermentation (গাঁজন)
+Answer: C
+
+Which molecule is final electron acceptor? (চূড়ান্ত ইলেকট্রন গ্রহণকারী কোনটি?)
+A. Oxygen (অক্সিজেন)
+B. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+C. Nitrogen (নাইট্রোজেন)
+D. Hydrogen (হাইড্রোজেন)
+Answer: A
+
+Which enzyme acts in glycolysis? (গ্লাইকোলাইসিসে কোন এনজাইম কাজ করে?)
+A. Pepsin (পেপসিন)
+B. Amylase (অ্যামাইলেজ)
+C. Hexokinase (হেক্সোকিনেজ)
+D. Lipase (লাইপেজ)
+Answer: C
+
+Which respiration occurs in mitochondria? (মাইটোকন্ড্রিয়ায় কোন শ্বসন হয়?)
+A. Anaerobic (অবায়বীয়)
+B. Aerobic (বায়বীয়)
+C. Fermentation (গাঁজন)
+D. Diffusion (বিসরণ)
+Answer: B
+
+Which stage releases CO₂? (কোন ধাপে CO₂ উৎপন্ন হয়?)
+A. Glycolysis (গ্লাইকোলাইসিস)
+B. Krebs cycle (ক্রেবস চক্র)
+C. ETC (ইটিসি)
+D. Photolysis (ফোটোলাইসিস)
+Answer: B
+
+Which molecule carries electrons? (ইলেকট্রন বহন করে কোনটি?)
+A. ATP (এটিপি)
+B. NADH (এনএডিএইচ)
+C. DNA (ডিএনএ)
+D. RNA (আরএনএ)
+Answer: B
+
+Which condition causes oxygen debt? (কোন অবস্থায় অক্সিজেন ঋণ হয়?)
+A. Rest (বিশ্রাম)
+B. Sleep (ঘুম)
+C. Heavy exercise (কঠিন ব্যায়াম)
+D. Meditation (ধ্যান)
+Answer: C
+
+Which acid accumulates in muscles? (পেশিতে কোন অ্যাসিড জমা হয়?)
+A. Citric acid (সাইট্রিক অ্যাসিড)
+B. Lactic acid (ল্যাকটিক অ্যাসিড)
+C. Acetic acid (অ্যাসিটিক অ্যাসিড)
+D. Hydrochloric acid (হাইড্রোক্লোরিক অ্যাসিড)
+Answer: B
+
+Which structure ensures maximum gas exchange? (সর্বাধিক গ্যাস বিনিময় নিশ্চিত করে কোনটি?)
+A. Bronchi (ব্রঙ্কাই)
+B. Alveoli (অ্যালভিওলাই)
+C. Trachea (শ্বাসনালী)
+D. Pharynx (গ্রাসনী)
+Answer: B
+
+Which factor increases diffusion rate? (কোনটি বিসরণের হার বাড়ায়?)
+A. Thick membrane (পুরু ঝিল্লি)
+B. Large surface area (বড় পৃষ্ঠতল)
+C. Low gradient (কম পার্থক্য)
+D. Less oxygen (কম অক্সিজেন)
+Answer: B
+
+Which gas is more soluble in blood? (কোন গ্যাস রক্তে বেশি দ্রবণীয়?)
+A. Oxygen (অক্সিজেন)
+B. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+C. Nitrogen (নাইট্রোজেন)
+D. Hydrogen (হাইড্রোজেন)
+Answer: B
+
+Which condition decreases breathing rate? (কোন অবস্থায় শ্বাসের হার কমে?)
+A. Exercise (ব্যায়াম)
+B. Stress (স্ট্রেস)
+C. Sleep (ঘুম)
+D. Running (দৌড়ানো)
+Answer: C
+
+Which structure regulates airflow? (বায়ু প্রবাহ নিয়ন্ত্রণ করে কোনটি?)
+A. Cartilage in trachea (শ্বাসনালীর উপাস্থি)
+B. Alveoli (অ্যালভিওলাই)
+C. Capillaries (ক্যাপিলারি)
+D. RBC (লাল রক্তকণিকা)
+Answer: A
+
+Which organ protects lungs? (ফুসফুসকে রক্ষা করে কোনটি?)
+A. Ribs (পাঁজর)
+B. Liver (যকৃত)
+C. Kidney (বৃক্ক)
+D. Heart (হৃদপিণ্ড)
+Answer: A
+
+Which gas is produced in mitochondria? (মাইটোকন্ড্রিয়ায় কোন গ্যাস উৎপন্ন হয়?)
+A. Oxygen (অক্সিজেন)
+B. Nitrogen (নাইট্রোজেন)
+C. Carbon dioxide (কার্বন ডাইঅক্সাইড)
+D. Hydrogen (হাইড্রোজেন)
+Answer: C
+
+Which structure is responsible for voice modulation? (কোন গঠন কণ্ঠস্বর নিয়ন্ত্রণ করে?)
+A. Bronchi (ব্রঙ্কাই)
+B. Larynx (লারিংক্স)
+C. Alveoli (অ্যালভিওলাই)
+D. Trachea (শ্বাসনালী)
+Answer: B
+
+Which gas exchange occurs by diffusion? (কোন গ্যাস বিনিময় বিসরণ দ্বারা হয়?)
+A. Oxygen & CO₂ (অক্সিজেন ও CO₂)
+B. Nitrogen & Hydrogen
+C. Oxygen & Nitrogen
+D. CO₂ & Methane
+Answer: A
+
+Which structure is final site of respiration? (শ্বসনের শেষ স্থান কোনটি?)
+A. Lungs (ফুসফুস)
+B. Blood (রক্ত)
+C. Cells (কোষ)
+D. Bronchi (ব্রঙ্কাই)
+Answer: C

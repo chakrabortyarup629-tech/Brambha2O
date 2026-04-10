@@ -7,7 +7,7 @@ import threading
 
 # Initialize Bot
 API_TOKEN = os.getenv("BOT_TOKEN")
-bot = telebot.TeleBot(API_TOKEN, threaded=True, num_threads=15)
+bot = telebot.TeleBot(API_TOKEN, threaded=True, num_threads=20)
 
 ADMIN_KEY = "Eshu2005aru"
 GROUP_ID = -1003746627836 
@@ -18,7 +18,7 @@ user_state = {}
 user_step = {}
 selected_chapters = {}
 user_scores = {} 
-used_questions = set() # Memory to prevent repeats
+used_questions = set() 
 
 current_poll_data = {
     "poll_id": None,
@@ -28,7 +28,7 @@ current_poll_data = {
     "max_answers": 3 
 }
 
-# ===== 1. SMART LOAD QUESTIONS =====
+# ===== 1. CORE: LOAD QUESTIONS =====
 def load_questions():
     subjects = ["biology", "math", "reasoning", "physics", "chemistry"]
     for sub in subjects:
@@ -49,89 +49,110 @@ def load_questions():
                 
                 if "Answer:" in block:
                     question_bank.setdefault(sub, {}).setdefault(current_chapter, []).append(block)
-            
             print(f"✅ {sub.capitalize()} loaded.")
         except Exception as e:
             print(f"❌ Error loading {sub}: {e}")
 
 load_questions()
 
-# ===== 2. POLL & SCORE HANDLERS =====
+# ===== 2. FEATURE: ADD QUESTIONS VIA CHAT =====
+
+@bot.message_handler(commands=['add'])
+def add_question_start(message):
+    user_step[message.chat.id] = "adding_questions"
+    markup = types.ReplyKeyboardMarkup(resize_keyboard=True).add("Biology", "Math", "Reasoning", "Physics", "Chemistry", "CANCEL ❌")
+    bot.send_message(message.chat.id, "📝 **Select Subject to add questions to:**", reply_markup=markup, parse_mode="Markdown")
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "adding_questions")
+def handle_add_subject(message):
+    if message.text == "CANCEL ❌":
+        user_step[message.chat.id] = None
+        bot.send_message(message.chat.id, "✅ Cancelled.", reply_markup=types.ReplyKeyboardRemove())
+        return
+    sub = message.text.lower()
+    user_state[message.chat.id] = {'target_file': sub}
+    user_step[message.chat.id] = "waiting_for_text"
+    bot.send_message(message.chat.id, f"📥 **Paste questions for {message.text} below.**\n(Must follow #chapter format!)", reply_markup=types.ReplyKeyboardRemove())
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "waiting_for_text")
+def save_pasted_questions(message):
+    sub = user_state[message.chat.id]['target_file']
+    os.makedirs("questions", exist_ok=True)
+    with open(f"questions/{sub}.txt", "a", encoding="utf-8") as f:
+        f.write("\n\n" + message.text)
+    load_questions() # Refresh memory
+    user_step[message.chat.id] = None
+    bot.send_message(message.chat.id, f"✅ Added to {sub.capitalize()} and reloaded!")
+
+# ===== 3. POLL & SCORE LOGIC =====
 
 @bot.poll_answer_handler()
 def handle_poll_answer(poll_answer):
-    user_id = poll_answer.user.id
-    if user_id not in user_scores:
-        user_scores[user_id] = {"name": poll_answer.user.first_name, "correct": 0, "wrong": 0, "total": 0, "score": 0.0}
-    
+    uid = poll_answer.user.id
+    if uid not in user_scores:
+        user_scores[uid] = {"name": poll_answer.user.first_name, "correct": 0, "wrong": 0, "total": 0, "score": 0.0}
     if poll_answer.poll_id == current_poll_data["poll_id"]:
-        user_scores[user_id]["total"] += 1
+        user_scores[uid]["total"] += 1
         if poll_answer.option_ids[0] == current_poll_data["correct_id"]:
-            user_scores[user_id]["correct"] += 1
-            user_scores[user_id]["score"] += 1.0
+            user_scores[uid]["correct"] += 1
+            user_scores[uid]["score"] += 1.0
         else:
-            user_scores[user_id]["wrong"] += 1
-            user_scores[user_id]["score"] -= 0.5
+            user_scores[uid]["wrong"] += 1
+            user_scores[uid]["score"] -= 0.5
 
 @bot.poll_handler(func=lambda poll: True)
 def watch_poll_limit(poll):
-    if poll.id == current_poll_data["poll_id"]:
-        if poll.total_voter_count >= current_poll_data["max_answers"] and current_poll_data["active"]:
-            try:
-                bot.stop_poll(GROUP_ID, current_poll_data["message_id"])
-                current_poll_data["active"] = False
-            except: pass
+    if poll.id == current_poll_data["poll_id"] and poll.total_voter_count >= current_poll_data["max_answers"] and current_poll_data["active"]:
+        try:
+            bot.stop_poll(GROUP_ID, current_poll_data["message_id"])
+            current_poll_data["active"] = False
+        except: pass
 
-# ===== 3. COMMANDS =====
+# ===== 4. COMMANDS & ADMIN SETUP =====
 
 @bot.message_handler(commands=['start'])
 def start(message):
     user_step[message.chat.id] = None 
-    bot.send_message(message.chat.id, "👋 **Quiz Bot 3.0**\n/admin - Setup Quiz\n/scorecard - Full Results\n/resetpool - Clear question memory")
+    bot.send_message(message.chat.id, "🤖 **Quiz Master 4.0**\n/admin - Start Quiz\n/add - Add Questions\n/scorecard - Results\n/resetpool - Clear History")
+
+@bot.message_handler(commands=['scorecard', 'result'])
+def show_scorecard(message):
+    if not user_scores: return bot.send_message(message.chat.id, "📊 No results.")
+    sorted_u = sorted(user_scores.values(), key=lambda x: x['score'], reverse=True)
+    res = "📋 **DETAILED RESULTS** 📋\n━━━━━━━━━━━━━━\n"
+    for u in sorted_u:
+        res += f"👤 **{u['name']}**\n✅ {u['correct']} | ❌ {u['wrong']} | 🏆 {u['score']} pts\n━━━━━━━━━━━━━━\n"
+    bot.send_message(message.chat.id, res, parse_mode="Markdown")
+
+@bot.message_handler(commands=['resetpool'])
+def reset_pool(message):
+    used_questions.clear()
+    bot.send_message(message.chat.id, "🔄 Question history cleared!")
 
 @bot.message_handler(commands=['admin'])
 def admin(message):
     user_step[message.chat.id] = "admin_key"
     bot.send_message(message.chat.id, "🔑 **Enter Admin Key:**")
 
-@bot.message_handler(commands=['scorecard', 'result'])
-def show_scorecard(message):
-    if not user_scores:
-        return bot.send_message(message.chat.id, "📊 No records found.")
-    sorted_data = sorted(user_scores.values(), key=lambda x: x['score'], reverse=True)
-    report = "📋 **QUIZ SCORECARD** 📋\n━━━━━━━━━━━━━━\n"
-    for u in sorted_data:
-        report += f"👤 **{u['name']}**\n✅ {u['correct']} | ❌ {u['wrong']} | 🏆 {u['score']} pts\n━━━━━━━━━━━━━━\n"
-    bot.send_message(message.chat.id, report, parse_mode="Markdown")
-
-@bot.message_handler(commands=['resetpool'])
-def reset_pool(message):
-    used_questions.clear()
-    bot.send_message(message.chat.id, "🔄 **Question memory cleared!** Bot will now use all questions again.")
-
-# ===== 4. ADMIN FLOW (Setup) =====
-
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "admin_key")
 def check_admin(message):
     if message.text == ADMIN_KEY:
         user_step[message.chat.id] = "subject"
-        markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=2)
-        markup.add("Biology", "Math", "Reasoning", "Physics", "Chemistry")
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=2).add("Biology", "Math", "Reasoning", "Physics", "Chemistry")
         bot.send_message(message.chat.id, "📚 **Select Subject:**", reply_markup=markup)
-    else: bot.send_message(message.chat.id, "❌ Wrong Key.")
+    else: bot.send_message(message.chat.id, "❌ Access Denied.")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "subject")
-def handle_subject(message):
+def select_subject(message):
     sub = message.text.lower()
     if sub in question_bank:
         user_state[message.chat.id] = {'subject': sub}
         user_step[message.chat.id] = "mode"
-        markup = types.ReplyKeyboardMarkup(resize_keyboard=True).add("Mix (All) 🎯", "Chapter-wise 📂")
-        bot.send_message(message.chat.id, f"✅ {message.text} selected. Mode?", reply_markup=markup)
-    else: bot.send_message(message.chat.id, "❌ File not found.")
+        bot.send_message(message.chat.id, "🎯 **Mode:**", reply_markup=types.ReplyKeyboardMarkup(resize_keyboard=True).add("Mix (All) 🎯", "Chapter-wise 📂"))
+    else: bot.send_message(message.chat.id, "❌ No questions found.")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "mode")
-def handle_mode(message):
+def select_mode(message):
     sub = user_state[message.chat.id]['subject']
     if message.text == "Mix (All) 🎯":
         user_state[message.chat.id]['chapters'] = list(question_bank[sub].keys())
@@ -146,40 +167,39 @@ def handle_mode(message):
         bot.send_message(message.chat.id, "Select chapters then DONE:", reply_markup=markup)
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "chapter")
-def select_chapter(message):
+def handle_chapters(message):
     if message.text == "DONE ✅":
         user_state[message.chat.id]['chapters'] = list(selected_chapters[message.chat.id])
         user_step[message.chat.id] = "count"
         bot.send_message(message.chat.id, "🔢 **Question Count:**")
     else:
         selected_chapters[message.chat.id].add(message.text)
-        bot.send_message(message.chat.id, f"➕ Added: {message.text}")
+        bot.send_message(message.chat.id, f"➕ {message.text}")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "count")
-def save_count(message):
+def handle_count(message):
     user_state[message.chat.id]['count'] = int(message.text)
     user_step[message.chat.id] = "timer"
-    bot.send_message(message.chat.id, "⏱️ **Seconds per question:**")
+    bot.send_message(message.chat.id, "⏱️ **Seconds (10-600):**")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "timer")
-def save_timer(message):
+def handle_timer(message):
     user_state[message.chat.id]['timer'] = int(message.text)
     user_step[message.chat.id] = "max_ans"
-    bot.send_message(message.chat.id, "👤 **Answer limit to stop poll:**")
+    bot.send_message(message.chat.id, "👤 **Student answer limit:**")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "max_ans")
-def save_max_ans(message):
+def handle_limit(message):
     user_state[message.chat.id]['max_answers'] = int(message.text)
-    user_step[message.chat.id] = "start_ready"
-    markup = types.ReplyKeyboardMarkup(resize_keyboard=True).add("START QUIZ 🚀")
-    bot.send_message(message.chat.id, "Configuration Done!", reply_markup=markup)
+    user_step[message.chat.id] = "ready"
+    bot.send_message(message.chat.id, "✅ Ready!", reply_markup=types.ReplyKeyboardMarkup(resize_keyboard=True).add("START QUIZ 🚀"))
 
-# ===== 5. QUIZ ENGINE (With NO-REPEAT Logic) =====
+# ===== 5. ENGINE: QUIZ RUNNER =====
 
-@bot.message_handler(func=lambda m: m.text == "START QUIZ 🚀" and user_step.get(m.chat.id) == "start_ready")
-def trigger_quiz(message):
+@bot.message_handler(func=lambda m: m.text == "START QUIZ 🚀" and user_step.get(m.chat.id) == "ready")
+def start_quiz_trigger(message):
     threading.Thread(target=run_quiz, args=(message.chat.id,)).start()
-    bot.send_message(message.chat.id, "🚀 Quiz started!")
+    bot.send_message(message.chat.id, "🚀 Quiz is live in the group!")
 
 def run_quiz(chat_id):
     global current_poll_data, used_questions
@@ -187,23 +207,16 @@ def run_quiz(chat_id):
     data = user_state[chat_id]
     sub = data['subject']
     
-    # Building pool
     full_pool = []
     for ch in data['chapters']: full_pool.extend(question_bank[sub].get(ch, []))
-    
-    # Filter out questions used in previous sessions
     available = [q for q in full_pool if q not in used_questions]
     
-    # Reset memory if we ran out of unique questions
     if len(available) < data['count']:
-        bot.send_message(chat_id, "⚠️ No more unique questions left. Resetting memory for this subject.")
+        bot.send_message(chat_id, "⚠️ No new questions left. Resetting memory for this subject.")
         available = full_pool
-        # Only clear used questions that belong to this subject
         used_questions = {q for q in used_questions if q not in full_pool}
 
     selected = random.sample(available, min(data['count'], len(available)))
-    
-    # Add newly selected questions to used memory
     for q in selected: used_questions.add(q)
 
     current_poll_data["max_answers"] = data['max_answers']
@@ -213,17 +226,10 @@ def run_quiz(chat_id):
         lines = [l.strip() for l in block.split("\n") if l.strip()]
         clean_q = [line for line in lines if not line.lower().startswith("#chapter:")][0]
         options = [lines[1][3:], lines[2][3:], lines[3][3:], lines[4][3:]]
-        ans = "A"
-        for l in lines:
-            if "Answer:" in l: ans = l.split(":")[-1].strip()
+        ans = next((l.split(":")[-1].strip() for l in lines if "Answer:" in l), "A")
         correct_idx = ord(ans) - ord("A")
 
-        poll_msg = bot.send_poll(
-            GROUP_ID, clean_q, options, 
-            type='quiz', correct_option_id=correct_idx, 
-            is_anonymous=False, open_period=data['timer']
-        )
-
+        poll_msg = bot.send_poll(GROUP_ID, clean_q, options, type='quiz', correct_option_id=correct_idx, is_anonymous=False, open_period=data['timer'])
         current_poll_data.update({"poll_id": poll_msg.poll.id, "message_id": poll_msg.message_id, "active": True, "correct_id": correct_idx})
 
         start_t = time.time()
@@ -234,7 +240,6 @@ def run_quiz(chat_id):
         if current_poll_data["active"]:
             try: bot.stop_poll(GROUP_ID, poll_msg.message_id)
             except: pass
-
         current_poll_data["active"] = False
         time.sleep(2) 
 
@@ -244,4 +249,3 @@ if __name__ == "__main__":
     bot.remove_webhook()
     time.sleep(1)
     bot.infinity_polling(skip_pending=True)
-                                             

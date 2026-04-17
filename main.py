@@ -20,6 +20,7 @@ selected_chapters = {}
 user_scores = {} 
 used_questions = set()
 quiz_active = {} 
+skipped_this_q = set() 
 
 current_poll_data = {
     "poll_id": None,
@@ -48,30 +49,20 @@ def load_questions():
                         current_chapter = line.split(":")[1].strip()
                 if "Answer:" in block:
                     question_bank.setdefault(sub, {}).setdefault(current_chapter, []).append(block)
-            print(f"✅ {sub.capitalize()} loaded.")
-        except Exception as e:
-            print(f"❌ Error: {e}")
+        except: pass
 
 load_questions()
 
-# ===== 2. HANDLERS (With Detailed Scoring) =====
+# ===== 2. HANDLERS =====
 
 def init_user(uid, name):
     if uid not in user_scores:
-        user_scores[uid] = {
-            "name": name, 
-            "correct": 0, 
-            "wrong": 0, 
-            "skip": 0, 
-            "total": 0, 
-            "score": 0.0
-        }
+        user_scores[uid] = {"name": name, "correct": 0, "wrong": 0, "skip": 0, "total": 0, "score": 0.0}
 
 @bot.poll_answer_handler()
 def handle_poll_answer(poll_answer):
     uid = poll_answer.user.id
     init_user(uid, poll_answer.user.first_name)
-    
     if poll_answer.poll_id == current_poll_data["poll_id"]:
         user_scores[uid]["total"] += 1
         if poll_answer.option_ids[0] == current_poll_data["correct_id"]:
@@ -83,22 +74,26 @@ def handle_poll_answer(poll_answer):
 
 @bot.callback_query_handler(func=lambda call: True)
 def handle_callbacks(call):
-    if call.data == "skip_question":
-        uid = call.from_user.id
-        init_user(uid, call.from_user.first_name)
-        
-        # Increment user's personal skip count and total
-        user_scores[uid]["skip"] += 1
-        user_scores[uid]["total"] += 1
-        
-        # Increment global skip count for poll limit
-        current_poll_data["skip_count"] += 1
-        bot.answer_callback_query(call.id, "⏩ Question Skipped!")
-        
+    uid = call.from_user.id
+    
+    # STOP BUTTON LOGIC (Happens in Private Chat)
     if call.data == "stop_quiz":
         quiz_active[GROUP_ID] = False
         current_poll_data["active"] = False
-        bot.answer_callback_query(call.id, "🛑 Stopping...")
+        bot.answer_callback_query(call.id, "🛑 Stopping Group Quiz...")
+        bot.edit_message_text("✅ Quiz has been stopped.", call.message.chat.id, call.message.message_id)
+
+    # SKIP BUTTON LOGIC (Happens in Group)
+    elif call.data == "skip_question":
+        if uid in skipped_this_q:
+            bot.answer_callback_query(call.id, "⚠️ Already skipped!")
+            return
+        init_user(uid, call.from_user.first_name)
+        skipped_this_q.add(uid)
+        user_scores[uid]["skip"] += 1
+        user_scores[uid]["total"] += 1
+        current_poll_data["skip_count"] += 1
+        bot.answer_callback_query(call.id, "⏩ Skipped!")
 
 @bot.poll_handler(func=lambda poll: True)
 def watch_poll_limit(poll):
@@ -110,32 +105,21 @@ def watch_poll_limit(poll):
                 current_poll_data["active"] = False
             except: pass
 
-# ===== 3. DETAILED SCORECARD =====
+# ===== 3. COMMANDS =====
 
 @bot.message_handler(commands=['scorecard', 'result'])
 def show_scorecard(message):
     if not user_scores: return bot.send_message(message.chat.id, "📊 No data.")
     sorted_data = sorted(user_scores.values(), key=lambda x: x['score'], reverse=True)
-    
     report = "📋 **DETAILED QUIZ REPORT** 📋\n━━━━━━━━━━━━━━\n"
     for u in sorted_data:
-        report += (
-            f"👤 **{u['name']}**\n"
-            f"📝 Total: {u['total']} Qs\n"
-            f"✅ Correct: {u['correct']}\n"
-            f"❌ Wrong: {u['wrong']}\n"
-            f"⏩ Skipped: {u['skip']}\n"
-            f"🏆 **Final Score: {u['score']}**\n"
-            f"━━━━━━━━━━━━━━\n"
-        )
+        report += f"👤 **{u['name']}**\n📝 Total: {u['total']} Qs\n✅ Correct: {u['correct']}\n❌ Wrong: {u['wrong']}\n⏩ Skipped: {u['skip']}\n🏆 **Score: {u['score']}**\n━━━━━━━━━━━━━━\n"
     bot.send_message(message.chat.id, report, parse_mode="Markdown")
-
-# ===== 4. ADMIN & ENGINE (No Changes Here) =====
 
 @bot.message_handler(commands=['admin'])
 def admin(message):
     user_step[message.chat.id] = "admin_key"
-    bot.send_message(message.chat.id, "🔑 **Enter Key:**")
+    bot.send_message(message.chat.id, "🔑 **Enter Admin Key:**")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "admin_key")
 def check_admin(message):
@@ -157,7 +141,7 @@ def handle_mode(message):
     if "Mix" in message.text:
         user_state[message.chat.id]['chapters'] = list(question_bank[sub].keys())
         user_step[message.chat.id] = "count"
-        bot.send_message(message.chat.id, "🔢 **Count:**")
+        bot.send_message(message.chat.id, "🔢 **Question Count:**")
     else:
         user_step[message.chat.id] = "chapter"
         selected_chapters[message.chat.id] = set()
@@ -171,7 +155,7 @@ def select_ch(message):
     if message.text == "DONE ✅":
         user_state[message.chat.id]['chapters'] = list(selected_chapters[message.chat.id])
         user_step[message.chat.id] = "count"
-        bot.send_message(message.chat.id, "🔢 **Count:**")
+        bot.send_message(message.chat.id, "🔢 **Question Count:**")
     else:
         selected_chapters[message.chat.id].add(message.text)
         bot.send_message(message.chat.id, f"➕ {message.text}")
@@ -180,7 +164,7 @@ def select_ch(message):
 def save_count(message):
     user_state[message.chat.id]['count'] = int(message.text)
     user_step[message.chat.id] = "timer"
-    bot.send_message(message.chat.id, "⏱️ **Timer:**")
+    bot.send_message(message.chat.id, "⏱️ **Timer (Seconds):**")
 
 @bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "timer")
 def save_timer(message):
@@ -194,13 +178,19 @@ def save_max(message):
     user_step[message.chat.id] = "ready"
     bot.send_message(message.chat.id, "Ready!", reply_markup=types.ReplyKeyboardMarkup(resize_keyboard=True).add("START QUIZ 🚀"))
 
+# ===== 4. QUIZ ENGINE (Private Stop Controller) =====
+
 @bot.message_handler(func=lambda m: m.text == "START QUIZ 🚀" and user_step.get(m.chat.id) == "ready")
 def trigger_quiz(message):
     quiz_active[GROUP_ID] = True
+    # Send Stop Button to ADMIN'S PRIVATE CHAT only
+    stop_markup = types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("🛑 STOP GROUP QUIZ", callback_data="stop_quiz"))
+    bot.send_message(message.chat.id, "🚀 Quiz started in the group. You can stop it here:", reply_markup=stop_markup)
+    
     threading.Thread(target=run_quiz, args=(message.chat.id,)).start()
 
 def run_quiz(chat_id):
-    global current_poll_data, used_questions
+    global current_poll_data, used_questions, skipped_this_q
     user_scores.clear()
     data = user_state[chat_id]
     sub = data['subject']
@@ -214,14 +204,15 @@ def run_quiz(chat_id):
     for q in selected: used_questions.add(q)
 
     bot.send_message(GROUP_ID, f"🔔 **{sub.upper()} QUIZ STARTED!**")
-    stop_markup = types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("🛑 STOP QUIZ", callback_data="stop_quiz"))
-    stop_msg = bot.send_message(GROUP_ID, "Admin can stop the session early:", reply_markup=stop_markup)
 
     for block in selected:
-        if not quiz_active.get(GROUP_ID): break 
-        current_poll_data["skip_count"] = 0
-        lines = [l.strip() for l in block.split("\n") if l.strip()]
+        if not quiz_active.get(GROUP_ID): 
+            break 
         
+        current_poll_data["skip_count"] = 0
+        skipped_this_q.clear()
+        
+        lines = [l.strip() for l in block.split("\n") if l.strip()]
         q_timer = data['timer']
         for line in lines:
             if line.lower().startswith("#time:"):
@@ -235,18 +226,14 @@ def run_quiz(chat_id):
 
         skip_markup = types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("⏩ Skip", callback_data="skip_question"))
         poll_msg = bot.send_poll(GROUP_ID, clean_q, options, type='quiz', correct_option_id=correct_idx, is_anonymous=False, open_period=q_timer)
-        btn_msg = bot.send_message(GROUP_ID, "Need to pass?", reply_markup=skip_markup)
+        btn_msg = bot.send_message(GROUP_ID, "Skip if you don't know:", reply_markup=skip_markup)
 
         current_poll_data.update({"poll_id": poll_msg.poll.id, "message_id": poll_msg.message_id, "active": True, "correct_id": correct_idx})
 
         start_t = time.time()
         while time.time() - start_t < q_timer:
-            if not current_poll_data["active"] or not quiz_active.get(GROUP_ID): break 
-            if (current_poll_data["skip_count"] >= current_poll_data["max_answers"]):
-                current_poll_data["active"] = False
-                try: bot.stop_poll(GROUP_ID, poll_msg.message_id)
-                except: pass
-                break
+            if not current_poll_data["active"] or not quiz_active.get(GROUP_ID): 
+                break 
             time.sleep(1)
 
         try:
@@ -254,12 +241,11 @@ def run_quiz(chat_id):
             if current_poll_data["active"]: bot.stop_poll(GROUP_ID, poll_msg.message_id)
         except: pass
         current_poll_data["active"] = False
-        time.sleep(2) 
+        
+        if quiz_active.get(GROUP_ID):
+            time.sleep(2) 
 
-    try: bot.delete_message(GROUP_ID, stop_msg.message_id)
-    except: pass
-    bot.send_message(GROUP_ID, "🏁 **Quiz Ended.** Use /scorecard")
+    bot.send_message(GROUP_ID, "🏁 **Quiz Ended.**")
 
 if __name__ == "__main__":
     bot.infinity_polling(skip_pending=True)
-                

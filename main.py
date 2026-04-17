@@ -50,6 +50,7 @@ def load_questions():
                         current_chapter = line.split(":")[1].strip()
                 if "Answer:" in block:
                     question_bank.setdefault(sub, {}).setdefault(current_chapter, []).append(block)
+            print(f"✅ {sub.capitalize()} loaded.")
         except: pass
 
 load_questions()
@@ -77,39 +78,114 @@ def handle_poll_answer(poll_answer):
 def handle_callbacks(call):
     uid = call.from_user.id
     if call.data.startswith("skip_"):
-        # Extract the poll_id this button belongs to
         target_poll_id = call.data.split("_")[1]
-        
-        # ONLY process if it matches the current active poll
         if target_poll_id != str(current_poll_data["poll_id"]):
-            bot.answer_callback_query(call.id, "❌ This question has ended.")
+            bot.answer_callback_query(call.id, "❌ Question ended.")
             return
-
         if uid in skipped_this_q:
             bot.answer_callback_query(call.id, "⚠️ Already skipped!")
             return
-
         init_user(uid, call.from_user.first_name)
         skipped_this_q.add(uid)
         user_scores[uid]["skip"] += 1
         current_poll_data["skip_count"] += 1
         bot.answer_callback_query(call.id, "⏩ Skipped!")
-    
     elif call.data == "stop_quiz":
         quiz_active[GROUP_ID] = False
         current_poll_data["active"] = False
         bot.answer_callback_query(call.id, "🛑 Stopping...")
 
-# ===== 3. REPORT LOGIC =====
+# ===== 3. ADMIN SETUP FLOW (FIXED) =====
+
+@bot.message_handler(commands=['admin'])
+def admin(message):
+    user_step[message.chat.id] = "admin_key"
+    bot.send_message(message.chat.id, "🔑 **Enter Admin Key:**")
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "admin_key")
+def check_admin(message):
+    if message.text == ADMIN_KEY:
+        user_step[message.chat.id] = "subject"
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=2)
+        markup.add("Biology", "Math", "Reasoning", "Physics", "Chemistry")
+        bot.send_message(message.chat.id, "📚 **Select Subject:**", reply_markup=markup)
+    else:
+        bot.send_message(message.chat.id, "❌ Wrong Key.")
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "subject")
+def handle_subject(message):
+    sub = message.text.lower()
+    if sub in question_bank:
+        user_state[message.chat.id] = {'subject': sub}
+        user_step[message.chat.id] = "mode"
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True).add("Mix (All) 🎯", "Chapter-wise 📂")
+        bot.send_message(message.chat.id, f"✅ {message.text} selected. Choose mode:", reply_markup=markup)
+    else:
+        bot.send_message(message.chat.id, "❌ No questions found for this subject.")
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "mode")
+def handle_mode(message):
+    sub = user_state[message.chat.id]['subject']
+    if "Mix" in message.text:
+        user_state[message.chat.id]['chapters'] = list(question_bank[sub].keys())
+        user_step[message.chat.id] = "count"
+        bot.send_message(message.chat.id, "🔢 **Question Count:**", reply_markup=types.ReplyKeyboardRemove())
+    else:
+        user_step[message.chat.id] = "chapter"
+        selected_chapters[message.chat.id] = set()
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+        for ch in question_bank[sub]: markup.add(ch)
+        markup.add("DONE ✅")
+        bot.send_message(message.chat.id, "Select chapters then press DONE:", reply_markup=markup)
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "chapter")
+def handle_chapters(message):
+    if message.text == "DONE ✅":
+        if not selected_chapters.get(message.chat.id):
+            bot.send_message(message.chat.id, "⚠️ Select at least one chapter!")
+            return
+        user_state[message.chat.id]['chapters'] = list(selected_chapters[message.chat.id])
+        user_step[message.chat.id] = "count"
+        bot.send_message(message.chat.id, "🔢 **Question Count:**", reply_markup=types.ReplyKeyboardRemove())
+    else:
+        selected_chapters[message.chat.id].add(message.text)
+        bot.send_message(message.chat.id, f"➕ Added: {message.text}")
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "count")
+def handle_count(message):
+    try:
+        user_state[message.chat.id]['count'] = int(message.text)
+        user_step[message.chat.id] = "timer"
+        bot.send_message(message.chat.id, "⏱️ **Default Timer (Seconds):**")
+    except: bot.send_message(message.chat.id, "🔢 Enter a valid number.")
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "timer")
+def handle_timer(message):
+    try:
+        user_state[message.chat.id]['timer'] = int(message.text)
+        user_step[message.chat.id] = "max_ans"
+        bot.send_message(message.chat.id, "👤 **Answer Limit (Votes+Skips):**")
+    except: bot.send_message(message.chat.id, "🔢 Enter a valid number.")
+
+@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "max_ans")
+def handle_max(message):
+    try:
+        user_state[message.chat.id]['max_answers'] = int(message.text)
+        user_step[message.chat.id] = "ready"
+        markup = types.ReplyKeyboardMarkup(resize_keyboard=True).add("START QUIZ 🚀")
+        bot.send_message(message.chat.id, "✅ Ready!", reply_markup=markup)
+    except: bot.send_message(message.chat.id, "🔢 Enter a valid number.")
+
+# ===== 4. QUIZ ENGINE =====
 
 def get_report():
-    if not user_scores: return "📊 No data."
-    sorted_data = sorted(user_scores.values(), key=lambda x: x['score'], reverse=True)
+    if not user_scores: return "📊 No results."
+    sorted_u = sorted(user_scores.values(), key=lambda x: x['score'], reverse=True)
     report = "📋 **DETAILED QUIZ REPORT** 📋\n━━━━━━━━━━━━━━\n"
-    for u in sorted_data:
-        actual_total = u['correct'] + u['wrong'] + u['skip']
+    for u in sorted_u:
+        total = u['correct'] + u['wrong'] + u['skip']
         report += (f"👤 **{u['name']}**\n"
-                   f"📝 Total: {actual_total} Qs\n"
+                   f"📝 Total: {total} Qs\n"
                    f"✅ Correct: {u['correct']}\n"
                    f"❌ Wrong: {u['wrong']}\n"
                    f"⏩ Skipped: {u['skip']}\n"
@@ -117,28 +193,11 @@ def get_report():
                    f"━━━━━━━━━━━━━━\n")
     return report
 
-# ===== 4. QUIZ ENGINE =====
-
-@bot.message_handler(commands=['admin'])
-def admin(message):
-    user_step[message.chat.id] = "admin_key"
-    bot.send_message(message.chat.id, "🔑 **Enter Key:**")
-
-@bot.message_handler(func=lambda m: user_step.get(m.chat.id) == "admin_key")
-def check_admin(message):
-    if message.text == ADMIN_KEY:
-        user_step[message.chat.id] = "subject"
-        markup = types.ReplyKeyboardMarkup(resize_keyboard=True).add("Biology", "Math", "Reasoning", "Physics", "Chemistry")
-        bot.send_message(message.chat.id, "📚 **Subject:**", reply_markup=markup)
-
-# ... (Previous Chapter/Count/Timer handlers stay the same) ...
-# (Assuming they lead to 'ready' step)
-
-@bot.message_handler(func=lambda m: m.text == "START QUIZ 🚀")
+@bot.message_handler(func=lambda m: m.text == "START QUIZ 🚀" and user_step.get(m.chat.id) == "ready")
 def trigger_quiz(message):
     quiz_active[GROUP_ID] = True
     stop_markup = types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("🛑 STOP QUIZ", callback_data="stop_quiz"))
-    bot.send_message(message.chat.id, "🚀 Quiz started.", reply_markup=stop_markup)
+    bot.send_message(message.chat.id, "🚀 Quiz started. Use this button to stop:", reply_markup=stop_markup)
     threading.Thread(target=run_quiz, args=(message.chat.id,)).start()
 
 def run_quiz(chat_id):
@@ -159,13 +218,11 @@ def run_quiz(chat_id):
 
     for block in selected:
         if not quiz_active.get(GROUP_ID): break 
-        
         current_poll_data.update({"skip_count": 0, "voter_count": 0, "active": True})
         skipped_this_q.clear()
         
         lines = [l.strip() for l in block.split("\n") if l.strip()]
         q_timer = data.get('timer', 30)
-        # Check individual timer
         for line in lines:
             if line.lower().startswith("#time:"): q_timer = int(line.split(":")[1])
 
@@ -175,14 +232,10 @@ def run_quiz(chat_id):
         correct_idx = ord(ans) - ord("A")
 
         poll_msg = bot.send_poll(GROUP_ID, clean_q, options, type='quiz', correct_option_id=correct_idx, is_anonymous=False, open_period=q_timer)
-        
-        # ADD POLL_ID TO CALLBACK DATA
-        current_poll_data["poll_id"] = poll_msg.poll.id
-        current_poll_data["message_id"] = poll_msg.message_id
-        current_poll_data["correct_id"] = correct_idx
+        current_poll_data.update({"poll_id": poll_msg.poll.id, "message_id": poll_msg.message_id, "correct_id": correct_idx})
 
         skip_markup = types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("⏩ Skip", callback_data=f"skip_{poll_msg.poll.id}"))
-        btn_msg = bot.send_message(GROUP_ID, "Skip if you don't know:", reply_markup=skip_markup)
+        btn_msg = bot.send_message(GROUP_ID, "Skip if unsure:", reply_markup=skip_markup)
 
         start_t = time.time()
         while time.time() - start_t < q_timer:
@@ -199,6 +252,8 @@ def run_quiz(chat_id):
         time.sleep(2) 
 
     bot.send_message(GROUP_ID, get_report(), parse_mode="Markdown")
+    bot.send_message(GROUP_ID, "🏁 **Quiz Finished!**")
 
 if __name__ == "__main__":
+    bot.remove_webhook()
     bot.infinity_polling(skip_pending=True)
